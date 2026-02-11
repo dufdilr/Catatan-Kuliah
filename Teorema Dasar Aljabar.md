@@ -6,7 +6,7 @@ Setiap polinomial atas lapangan kompleks $P(x)$ dengan derajat $n$ memiliki tepa
 
 ***
 ## Definition Used 
- * [[Polinomial]]
- * [[Lapangan]]
+ * [[Buat Backup/Semester 5 1/Struktur Aljabar/Polinomial/Polinomial]]
+ * [[Buat Backup/Semester 5 1/Struktur Aljabar/Lapangan/Lapangan]]
  * [[Bilangan Kompleks]]
- * [[Akar Polinomial]]
+ * [[Buat Backup/Semester 5 1/Struktur Aljabar/Polinomial/Akar Polinomial]]

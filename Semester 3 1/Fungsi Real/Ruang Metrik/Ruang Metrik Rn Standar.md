@@ -1,2 +1,0 @@
-#Teorema #NotFinished 
-
