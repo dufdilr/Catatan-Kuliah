@@ -10,6 +10,6 @@ Untuk setiap $a, b, c \in A$, jika $aRb$ dan $bRc$ maka $aRc$
 
 ***
 ## Definition Used
-* [[Relasi Refleksif]]
-* [[Relasi Simetris]]
-* [[Relasi Transitif]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Refleksif]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Simetris]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Transitif]]

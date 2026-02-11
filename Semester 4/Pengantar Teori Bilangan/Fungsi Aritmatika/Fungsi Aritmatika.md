@@ -4,5 +4,5 @@ Fungsi yang terdefinisi di bilangan Asli $f: \mathbb{N} \to \mathbb{R}$ disebut 
 
 ***
 ## Definition Used 
- * [[Fungsi]]
- * [[Bilangan Asli]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+ * [[Buat Backup/Prerquested/Bilangan Asli]]

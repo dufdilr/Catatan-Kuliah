@@ -27,4 +27,4 @@ $$
 
 ***
 ## Definition Used:
-* [[Ruang Hasil Kali Dalam]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Hasil Kali Dalam]]

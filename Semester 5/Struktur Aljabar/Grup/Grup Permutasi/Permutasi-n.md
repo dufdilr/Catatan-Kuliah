@@ -4,4 +4,4 @@ Untuk setiap bilangan asli $n$, misalkan $\mathbb{N}_{n} := \{ 1, 2, \cdots n \}
 
 ***
 ## Definition Used 
- * [[Fungsi Bijektif]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]

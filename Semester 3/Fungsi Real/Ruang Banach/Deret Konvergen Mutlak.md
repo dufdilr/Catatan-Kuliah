@@ -13,5 +13,5 @@ adalah deret konvergen.
 
 ***
 ## Definition Used 
- * [[Deret Konvergen]]
- * [[Ruang Bernorm]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Banach/Deret Konvergen]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Bernorm]]

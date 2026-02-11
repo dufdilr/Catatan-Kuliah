@@ -25,6 +25,6 @@ Lebih lengkap, Misalkan $F$ adalah sebuah himpunan yang dilengkapi dengan dua op
 ***
 
 ## Definition Used 
- * [[Gelanggang Komutatif]]
- * [[Gelanggang Unit]]
- * [[Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Unit]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]

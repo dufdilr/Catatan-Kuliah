@@ -26,15 +26,15 @@ $$
 	 $$
 f(x) = q(x) (x-c)^m
 $$
-		dengan $q(c) \neq 0$. Karena $q(c) \neq 0$. Lebih lanjut, karena $R$ adalah daerah integral, berdasarkan [[Derajat Hasil Operasi Polinomial|teorema]] maka $\deg f = \deg q(x) + \deg (x-c)^m = \deg q(x) + m$. Artinya $\deg q(x) = \deg f - \deg (x - c)^m = n - m < n$. 
+		dengan $q(c) \neq 0$. Karena $q(c) \neq 0$. Lebih lanjut, karena $R$ adalah daerah integral, berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Derajat Hasil Operasi Polinomial|teorema]] maka $\deg f = \deg q(x) + \deg (x-c)^m = \deg q(x) + m$. Artinya $\deg q(x) = \deg f - \deg (x - c)^m = n - m < n$. 
 	
 		Berdasarkan hipotesa induksi, maka $q(x)$ memiliki paling banyak $n - m$ jumlah multiplisitas akar. Akibatnya $f(x)$ memiliki paling banyak $(n-m)+m = n = \deg f$ jumlah multiplisitas akarnya.
 
 	Untuk kedua kasus, terbukti $P(n)$ benar
 
-Berdasarkan [[Prinsip Induksi Matematika]] maka $P(n)$ benar untuk setiap $n \in \mathbb{N}$.
+Berdasarkan [[Buat Backup/Prerquested/Prinsip Induksi Matematika]] maka $P(n)$ benar untuk setiap $n \in \mathbb{N}$.
 
 ***
 ## Definition Used 
- * [[Polinomial Daerah Integral]]
- * [[Akar Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Polinomial Daerah Integral]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Akar Polinomial]]

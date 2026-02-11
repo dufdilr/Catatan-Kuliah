@@ -4,6 +4,6 @@ Graf $G(V, E, \phi)$ disebut **pohon/tree** jika graf tersebut *asiklik* dan *te
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Graf Asiklik]]
-* [[Graf Terhubung]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/2. Tree/Graf Asiklik]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf Terhubung]]

@@ -22,9 +22,9 @@ Perhatikan bahwa $I_{1}$ dan $I_{2}$ ideal. Karena $x_{1}, y_{1} \in I_{1}$ dan 
 $$
 x-y, xr, rx \in I_{1}+I_{2}
 $$
-Berdasarkan [[Karakterisasi Ideal]] maka $I_{1}+I_{2}$ membentuk ideal dari $A$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Karakterisasi Ideal]] maka $I_{1}+I_{2}$ membentuk ideal dari $A$.
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]

@@ -9,6 +9,6 @@ P\left(\bigcup_{i}A_{i}\right) = \sum_{{i}} P(A_{i})
 $$
 ***
 ## Definition Used:
-* [[Aljabar Sigma]]
-* [[Himpunan Terhitung]]
-* [[Himpunan Saling Lepas]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aljabar Sigma]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan Terhitung]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan Saling Lepas]]

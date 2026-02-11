@@ -14,5 +14,5 @@ $$
 $A$ disebut himpunan pembangun dari  $\langle A \rangle$.
 ***
 ## Definition Used
-* [[Grup]]
-* [[Himpunan]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]

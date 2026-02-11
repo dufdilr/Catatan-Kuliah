@@ -1,6 +1,6 @@
 Misalkan $f(x)$ fungsi real kontinu di interval $[a, b]$ dengan $f(a) \cdot f(b) < 0$. Berdasarkan [[Teorema Nilai Antara]] terdapat $c \in [a, b]$ sehingga $f(c) = 0$.
 
-Berdasarkan teorema tersebut, dapat dibentuk **Metode Bisection** yakni metode untuk mencari akar persamaan $f(x) = 0$ dengan menguji titik tengah $a$ dan $b$ yakni $c = \frac{a + b}{2}$. Iterasi berakhir jika [[Galat#Galat Mutlak|galat mutlak]] kurang dari batas galat.  
+Berdasarkan teorema tersebut, dapat dibentuk **Metode Bisection** yakni metode untuk mencari akar persamaan $f(x) = 0$ dengan menguji titik tengah $a$ dan $b$ yakni $c = \frac{a + b}{2}$. Iterasi berakhir jika [[Buat Backup/Semester 5/Matematika Numerik/1. Pendahuluan/Galat#Galat Mutlak|galat mutlak]] kurang dari batas galat.  
 
 Algoritma untuk metode Bisection adalah
 ```

@@ -6,5 +6,5 @@ $$
 $$
 ---
 ## Bukti
-Misalkan $\text{ord}(G) = n$. Ambil $a \in G$. Tinjau $A = \{ a, a^2, a^3, \dots, a^n, a^{n+1} \}$. Jelas $A \subseteq G$. Artinya $|A| \le n$. Berdasarkan [[Prinsip Sarang Merpati]], maka terdapat $i, j$ dengan $i \neq j$ sehingga $a^i = a^j$.
+Misalkan $\text{ord}(G) = n$. Ambil $a \in G$. Tinjau $A = \{ a, a^2, a^3, \dots, a^n, a^{n+1} \}$. Jelas $A \subseteq G$. Artinya $|A| \le n$. Berdasarkan [[Buat Backup/Prerquested/Relasi dan Fungsi/Prinsip Sarang Merpati]], maka terdapat $i, j$ dengan $i \neq j$ sehingga $a^i = a^j$.
 Tanpa mengurangi keumuman, misalkan $i > j$. Misalkan pula $k = i - j$. Misalkan $e = a^k$. Akan ditunjukkan $e$ adalah elemen identitas.

@@ -9,6 +9,6 @@ Lebih lanjut, jika terdapat bilangan asli $r$ yang memenuhi maka $n$ disebut **m
 ***
 
 ## Definition Used 
- * [[Relatif Prima]]
- * [[Orde Modulo]]
- * [[Fungsi Euler-Phi]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Relatif Prima]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Orde Modulo]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Fungsi Euler-Phi]]

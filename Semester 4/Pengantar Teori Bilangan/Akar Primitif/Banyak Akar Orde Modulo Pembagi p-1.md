@@ -7,7 +7,7 @@ $$
 
 ***
 ## Bukti
-Misalkan $F(d)$ adalah banyak bilangan asli $k < p$ sehingga $\text{ord}_{p}(k) = d$.  Perhatikan bahwa jika $(a, p) = 1$ [[Teorema Euler (Modulo)|maka]] $a^{p-1} \equiv 1 \mod p$. Berdasarkan [[Persamaan Diophantine Modulo Pangkat|teorema]] maka
+Misalkan $F(d)$ adalah banyak bilangan asli $k < p$ sehingga $\text{ord}_{p}(k) = d$.  Perhatikan bahwa jika $(a, p) = 1$ [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Teorema Euler (Modulo)|maka]] $a^{p-1} \equiv 1 \mod p$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Persamaan Diophantine Modulo Pangkat|teorema]] maka
 $$
 \text{ord}_{p}(a) \mid p-1
 $$
@@ -15,16 +15,16 @@ Perhatikan bahwa untuk setiap $k < p$ berlaku $(p, k) = 1$. Artinya setiap bilan
 $$
 \sum_{d\mid p-1}F(d) = p - 1
 $$
-Perhatikan pula bahwa [[Summation Aritmatika dari Euler|teorema]]
+Perhatikan pula bahwa [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Summation Aritmatika dari Euler|teorema]]
 $$
 \sum_{d \mid p-1} \varphi(d) = p-1
 $$
-Berdasarkan [[Teorema Inversi Mobius]] maka $F(d) = \varphi(d)$. Terbukti.
+Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Teorema Inversi Mobius]] maka $F(d) = \varphi(d)$. Terbukti.
 
 ***
 ## Definition Used 
- * [[Bilangan Prima]]
- * [[Orde Modulo]]
- * [[Fungsi Euler-Phi]]
- * [[Fungsi Summation Aritmatika]]
- * [[Teorema Inversi Mobius]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Bilangan Prima]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Orde Modulo]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Fungsi Euler-Phi]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Summation Aritmatika]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Teorema Inversi Mobius]]

@@ -7,6 +7,6 @@ Kemudian, himpunan titik interior dari $E$ biasa dituliskan sebagai $E^o$
 ***
 
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Bola Buka]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Bola Buka]]
 

@@ -16,7 +16,7 @@ Lebih lanjut, $(\mathbb{N}, \le)$ membentuk *urutan parsial*.
 
 ---
 ## Bukti
-Serupa dengan bukti [[Urutan Bilangan Real]]
+Serupa dengan bukti [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Urutan Bilangan Real]]
 ### Refleksif
 Ambil $a \in \mathbb{R}$. Jelas $a-a = 0 \in \mathbb{N}_{0}$. Maka $a \le a$. Terbukti $\le$ refleksif.
 
@@ -31,5 +31,5 @@ $$
 Berarti $a \le c$. Terbukti $\le$ bersifat transitif.
 ***
 ## Definition Used 
- * [[Aksioma Bilangan Real]]
- * [[Relasi Urutan Parsial]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Urutan Parsial]]

@@ -6,5 +6,5 @@ $$
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Homomorfisma (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Homomorfisma (Ring)]]

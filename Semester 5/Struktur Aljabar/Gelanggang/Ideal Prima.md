@@ -4,5 +4,5 @@ Misalkan $R$ adalah suatu gelanggang dan $I \subsetneq$ adalah Ideal Sejati dari
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Ideal Sejati]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Sejati]]

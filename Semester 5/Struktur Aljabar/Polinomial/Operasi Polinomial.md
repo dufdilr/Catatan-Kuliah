@@ -18,5 +18,5 @@ $$
 
 ***
 ## Definition Used 
- * [[Polinomial]]
- * [[Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]

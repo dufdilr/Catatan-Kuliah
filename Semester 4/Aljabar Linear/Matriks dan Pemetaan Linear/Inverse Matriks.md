@@ -17,6 +17,6 @@ $$
 $$
 ***
 ## Definition Used 
- * [[Matriks]]
- * [[Operasi Matriks]]
- * [[Matriks Identitas dan Matriks Nol]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Operasi Matriks]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Identitas dan Matriks Nol]]

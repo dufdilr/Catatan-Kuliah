@@ -4,5 +4,5 @@ Misalkan $S$ suatu himpunan. $S$ dikatakan himpunan **denumerable/ternomorkan** 
 
 ***
 ## Definition Used
-* [[Himpunan]]
-* [[Fungsi Bijektif]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]

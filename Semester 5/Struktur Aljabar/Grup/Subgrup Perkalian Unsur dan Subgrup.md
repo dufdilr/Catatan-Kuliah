@@ -15,9 +15,9 @@ x-y &= ga_{1}g^{-1}-ga_{2}g^{-1} =g(a_{1}-a_{2})g^{-1} \\
 xy &= ga_{1}g^{-1} ga_{2}g^{-1} = g(a_{1}a_{2})g^{-1}
 \end{align*}
 $$
-Karena $A$ adalah subgrup dari $G$ maka $a_{1}-a_{2},a_{1}a_{2} \in A$. Akibatnya $x-y, xy \in gAg^{-1}$. Berdasarkan [[Karakterisasi Subgrup]] maka $gAg^{-1}$ membentuk subgrup dari $G$.
+Karena $A$ adalah subgrup dari $G$ maka $a_{1}-a_{2},a_{1}a_{2} \in A$. Akibatnya $x-y, xy \in gAg^{-1}$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Karakterisasi Subgrup]] maka $gAg^{-1}$ membentuk subgrup dari $G$.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]

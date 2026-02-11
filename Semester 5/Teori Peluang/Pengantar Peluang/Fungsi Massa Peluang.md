@@ -7,5 +7,5 @@ $$
 
 ***
 ## Definition Used
-* [[Peubah Acak Diskrit]]
-* [[Fungsi Peluang]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Peubah Acak Diskrit]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Fungsi Peluang]]

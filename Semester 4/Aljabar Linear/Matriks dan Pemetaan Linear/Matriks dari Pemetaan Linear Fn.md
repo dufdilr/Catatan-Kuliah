@@ -44,6 +44,6 @@ Terbukti terdapat matriks $\mathbf{A_T} \in M_{m \times n}(\mathbb{F})$ sehingga
 
 ***
 ## Definition Used 
- * [[Ruang Vektor Fn]]
- * [[Pemetaan Linear]]
- * [[Matriks]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor Fn]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]

@@ -11,4 +11,4 @@ $$
 
 ***
 ## Definition Used 
- * [[Fungsi]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

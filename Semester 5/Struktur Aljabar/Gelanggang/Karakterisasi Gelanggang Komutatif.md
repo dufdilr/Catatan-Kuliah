@@ -31,4 +31,4 @@ Terbukti $R$ adalah gelanggang komutatif.
 
 ***
 ## Definition Used 
- * [[Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]

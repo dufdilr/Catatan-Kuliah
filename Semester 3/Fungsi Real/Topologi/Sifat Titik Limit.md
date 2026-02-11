@@ -12,7 +12,7 @@ Misalkan $(x, d)$ suatu ruang metrik dan $E$ subhimpunan dari $X$. Maka ketiga p
 ###  **$1\Rightarrow 2$**:
 Ambil $x \in E'$. Artinya $B(x,\ 1/n)\cap (E/\{x\}) \neq \emptyset$. Pilih
     $$x_n \in B\left(x,\ \frac{1}{n}\right)\cap (E/\{x\})$$
-    Selanjutnya akan ditunjukkan . Ambil . Berdasarkan [[Sifat Archimedean]], terdapat $N \in \mathbb{N}$ sehingga $N > 1/\varepsilon$. Perhatikan bahwa untuk setiap $n \ge N$
+    Selanjutnya akan ditunjukkan . Ambil . Berdasarkan [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Sifat Archimedean]], terdapat $N \in \mathbb{N}$ sehingga $N > 1/\varepsilon$. Perhatikan bahwa untuk setiap $n \ge N$
     $$d(x_n, x) < \frac{1}{n} \le \frac{1}{N} < \varepsilon$$
     Terbukti bahwa $x_n \to x$.
 
@@ -34,7 +34,7 @@ Ambil $\varepsilon > 0$. Karena $|B(x, \varepsilon) \cap E| = \infty$ maka $|B(x
 ***
 
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Titik Limit|Titik Limit]]
- * [[Bola Buka]]
- * [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Titik Limit|Titik Limit]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Bola Buka]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]

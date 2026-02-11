@@ -5,5 +5,5 @@ Misalkan $R$ suatu gelanggang dan $I$ adalah ideal dari $R$. Ideal $I$ disebut *
 ***
 
 ## Definition Used 
- * [[Gelanggang]]
- * [[Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]

@@ -6,14 +6,14 @@ $$
 
 ---
 ## Bukti
-Tinjau $A = \left< a \right>$ sebagai [[Subgrup Terbangun]] dari $G$. Berdasarkan [[Teorema Lagrange]], maka
+Tinjau $A = \left< a \right>$ sebagai [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Terbangun]] dari $G$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Teorema Lagrange]], maka
 $$
 \text{ord}(A) \mid \text{ord}(G)
 $$
-Berdasarkan [[Karakterisasi Grup Siklik]], maka $\text{ord}(a) = \text{ord}(A)$. Terbukti $\text{ord}(a) \mid \text{ord}(G)$
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Karakterisasi Grup Siklik]], maka $\text{ord}(a) = \text{ord}(A)$. Terbukti $\text{ord}(a) \mid \text{ord}(G)$
 
 ***
 ## Definition Used 
- * [[Subgrup Terbangun]]
- * [[Orde Grup]]
- * [[Order Unsur Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Terbangun]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Orde Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Order Unsur Grup]]

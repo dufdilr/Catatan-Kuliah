@@ -8,4 +8,4 @@ Suatu sisi $e \in E$ dikatakan **berinsidensi** dengan $v$ apabila $v \in \phi(e
 
 ***
 ## Definition Used
-* [[Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]

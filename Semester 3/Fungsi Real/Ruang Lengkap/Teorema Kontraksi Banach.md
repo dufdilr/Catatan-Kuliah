@@ -43,6 +43,6 @@ Karena $\alpha \in [0, 1)$ maka haruslah $d(x^*, x') = 0$. Artinya $x^* = x'$. T
 ***
 
 ## Definition Used 
- * [[Ruang Metrik Lengkap]]
- * [[Fungsi Kontraksi]]
- * [[Titik Tetap]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Lengkap/Ruang Metrik Lengkap]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Fungsi Kontraksi]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Titik Tetap]]

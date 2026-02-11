@@ -4,6 +4,6 @@ Suatu fungsi $f : A \to B$ disebut **bijektif** jika $f$ surjektif dan injektif.
 
 ***
 ## Definition Used:
-* [[Fungsi]]
-* [[Fungsi Injektif]]
-* [[Fungsi Surjektif]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Injektif]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Surjektif]]

@@ -10,5 +10,5 @@ $$
 
 ***
 ## Definition Used:
-* [[Himpunan]]
-* [[Aljabar (Ukuran)]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aljabar (Ukuran)]]

@@ -53,7 +53,7 @@ f(x) = g(x)q(x) + r(x)
 $$
 	Terbukti terdapat $q(x), r(x)$ yang memenuhi
 
-	Berdasarkan [[Prinsip Induksi Matematika]] maka $P(n)$ benar untuk setiap $n \in \mathbb{N}$. Artinya terbukti jika $\deg g \le \deg f$ terdapat $q(x)$ dan $r(x)$ yang memenuhi.
+	Berdasarkan [[Buat Backup/Prerquested/Prinsip Induksi Matematika]] maka $P(n)$ benar untuk setiap $n \in \mathbb{N}$. Artinya terbukti jika $\deg g \le \deg f$ terdapat $q(x)$ dan $r(x)$ yang memenuhi.
 
 
 Maka untuk kedua kasus, telah ditunjukkan eksistensi $q(x)$ dan $r(x)$ yang memenuhi. Akan ditunjukkan terkait dengan ketunggalan $q(x)$ dan $r(x)$. Misalkan
@@ -77,8 +77,8 @@ Terbukti ketunggalan.
 
 ***
 ## Definition Used 
- * [[Algoritma Pembagian]]
- * [[Gelanggang Polinomial]]
- * [[Unsur Unit (Ring)]]
- * [[Gelanggang Komutatif]]
- * [[Gelanggang Unit]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Algoritma Pembagian]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Gelanggang Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Unit]]

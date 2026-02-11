@@ -54,6 +54,6 @@ $$
 
 ***
 ## Definition Used 
- * [[Matriks]]
- * [[Operasi]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Operasi]]
  

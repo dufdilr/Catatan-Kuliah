@@ -5,4 +5,4 @@ Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$. Subhimpunan takkosong $U \sub
 ***
 
 ## Definition Used
-* [[ Ruang Vektor]]
+* [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]

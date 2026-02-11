@@ -7,7 +7,7 @@ H^+ &= \{  \textbf{x} \ | \ \langle \textbf{n}, \textbf{x} \rangle > k \} \\
 H^- &= \{  \textbf{x} \ | \ \langle \textbf{n}, \textbf{x} \rangle < k \}
 \end{align*}
 $$
-Lebih lanjut, **Half Space Tutup** didefinisikan sebagai [[Penutup Himpunan|*penutup*]] dari half space. Dengan kata lain
+Lebih lanjut, **Half Space Tutup** didefinisikan sebagai [[Buat Backup/Semester 3/Fungsi Real/Topologi/Penutup Himpunan|*penutup*]] dari half space. Dengan kata lain
 $$
 \begin{align*}
 \overline{H^+} &= \{  \textbf{x} \ | \ \langle \textbf{n}, \textbf{x} \rangle \ge k \} \\
@@ -17,6 +17,6 @@ $$
 
 ***
 ## Definition Used
-* [[Ruang Hasil Kali Dalam]]
-* [[Hyperplane]]
-* [[Penutup Himpunan]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Hasil Kali Dalam]]
+* [[Buat Backup/Semester 5/Pengantar Optimasi/Pengantar/Hyperplane]]
+* [[Buat Backup/Semester 3/Fungsi Real/Topologi/Penutup Himpunan]]

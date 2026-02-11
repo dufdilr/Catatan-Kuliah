@@ -1,6 +1,6 @@
 #Teorema
 
-Misalkan $(x_{n}) \subseteq \mathbb{X}$ adalah barisan yang [[Barisan Konvergen (Metrik)|konvergen]]. Jika $x_n \to x$ dan $x_n \to x'$, maka haruslah $x = x'$.
+Misalkan $(x_{n}) \subseteq \mathbb{X}$ adalah barisan yang [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|konvergen]]. Jika $x_n \to x$ dan $x_n \to x'$, maka haruslah $x = x'$.
 
 ---
 ## Bukti
@@ -13,10 +13,10 @@ $$
 $$
 Pilih $N = \max(N_1, N_2)$. Berdasarkan ketaksamaan segitiga maka 
 $$d(x, x') \le d(x, x_N) + d(x_N, x') < \frac{\varepsilon}{2} + \frac{\varepsilon}{2} = \varepsilon$$
-Karena $\forall \varepsilon >0$ berlaku $d(x, x') < \varepsilon$ [[Teorema Karakterisasi Nol|maka]] dapat disimpulkan:
+Karena $\forall \varepsilon >0$ berlaku $d(x, x') < \varepsilon$ [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Teorema Karakterisasi Nol|maka]] dapat disimpulkan:
 $$d(x, x') = 0 \quad \Rightarrow \quad x = x'$$
 Ini membuktikan bahwa limit dari sebuah barisan adalah tunggal. ■
 
 ***
 ## Definition Used:
-* [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]

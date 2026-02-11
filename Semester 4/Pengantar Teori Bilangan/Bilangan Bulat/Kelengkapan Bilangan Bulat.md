@@ -15,7 +15,7 @@ S := \{ M - a + 1 \ | \ a \in A \}
 $$
 Ambil sebarang $s \in S$. Maka $s = M - a + 1$ untuk suatu $a \in A$. Karena $a \le M$, maka $M - a \ge 0$. Artinya, $M - a + 1 \in \mathbb{N}$. Akibatnya, $S \subseteq \mathbb{N}$. Karena $A \neq \emptyset$, maka $S \neq \emptyset$.
 
-Berdasarkan [[Aksioma Urutan Sempurna]], maka $A$ memiliki unsur terkecil. Misalkan $s_0 = \min(S)$.
+Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Urutan Sempurna]], maka $A$ memiliki unsur terkecil. Misalkan $s_0 = \min(S)$.
 Karena $s_0 \in S$, terdapat $a_0 \in A$ sehingga $s_0 = M - a_0 + 1$.
 
 Akan ditunjukkan bahwa $a_0 = \max(A)$.
@@ -38,7 +38,7 @@ T := \{ a - m + 1 \ | \ a \in A \}
 $$
 Ambil sebarang $t \in T$. Maka $t = a - m + 1$ untuk suatu $a \in A$. Karena $a \ge m$, maka $a - m \ge 0$. Sehingga $t \in \mathbb{N}$. Akibatnya, $T \subseteq \mathbb{N}$. Karena $A \neq \emptyset$, maka $T \neq \emptyset$.
 
-Berdasarkan [[Aksioma Urutan Sempurna]], $T$ memiliki unsur terkecil. Misalkan $t_0 = \min(T)$.
+Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Urutan Sempurna]], $T$ memiliki unsur terkecil. Misalkan $t_0 = \min(T)$.
 Karena $t_0 \in T$, terdapat $a_0 \in A$ sehingga $t_0 = a_0 - m + 1$.
 
 Akan ditunjukkan bahwa $a_0 = \min(A)$.
@@ -56,7 +56,7 @@ Terbukti.
 
 ***
 ## Definition Used
-* [[Aksioma Bilangan Bulat]]
-* [[Aksioma Urutan Sempurna]]
-* [[Urutan Bilangan Bulat]]
-* [[Himpunan]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Bilangan Bulat]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Urutan Sempurna]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Urutan Bilangan Bulat]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]

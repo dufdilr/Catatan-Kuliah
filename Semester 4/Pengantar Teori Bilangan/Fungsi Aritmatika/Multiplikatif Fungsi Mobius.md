@@ -1,6 +1,6 @@
 #Teorema 
 
-[[Fungsi Mobius]] adalah fungsi [[Fungsi Multiplikatif|multiplikatif]]
+[[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Mobius]] adalah fungsi [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Multiplikatif|multiplikatif]]
 
 ---
 ## Bukti
@@ -30,5 +30,5 @@ $$
 Terbukti untuk semua kasus, berlaku $\mu(mn) = \mu(m) \mu(n)$. Berarti fungsi mobius adalah **fungsi multiplikatif**.
 ***
 ## Definition Used 
- * [[Fungsi Mobius]]
- * [[Fungsi Multiplikatif]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Mobius]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Multiplikatif]]

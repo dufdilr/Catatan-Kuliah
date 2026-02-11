@@ -4,5 +4,5 @@ Misalkan $G(V, E, \phi)$ suatu graf. Titik $u, v \in V$ dikatakan **terhubung** 
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Path (Graf)|Path]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Path (Graf)|Path]]

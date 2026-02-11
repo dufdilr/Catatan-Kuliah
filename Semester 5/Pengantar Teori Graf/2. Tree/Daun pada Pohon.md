@@ -38,8 +38,8 @@ Karena $P$ path jelas $u \neq v$. Terbukti $G$ memiliki setidaknya dua buah daun
 
 ## Definition Used
 
-* [[Pohon (Graf)]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/2. Tree/Pohon (Graf)]]
 
-* [[Daun (Graf)]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/2. Tree/Daun (Graf)]]
 
-* [[Path (Graf)]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Path (Graf)]]

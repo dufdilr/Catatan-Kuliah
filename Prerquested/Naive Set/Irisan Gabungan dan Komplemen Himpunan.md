@@ -20,4 +20,4 @@ Misalkan $A$ dan $B$ suatu himpunan. Didefinisikan
 
 ***
 ## Definition Used
-* [[Himpunan]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]

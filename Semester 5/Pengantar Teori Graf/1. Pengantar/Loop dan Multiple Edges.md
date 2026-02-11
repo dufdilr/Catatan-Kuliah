@@ -8,4 +8,4 @@ Misalkan $G( V, E, \phi)$ adalah suatu graf.
 
 ***
 ## Definition Used:
-* [[Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]

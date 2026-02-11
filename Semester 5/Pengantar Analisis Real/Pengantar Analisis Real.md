@@ -1,7 +1,7 @@
 #Rangkuman #NotFinished 
 
 # Aksioma Bilangan Real
-## [[Aksioma Bilangan Real]]
+## [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
 Himpunan $\mathbb{R}$ dilengkapi dengan operasi $+$ dan $\times$ didefinisikan sebagai himpunan yang memenuhi aksioma berikut:
 1. **Aksioma Lapangan**
 	1. **Asosiatif Penjumlahan**
@@ -42,7 +42,7 @@ Himpunan $\mathbb{R}$ dilengkapi dengan operasi $+$ dan $\times$ didefinisikan s
 3. **Aksioma Kelengkapan**
 	Untuk setiap $A \subseteq \mathbb{R}$ yang terbatas di bawah maka terdapat $a \in \mathbb{R}$ sehingga $a = \inf(A)$. 
 
-## [[Urutan Bilangan Real]]
+## [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Urutan Bilangan Real]]
 Berdasarkan aksioma, misalkan $\mathbb{P} \subseteq \mathbb{R}$  adalah himpunan yang memenuhi aksioma urutan. Definisikan relasi 
 $$
 a < b \iff b-a \in \mathbb{P}
@@ -60,17 +60,17 @@ Lebih lanjut, $(\mathbb{R}, \le)$ membentuk *urutan parsial*, yakni
 2. **Anti-simetris**: Untuk setiap $a, b \in \mathbb{R}$ berlaku: Jika $a \le b$ dan $b \le a$ maka $a = b$.
 3. **Transitif**: Untuk setiap $a, b, c \in \mathbb{R}$ berlaku: Jika $a \le b$ dan $b \le c$ maka $a \le c$
 
-### [[Sifat Urutan Keras Bilangan Real]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Sifat Urutan Keras Bilangan Real]]
 Misalkan $a, b, c \in \mathbb{P}$ maka berlaku
 1. **Transitif:** Jika $a > b$ dan $b > c$ maka $a > c$.
 2. **Penjumlahan:** Jika $a > b$ maka $a + c > b + c$
 3. **Perkalian Positif:** Jika $a > b$ dan $c > 0$ maka $ac > bc$
 4. **Perkalian Negatif:** Jika $a > b$ dan $c < 0$ maka $ac < bc$
 
-### [[Ketaksamaan Trivial Kuadrat]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Ketaksamaan Trivial Kuadrat]]
 Untuk setiap $x \in \mathbb{R}$ berlaku $x^2 \ge 0$. Lebih lanjut, $x^2 = 0$ jika dan hanya jika $x = 0$.
 
-## [[Nilai Mutlak]]
+## [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Nilai Mutlak]]
 Misalkan $x \in \mathbb{R}$. Definisikan nilai mutlak dari $x$ sebagai
 $$
 |x| := 
@@ -79,43 +79,43 @@ x, & \text{ jika } x \ge 0 \\ \\
 -x, & \text{ jika } x < 0
 \end{cases}
 $$
-### [[Sifat Nilai Mutlak]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Sifat Nilai Mutlak]]
 Untuk setiap $x, y \in \mathbb{R}$ dan $a > 0$ berlaku
 1. $|x| \ge 0$
 2. $|x|\cdot |y| = |xy|$
 3. $|x| \le a \iff -a \le x \le a$
 4. $-|x|\le x \le |x|$
 
-### [[Ketaksamaan Segitiga Nilai Mutlak]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Ketaksamaan Segitiga Nilai Mutlak]]
 Misalkan $x, y \in \mathbb{R}$. Berlaku
 $$
 |x + y| \le |x| + |y|
 $$
 
-### [[Generalisasi Ketaksamaan Segitiga Nilai Mutlak]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Generalisasi Ketaksamaan Segitiga Nilai Mutlak]]
 Misalkan $x_{1}, x_{2}, x_{3}, \dots , x_n \in \mathbb{R}$ maka
 $$
 |x_{1}+x_{2}+x_{3}+\dots+x_n| \le |x_{1}| + |x_{2}|+\cdots + |x_n|
 $$
 
-## [[Himpunan Terbatas di Atas]]
+## [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Himpunan Terbatas di Atas]]
 Misalkan $\emptyset \subseteq A \subseteq \mathbb{R}$. Himpunan $A$ disebut **terbatas di atas** jika terdapat $u \in \mathbb{R}$ sehingga untuk setiap $x \in A$ berlaku
 $$
 u \ge x
 $$
 Lebih lanjut $u$ disebut **batas atas** dari $A$.
 
-### [[Himpunan Terbatas di Bawah]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Himpunan Terbatas di Bawah]]
 Misalkan $\emptyset \subseteq A \subseteq \mathbb{R}$. Himpunan $A$ disebut **terbatas di bawah** jika terdapat $a \in \mathbb{R}$ sehingga untuk setiap $x \in A$ berlaku
 $$
 a \le x
 $$
 Lebih lanjut, $a$ disebut **batas bawah** dari $A$.
 
-### [[Himpunan Terbatas]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Himpunan Terbatas]]
 Misalkan $\emptyset \subseteq A \subseteq \mathbb{R}$. Himpunan $A$ disebut **terbatas** jika $A$  terbatas di atas dan terbatas di bawah.
 
-### [[Supremum]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Supremum]]
 Misalkan $\emptyset \subseteq A \subseteq \mathbb{R}$. Elemen $a \in \mathbb{R}$ disebut **supremum** dari $A$ (notasi: $a = \sup(A)$) apabila
 1. Elemen $a$ adalah batas atas dari $A$ dengan kata lain, untuk setiap $x \in A$ berlaku
 $$
@@ -125,7 +125,7 @@ $$
 
 Dengan kata lain, supremum adalah *batas atas terkecil*.
 
-### [[Infimum]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Infimum]]
 Misalkan $\emptyset \subseteq A \subseteq \mathbb{R}$. Elemen $a \in \mathbb{R}$ disebut **infimum** dari $A$ (notasi: $a = \inf(A)$) apabila
 1. Elemen $a$ adalah batas bawah dari $A$ dengan kata lain, untuk setiap $x \in A$ berlaku
 $$
@@ -135,22 +135,22 @@ $$
 
 Dengan kata lain, infimum adalah *batas bawah terbesar*
 
-### [[Eksistensi Supremum dan Infimum]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Eksistensi Supremum dan Infimum]]
 Misalkan $\emptyset \subseteq A \subseteq \mathbb{R}$. Jika $A$ terbatas di bawah maka $A$ memiliki infimum. Lebih lanjut, jika $A$ terbatas di atas maka $A$ memiliki supremum.
 
-### [[Perbandingan Infimum dan Supremum]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Perbandingan Infimum dan Supremum]]
 Misalkan $A, B$ subhimpunan tak-kosong dari $\mathbb{R}$. Jika untuk setiap $a\in A$ dan $b\in B$ berlaku
 $$
 a \le b
 $$
 Maka $A$ memiliki supremum dan $B$ memiliki infimum dengan $\sup A \le \inf B$.
 
-## [[Fungsi Real Terbatas]]
+## [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Fungsi Real Terbatas]]
 Misalkan $A$ subhimpunan tak-kosong dari $\mathbb{R}$ dan fungsi $f: A \to \mathbb{R}$. 
 1. Fungsi $f$ disebut **terbatas di atas** jika $f(A)$ terbatas di atas. Lebih lanjut, $\sup f = \sup f(A)$.
 2. Fungsi $f$ disebut **terbatas di bawah** jika $f(A)$ terbatas di bawah. Lebih lanjut, $\inf f = \inf f(A)$.
 3. Fungsi $f$ disebut **terbatas** jika $f(A)$ terbatas.
-### [[Supremum dan Infimum Fungsi]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Supremum dan Infimum Fungsi]]
 Misalkan $A$ subhimpunan takkosong dari $\mathbb{R}$ dan $f, g:A \to \mathbb{R}$ fungsi terbatas dengan 
 $$
 f(x) \le g(x)
@@ -160,10 +160,10 @@ untuk setiap $x \in A$. Maka
 2. $\inf f \le \inf g$
 
 
-## [[Sifat Archimedean]]
+## [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Sifat Archimedean]]
 Untuk setiap bilangan real $x, y \in \mathbb{R}$ dengan $x > 0$ terdapat $M \in \mathbb{N}$ sehingga $Mx > y$.
 
-### [[Fungsi Tangga]]
+### [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Fungsi Tangga]]
 Misalkan $x \in \mathbb{R}$. Definisikan
 $$
 \begin{align*}

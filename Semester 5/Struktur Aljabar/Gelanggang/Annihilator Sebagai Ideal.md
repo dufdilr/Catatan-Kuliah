@@ -14,6 +14,6 @@ Maka $\text{ann}(a)$ membentuk ideal dari $R$.
 
 ***
 ## Definition Used 
- * [[Gelanggang Komutatif]]
- * [[Annihilator Gelanggang]]
- * [[Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Annihilator Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]

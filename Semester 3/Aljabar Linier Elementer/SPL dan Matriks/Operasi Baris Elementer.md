@@ -41,4 +41,4 @@ $$
 $$
 ***
 ## Definition Used 
- * [[Matriks]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]

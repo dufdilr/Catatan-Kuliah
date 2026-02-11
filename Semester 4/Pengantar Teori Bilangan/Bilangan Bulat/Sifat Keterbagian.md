@@ -67,4 +67,4 @@ Jadi, terbukti bahwa **$m = \pm n$**.
 
 ***
 ## Definition used:
-* [[Keterbagian]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]

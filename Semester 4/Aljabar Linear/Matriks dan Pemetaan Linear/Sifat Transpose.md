@@ -29,7 +29,7 @@ Karena berlaku untuk setiap entri $(i, j)$, maka terbukti $(\mathbf{AB})^T = \ma
 
 ***
 ## Definition Used
- * [[Matriks]]
- * [[Matriks Transpose]]
- * [[Gelanggang Komutatif]]
- * [[Operasi Matriks]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Transpose]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Operasi Matriks]]

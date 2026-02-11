@@ -31,6 +31,6 @@ $$
 
 ***
 ## Definition Used 
- * [[Fungsi Terbatas]]
- * [[Supremum]]
- * [[Infimum]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Fungsi Terbatas]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Supremum]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Infimum]]

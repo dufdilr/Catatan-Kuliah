@@ -27,6 +27,6 @@ Terbukti bahwa $S+T, \ \alpha T \in \mathcal{L}(V, W)$. Maka kedua operasi terse
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Pemetaan Linear]]
- * [[Operasi]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Operasi]]

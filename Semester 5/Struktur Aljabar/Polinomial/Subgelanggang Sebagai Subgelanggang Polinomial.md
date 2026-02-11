@@ -22,10 +22,10 @@ d_k &= \sum_{i = 0}^k a_ib_{k-i}
 $$
 Perhatikan bahwa $S$ adalah subgelanggang dari $R$ dan $a_i, b_j \in S$ untuk setiap $i, j \in \mathbb{N}$. Artinya $a_k-b_k, \sum a_ib_{k-i} \in S$. Maka $c_k, d_k \in S$ untuk setiap $k \in \mathbb{N}$. Artinya $f(x)-g(x), f(x)g(x) \in S$.
 
-Berdasarkan [[Karakterisasi Subgelanggang]] maka $S[x]$ membentuk subgelanggang dari $R[x]$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Karakterisasi Subgelanggang]] maka $S[x]$ membentuk subgelanggang dari $R[x]$.
 
 ***
 ## Definition Used 
- * [[Gelanggang Komutatif]]
- * [[Subgelanggang]]
- * [[Gelanggang Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Subgelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Gelanggang Polinomial]]

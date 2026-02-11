@@ -14,7 +14,7 @@ $$
 untuk setiap $x \in G$ untuk setiap $g \in G$. Akan ditunjukkan $\phi$ adalah homomorfisma yang injektif.
 
 ### Terdefinisi dengan Baik
-Ambil $g\in G$. Akan ditunjukkan $\phi_g \in S(G)$. Misalkan $x_{1}, x_{2} \in G$ sehingga $\phi_g(x_{1}) = \phi_g(x_{2})$. Berdasarkan [[Hukum Pembatalan Grup]] maka
+Ambil $g\in G$. Akan ditunjukkan $\phi_g \in S(G)$. Misalkan $x_{1}, x_{2} \in G$ sehingga $\phi_g(x_{1}) = \phi_g(x_{2})$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Hukum Pembatalan Grup]] maka
 $$
 \phi_g(x_{1}) = \phi_g(x_{2}) \quad\implies\quad gx_{1} = gx_{2} \quad\implies\quad x_{1} = x_{2}
 $$
@@ -42,12 +42,12 @@ Misalkan $H = \phi(G)$. Jelas $\phi$ surjektif pada $H$. Artinya jika kita panda
 $$
 G \cong H
 $$
-Berdasarkan [[Sifat Homomorfisma Grup#^bf256b|Sifat Peta Homomorfisma]] maka $H = \phi(G) \le S(G)$. Terbukti
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Sifat Homomorfisma Grup#^bf256b|Sifat Peta Homomorfisma]] maka $H = \phi(G) \le S(G)$. Terbukti
 $$
 G \cong H \le S\left({G}\right)
 $$
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup]]
- * [[Grup Permutasi S(G)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Permutasi/Grup Permutasi S(G)]]

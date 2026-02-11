@@ -4,4 +4,4 @@ Misalkan $a, b \in \mathbb{Z}$ dan $a \neq 0$. Unsur $a$ dikatakan membagi $b$ (
 
 ***
 ## Definition Used
-* [[Aksioma Bilangan Bulat]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Bilangan Bulat]]

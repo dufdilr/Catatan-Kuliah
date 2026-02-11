@@ -18,7 +18,7 @@ Asumsikan untuk suatu bilangan asli $k$, $P(k)$ bernilai benar. Artinya, setiap 
 
   
 
-Misalkan $T$ suatu pohon dengan $k+1$ titik. Pilih sembarang $u$ [[Daun pada Pohon]] $T$. Tinjau
+Misalkan $T$ suatu pohon dengan $k+1$ titik. Pilih sembarang $u$ [[Buat Backup/Semester 5/Pengantar Teori Graf/2. Tree/Daun pada Pohon]] $T$. Tinjau
 
 $$
 
@@ -46,7 +46,7 @@ Artinya $T$ memiliki $k$ sisi. Terbukti $P(k+1)$ benar.
 
   
 
-Berdasarkan [[Prinsip Induksi Matematika]] terbukti $P(n)$ benar untuk setiap bilangan asli $n$.
+Berdasarkan [[Buat Backup/Prerquested/Prinsip Induksi Matematika]] terbukti $P(n)$ benar untuk setiap bilangan asli $n$.
 
   
   
@@ -55,6 +55,6 @@ Berdasarkan [[Prinsip Induksi Matematika]] terbukti $P(n)$ benar untuk setiap bi
 
 ## Definition Used
 
-* [[Pohon (Graf)]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/2. Tree/Pohon (Graf)]]
 
-* [[Daun (Graf)]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/2. Tree/Daun (Graf)]]

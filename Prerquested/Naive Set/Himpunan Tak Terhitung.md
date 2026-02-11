@@ -4,4 +4,4 @@ Himpunan $S$ disebut himpunan **tak terhitung** jika $S$ bukan himpunan terhitun
 
 ***
 ## Definition Used
-* [[Himpunan Terhitung]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan Terhitung]]

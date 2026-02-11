@@ -5,9 +5,9 @@ $H$ membentuk Sistem Residu Tereduksi modulo $n$ jika dan hanya jika $(a, n) = 1
 
 ---
 ## Bukti
-Serupa dengan Bukti [[Teorema Relatif Prima dengan Un]]
+Serupa dengan Bukti [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Teorema Relatif Prima dengan Un]]
 
 ***
 ## Definition Used 
- * [[Sistem Residu Tereduksi]]
- * [[Kongruensi Modulo]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Kongruensi Modulo/Sistem Residu Tereduksi]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Kongruensi Modulo]]

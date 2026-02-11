@@ -7,7 +7,7 @@ Misalkan $(R, +, \cdot)$ suatu gelanggang dan $K \subseteq R$ subhimpunan tak-ko
 ### $\Rightarrow$
 Misalkan $K$ adalah subgelanggang dari $R$. Maka jelas $x - y \in K$ dan $xy \in K$.
 ### $\Leftarrow$
-Berdasarkan [[Karakterisasi Subgrup]], karena untuk setiap $x, y \in K$ berlaku  $x - y \in K$ maka $(K, +) \le (R, +)$. Lebih lanjut, $(K, +)$ mewarisi sifat komutatif dari $(R, +)$. Berarti $(K, +)$ membentuk grup komutatif.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Karakterisasi Subgrup]], karena untuk setiap $x, y \in K$ berlaku  $x - y \in K$ maka $(K, +) \le (R, +)$. Lebih lanjut, $(K, +)$ mewarisi sifat komutatif dari $(R, +)$. Berarti $(K, +)$ membentuk grup komutatif.
 
 Lebih lanjut, $(K, \cdot)$ mewarisi sifat asosiatif dari $(R, \cdot)$. Berarti $(K, \cdot)$ membentuk sistem asosiatif.
 
@@ -19,6 +19,6 @@ Maka terbukti $S$ subgelanggang dari $R$
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Subgelanggang]]
- * [[Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Subgelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]

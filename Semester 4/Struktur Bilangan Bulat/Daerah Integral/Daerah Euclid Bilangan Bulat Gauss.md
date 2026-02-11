@@ -75,5 +75,5 @@ Terbukti $\mathbb{Z}[i]$ membentuk daerah euclid.
 ***
 
 ## Definition Used 
- * [[Daerah Euclid]]
- * [[Gelanggang Bilangan Bulat Gauss]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Euclid]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Bilangan Bulat Gauss]]

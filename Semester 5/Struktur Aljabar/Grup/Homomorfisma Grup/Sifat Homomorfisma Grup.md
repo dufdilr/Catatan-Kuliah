@@ -29,14 +29,14 @@ f(a) \cdot f(a^{-1}) &= f(a \cdot a^{-1}) = f(e_A) = e_B \\
 f(a^{-1}) \cdot f(a) &= f(a^{-1} \cdot a) = f(e_A) = e_B 
 \end{align*}
 $$
-Berdasarkan [[Sifat Grup#^cfe6f6|Ketunggalan Inverse]] maka $(f(a))^{-1} = f(a^{-1})$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Sifat Grup#^cfe6f6|Ketunggalan Inverse]] maka $(f(a))^{-1} = f(a^{-1})$.
 
 ### 3.
 Jelas $e_A \in S$ maka $f(e_A) \in f(S)$ sehingga $f(S) \neq \emptyset$. Ambil $y_{1}, y_{2} \in f(S)$ maka $y_{1}=f(a_{1})$ dan $y_{2} = f(a_{2})$ untuk suatu $a_{1}, a_{2} \in S$. Perhatikan bahwa $y_{2}^{-1} = (f(a_{2}))^{-1} = f(a_{2}^{-1})$ maka
 $$
 y_{1}y_{2}^{-1} = f(a_{1})f(a_{2}^{-1}) = f(a_{1}a_{2}^{-1})
 $$
-Karena $a_{1}, a_{2} \in S$ maka $a_{1}a_{2}^{-1} \in S$. Akibatnya $y_{1}y_{2}^{-1} \in f(S)$. Berdasarkan [[Karakterisasi Subgrup]] maka $f(S)$ adalah subgrup dari $B$.
+Karena $a_{1}, a_{2} \in S$ maka $a_{1}a_{2}^{-1} \in S$. Akibatnya $y_{1}y_{2}^{-1} \in f(S)$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Karakterisasi Subgrup]] maka $f(S)$ adalah subgrup dari $B$.
 
 ### 4. 
 Akan dibuktikan dengan induksi. Ambil $a \in A$
@@ -51,7 +51,7 @@ $$
 f(a^{n+1}) = f(a^n \cdot a) = f(a^n) \cdot f(a) = (f(a))^n \cdot f(a) = (f(a))^{n+1}
 $$
 
-Berdasarkan [[Prinsip Induksi Matematika]] terbukti bahwa untuk setiap $n \in \mathbb{N}$ berlaku
+Berdasarkan [[Buat Backup/Prerquested/Prinsip Induksi Matematika]] terbukti bahwa untuk setiap $n \in \mathbb{N}$ berlaku
 $$
 f(a^n) = (f(a))^n
 $$
@@ -74,7 +74,7 @@ Maka, $f(S) = \left< f(s) \right>$. Terbukti $f(S)$ adalah grup siklik.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Homomorfisma (Grup)]]
- * [[Grup Komutatif]]
- * [[Grup Siklik]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Homomorfisma (Grup)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Siklik]]

@@ -4,5 +4,5 @@ Suatu graf $G(V, E, \phi)$ disebut sebagai **graf bipartit** jika terdapat $X, Y
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Partisi Himpunan]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Prerquested/Naive Set/Partisi Himpunan]]

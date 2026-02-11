@@ -26,10 +26,10 @@ Serupa,
 $$
 (-a)b + ab = (-a+a)b = 0 \cdot b = 0
 $$
-Berdasarkan [[Sifat Grup|Ketunggalan Inverse]] pada grup $(R, +)$ maka terbukti $a(-b) = (-a)b = -(ab)$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Sifat Grup|Ketunggalan Inverse]] pada grup $(R, +)$ maka terbukti $a(-b) = (-a)b = -(ab)$.
 
 ### 3.
-Ambil $a, b \in R$. Berdasarkan sifat $2$ dan [[Sifat Grup#^6fb1e8|Sifat Inverse dari Inverse]] pada grup $(R, +)$ maka
+Ambil $a, b \in R$. Berdasarkan sifat $2$ dan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Sifat Grup#^6fb1e8|Sifat Inverse dari Inverse]] pada grup $(R, +)$ maka
 $$
 (-a)(-b) = -(a(-b)) = -(-(ab)) = ab
 $$
@@ -37,5 +37,5 @@ Terbukti $(-a)(-b)=ab$
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]

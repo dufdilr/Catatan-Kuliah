@@ -7,6 +7,6 @@ $$
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Ideal (Ring)]]
- * [[Relasi Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Relasi Subgrup]]

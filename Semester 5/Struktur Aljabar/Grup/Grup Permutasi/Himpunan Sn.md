@@ -7,7 +7,7 @@ $$
 
 ***
 ## Definition Used 
- * [[Himpunan]]
- * [[Fungsi Bijektif]]
- * [[Bilangan Asli]]
- * [[Permutasi-n]]
+ * [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]
+ * [[Buat Backup/Prerquested/Bilangan Asli]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Permutasi/Permutasi-n]]

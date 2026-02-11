@@ -16,6 +16,6 @@ Artinya $\forall \ n>N: \ d(x_n, x) < \varepsilon$. Terbukti bahwa $(x_{n})$ bar
 
 ***
 ## Definition Used:
-* [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
-* [[Barisan Cauchy (Metrik)]]
-* [[Subbarisan]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Cauchy (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Subbarisan]]

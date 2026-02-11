@@ -1,6 +1,6 @@
 #Teorema 
 
-Misalkan $[a]$ adalah kelas hasil bagi dari [[Relasi Subgrup]]. Maka berlaku
+Misalkan $[a]$ adalah kelas hasil bagi dari [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Relasi Subgrup]]. Maka berlaku
 $$
 [a] = aS
 $$
@@ -23,5 +23,5 @@ Artinya $a^{-1}b \in S$. Berarti $b \in [a]$.
 
 ***
 ## Definition Used 
- * [[Himpunan Hasil Bagi]]
- * [[Koset Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Himpunan Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Koset Grup]]

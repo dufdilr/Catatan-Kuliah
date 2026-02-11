@@ -8,14 +8,14 @@ Himpunan $(S(G), \circ)$ dengan operasi komposisi membentuk **grup**.
 ---
 ## Bukti
 ### Well Defined
-Ambil $f, g \in S(G)$. Berdasarkan [[Komposisi Fungsi Bijeksi]], maka $g \circ f$ juga fungsi bijeksi. 
+Ambil $f, g \in S(G)$. Berdasarkan [[Buat Backup/Prerquested/Relasi dan Fungsi/Komposisi Fungsi Bijeksi]], maka $g \circ f$ juga fungsi bijeksi. 
 $$
 g\circ f \in S(G)
 $$
 Terbukti, komposisi terdefinisi dengan baik pada $S(G)$.
 
 ### Asosiatif
-Jelas berdasarkan [[Komposisi Asosiatif]]
+Jelas berdasarkan [[Buat Backup/Prerquested/Relasi dan Fungsi/Komposisi Asosiatif]]
 
 ### Identitas
 Tinjau $i_G:G \to G$ dengan $i_G(g) = g$ untuk setiap $g \in G$. Jelas untuk setiap $f \in S(G)$ berlaku
@@ -25,7 +25,7 @@ $$
 Maka, $i_G$ adalah identitas di $S(G)$.
 
 ### Invers
-Berdasarkan [[Fungsi Bijektif Invertibel]], maka terdapat $g:G \to G$ sedemikian sehingga
+Berdasarkan [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif Invertibel]], maka terdapat $g:G \to G$ sedemikian sehingga
 $$
 f\circ g = g\circ f = i_G
 $$
@@ -35,5 +35,5 @@ Perdefinisi, terbukti $S(G)$ membentuk grup.
 
 ***
 ## Definition Used 
- * [[Himpunan]]
- * [[Fungsi Bijektif]]
+ * [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]

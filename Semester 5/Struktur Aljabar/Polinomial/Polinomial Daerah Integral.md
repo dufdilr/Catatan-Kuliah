@@ -18,5 +18,5 @@ Terbukti $R[x]$ juga merupakan daerah integral.
 
 ***
 ## Definition Used 
- * [[Gelanggang Polinomial]]
- * [[Daerah Integral]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Gelanggang Polinomial]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]

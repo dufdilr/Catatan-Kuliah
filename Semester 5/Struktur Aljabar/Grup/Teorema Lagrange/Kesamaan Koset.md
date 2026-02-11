@@ -27,6 +27,6 @@ Terbukti $aS = bS$
 
 ***
 ## Definition Used 
- * [[Koset Grup]]
- * [[Grup]]
- * [[Relasi Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Koset Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Relasi Subgrup]]

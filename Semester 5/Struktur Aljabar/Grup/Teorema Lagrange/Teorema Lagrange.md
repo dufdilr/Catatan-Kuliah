@@ -22,9 +22,9 @@ k\cdot \text{ord}(S) &= \text{ord}(G) \\
 $$
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Orde Grup]]
- * [[Subgrup]]
- * [[Koset Grup]]
- * [[Indeks Subgrup]]
- * [[Himpunan Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Orde Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Koset Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Indeks Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Himpunan Hasil Bagi]]

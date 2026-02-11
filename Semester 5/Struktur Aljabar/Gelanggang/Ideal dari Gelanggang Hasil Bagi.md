@@ -25,10 +25,10 @@ $$
 & \Rightarrow rx \in J
 \end{align*}
 $$
-Jelas bahwa $I \subseteq J$ karena $0+I \in \mathcal{A}$. Berdasarkan [[Karakterisasi Ideal]] maka $J$ ideal dari $R$. Terbukti.
+Jelas bahwa $I \subseteq J$ karena $0+I \in \mathcal{A}$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Karakterisasi Ideal]] maka $J$ ideal dari $R$. Terbukti.
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Ideal (Ring)]]
- * [[Gelanggang Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Hasil Bagi]]

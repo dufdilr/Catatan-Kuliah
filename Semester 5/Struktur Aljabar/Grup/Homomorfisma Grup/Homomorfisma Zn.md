@@ -35,7 +35,7 @@ Misalkan $f : \mathbb{Z}_{m} \to \mathbb{Z}_{n}$ adalah homomorfisma. Perhatikan
 $$
 f([x]_{m}) = f([1]_{m}+[1]_{m}+\dots+[1]_{m}) = f([1]_{m}) + f([1]_{m})+\dots+f([1]_{m}) = [f([1]_{m}) \cdot x]_{n}
 $$
-Pilih $\alpha = f([1]_{m})$. Berdasarkan [[Sifat Homomorfisma Grup]] maka
+Pilih $\alpha = f([1]_{m})$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Sifat Homomorfisma Grup]] maka
 $$
 f([m]_{m}) = f([0]_{m}) = [\alpha m]_{n} = [0]_{n}
 $$
@@ -43,6 +43,6 @@ Artinya $n \mid \alpha m$. Terbukti.
 
 ***
 ## Definition Used 
- * [[Grup Penjumlahan Zn]]
- * [[Homomorfisma (Grup)]]
- * [[Keterbagian]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Grup Penjumlahan Zn]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Homomorfisma (Grup)]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]

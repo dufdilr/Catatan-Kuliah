@@ -8,8 +8,8 @@ dengan $v$ unit dan $q_i$ prima maka $n = m$ dan $p_i \sim q_{\sigma(i)}$ untuk 
 
 ***
 ## Definition Used 
- * [[Daerah Integral]]
- * [[Unsur Unit (Ring)]]
- * [[Unsur Prima (Ring)]]
- * [[Unsur Sekawan (Ring)]]
- * [[Permutasi-n]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Prima (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Sekawan (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Permutasi/Permutasi-n]]

@@ -5,5 +5,5 @@ $$\forall\varepsilon >0, \ \exists N \in \mathbb{N}\ \text{ sehingga }\ \forall 
 
 ***
 ## Definition Used:
-* [[Ruang Metrik]]
-* [[Barisan (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan (Metrik)]]

@@ -17,5 +17,5 @@ $$
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]

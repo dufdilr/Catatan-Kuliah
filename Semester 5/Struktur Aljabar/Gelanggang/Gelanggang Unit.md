@@ -9,4 +9,4 @@ Lebih lanjut, unsur $1$ yang memenuhi sifat tersebut disebut sebagai *unsur satu
 ***
 
 ## Definition Used
-* [[Gelanggang]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]

@@ -12,7 +12,7 @@ $$
 a^n = a^{\text{ord}\left({a}\right) \cdot k} = \left( a^{\text{ord}\left({a}\right)} \right) ^k = e^k = e
 $$
 ### $\Rightarrow$
-Misalkan $a^n = e$. Berdasarkan [[Algoritma Pembagian]] maka $n = q \cdot \text{ord}\left({a}\right) + r$ untuk suatu $q, r \in \mathbb{Z}$ dengan $0 \le r < \text{ord}\left({a}\right)$. Perhatikan bahwa
+Misalkan $a^n = e$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Algoritma Pembagian]] maka $n = q \cdot \text{ord}\left({a}\right) + r$ untuk suatu $q, r \in \mathbb{Z}$ dengan $0 \le r < \text{ord}\left({a}\right)$. Perhatikan bahwa
 $$
 e = a^n = a^{q \cdot \text{ord}\left({a}\right) + r} = a^{q \cdot \text{ord}\left({a}\right)} \cdot a^r = e^q \cdot a^r = e \cdot a^r = a^r
 $$
@@ -20,5 +20,5 @@ maka $a^r = e$. Perhatikan bahwa $r < \text{ord}\left({a}\right)$. Per definisi 
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Order Unsur Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Order Unsur Grup]]

@@ -15,11 +15,11 @@ $$
 Artinya $v \in \text{Eig}_{\lambda}(T)$. Terbukti $\text{Eig}_{\lambda}(T) \neq \{ \mathbf{0_V} \}$.
 
 ### $\Leftarrow$
-Misalkan $\text{Eig}_{\lambda}(T) \neq \{ \mathbf{0_V} \}$. [[Ruang Eigen#^de6d31|Jelas]], $\text{Eig}_{\lambda}(T) \supsetneq \{ \mathbf{0_V} \}$, berarti terdapat $v \neq \mathbf{0_V}$ dengan $v \in \text{Eig}_{\lambda}(T)$, artinya $T(v) = \lambda v$. Berarti, $\lambda$ adalah nilai eigen dari $T$.
+Misalkan $\text{Eig}_{\lambda}(T) \neq \{ \mathbf{0_V} \}$. [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Ruang Eigen#^de6d31|Jelas]], $\text{Eig}_{\lambda}(T) \supsetneq \{ \mathbf{0_V} \}$, berarti terdapat $v \neq \mathbf{0_V}$ dengan $v \in \text{Eig}_{\lambda}(T)$, artinya $T(v) = \lambda v$. Berarti, $\lambda$ adalah nilai eigen dari $T$.
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Pemetaan Linear]]
- * [[Ruang Eigen]]
- * [[Vektor dan Nilai Eigen]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Ruang Eigen]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Vektor dan Nilai Eigen]]

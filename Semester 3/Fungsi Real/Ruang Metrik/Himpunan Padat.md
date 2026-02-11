@@ -5,5 +5,5 @@ Misalkan $X$ suatu ruang metrik. Subhimpunan $E$ disebut **padat** pada $X$ jika
 ---
 
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Penutup Himpunan]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Penutup Himpunan]]

@@ -4,7 +4,7 @@ Misalkan $A$ adalah suatu gelanggang dan $I$ adalah ideal dari $A$. Maka, terdap
 
 ---
 ## Bukti
-Karena $I$ adalah ideal dari $A$ maka $A/I$ membentuk [[Gelanggang Hasil Bagi]]. Tinjau pemetaan
+Karena $I$ adalah ideal dari $A$ maka $A/I$ membentuk [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Hasil Bagi]]. Tinjau pemetaan
 $$
 f:A \to A/I
 $$
@@ -21,7 +21,7 @@ f(a_{1}a_{2}) &= (a_{1}a_{2})+I = (a_{1}+I) \cdot(a_{2}+I) \\
 $$
 Maka $f$ adalah homomorfisma gelanggang.
 
-Lebih lanjut, berdasarkan [[Kesamaan Koset]] maka
+Lebih lanjut, berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Kesamaan Koset]] maka
 $$
 \begin{align*}
 a \in \mathrm{Inti}(f) &\ \iff f(a) = I \\
@@ -33,8 +33,8 @@ Maka $\mathrm{Inti}(f) = I$, terbukti.
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Homomorfisma (Ring)]]
- * [[Kesamaan Koset]]
- * [[Inti Homomorfisma Gelanggang]]
- * [[Gelanggang Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Homomorfisma (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Kesamaan Koset]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Inti Homomorfisma Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Hasil Bagi]]

@@ -3,5 +3,5 @@ Misalkan $X$ suatu himpunan tak-kosong dan $*$ adalah operasi pada $X$. Tupel $(
 
 ***
 ## Definition Used:
-* [[Himpunan]]
-* [[Operasi]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Operasi]]

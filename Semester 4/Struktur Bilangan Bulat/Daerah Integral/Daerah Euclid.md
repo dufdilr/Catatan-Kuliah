@@ -10,5 +10,5 @@ Suatu daerah integral $D$ disebut **daerah euclid** jika terdapat pemetaan $\del
 ***
 
 ## Definition Used 
- * [[Daerah Integral]]
- * [[Fungsi]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

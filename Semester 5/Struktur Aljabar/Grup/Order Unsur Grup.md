@@ -7,5 +7,5 @@ Jika untuk setiap $n \in \mathbb{N}$ berlaku $a^n \neq e$ maka dituliskan $\text
 
 ***
 ## Definition Used
-* [[Grup]]
-* [[Pangkat (Grup)]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Pangkat (Grup)]]

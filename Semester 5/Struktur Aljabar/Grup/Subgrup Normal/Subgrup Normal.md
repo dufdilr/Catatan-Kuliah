@@ -7,5 +7,5 @@ dan dinotasikan sebagai $N \unlhd G$ .
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]

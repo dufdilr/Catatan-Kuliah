@@ -8,4 +8,4 @@ $$
 ***
 
 ## Definition Used
-* [[Gelanggang]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]

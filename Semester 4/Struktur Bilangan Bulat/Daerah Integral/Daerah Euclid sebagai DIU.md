@@ -20,5 +20,5 @@ Berarti, setiap ideal $I$ dari $R$ dapat ditulis sebagai $\langle d \rangle, \qu
 
 ***
 ## Definition Used 
- * [[Daerah Euclid]]
- * [[Daerah Ideal Utama]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Euclid]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Ideal Utama]]

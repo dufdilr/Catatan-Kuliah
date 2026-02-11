@@ -36,9 +36,9 @@ Jelas bahwa
 $$
 a^m * a^{-m} = a^0 = e
 $$
-Berdasarkan [[Sifat Grup|Sifat Ketunggalan Identitas]] maka terbukti $(a^m)^{-1} = a^{-m}$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Sifat Grup|Sifat Ketunggalan Identitas]] maka terbukti $(a^m)^{-1} = a^{-m}$.
 
 ***
 ## Definition Used
-* [[Grup]]
-* [[Pangkat (Grup)]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Pangkat (Grup)]]

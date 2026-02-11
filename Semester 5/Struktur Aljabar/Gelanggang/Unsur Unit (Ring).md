@@ -12,4 +12,4 @@ $$
 ***
 
 ## Definition Used
-* [[Gelanggang Unit]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Unit]]

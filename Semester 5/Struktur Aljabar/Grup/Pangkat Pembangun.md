@@ -3,9 +3,9 @@ Misalkan $A$ adalah grup siklik dengan $|A| = n$ dan pembangun $a$. Unsur $a^k$ 
 
 ---
 ## Bukti
-Berdasarkan [[Order Unsur Pembangun]], maka $\text{ord}(a) = \text{ord}(A) = n$. 
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Order Unsur Pembangun]], maka $\text{ord}(a) = \text{ord}(A) = n$. 
 
-Perhatikan bahwa berdasarkan [[Order Pangkat|Teorema]] maka $\text{ord}\left({a^k}\right) = \frac{n}{(n, k)}$. Maka berlaku
+Perhatikan bahwa berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Order Pangkat|Teorema]] maka $\text{ord}\left({a^k}\right) = \frac{n}{(n, k)}$. Maka berlaku
 $$
 \begin{align*}
 a^k \text{ unsur pembangun dari } A &\ \iff \text{ord}(a^k) = n \\
@@ -16,6 +16,6 @@ $$
 
 ***
 ## Definition Used 
- * [[Grup Siklik]]
- * [[Orde Grup]]
- * [[Relatif Prima]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Siklik]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Orde Grup]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Relatif Prima]]

@@ -8,10 +8,10 @@ $\langle r \rangle$ adalah ideal dari $R$. Lebih lanjut $I = \langle r \rangle$ 
 
 ## Bukti
 
-Jelas karena $I$ adalah [[Ideal Terbangun]] yang dibangun oleh himpunan $\{ r \}$.
+Jelas karena $I$ adalah [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Terbangun]] yang dibangun oleh himpunan $\{ r \}$.
 ***
 
 ## Definition Used 
- * [[Gelanggang Komutatif]]
- * [[Ideal (Ring)]]
- * [[Subhimpunan Terbangun]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subhimpunan Terbangun]]

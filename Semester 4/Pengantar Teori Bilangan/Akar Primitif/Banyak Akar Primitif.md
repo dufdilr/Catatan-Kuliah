@@ -5,17 +5,17 @@ Misalkan $n \in \mathbb{N}$ memiliki akar primitif maka $n$ memiliki sebanyak $\
 ---
 
 ## Bukti
-Misalkan $A$ adalah himpunan semua akar primitif dari $n$. Per definisi, setiap unsur di $A$ haruslah relatif prima dengan $n$. Perhatikan pula bahwa berdasarkan [[Sistem Residu Akar Primitif|teorema]], untuk suatu akar primitif $r$
+Misalkan $A$ adalah himpunan semua akar primitif dari $n$. Per definisi, setiap unsur di $A$ haruslah relatif prima dengan $n$. Perhatikan pula bahwa berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Sistem Residu Akar Primitif|teorema]], untuk suatu akar primitif $r$
 $$
 R = \{ r, r^2, r^3, \cdots, r^{\varphi(n)} \}
 $$
-membentuk sistem residu tereduksi. Artinya $A \subseteq R$. Lebih lanjut, berdasarkan [[Akar Primitif Pangkat|teorema]], $r^k$ juga pangkat jika dan hanya jika $(\varphi(n), k) = 1$. Maka, banyak akar primitif sama dengan banyak $k$ yang relatif prima dengan $\varphi(n)$ yakni
+membentuk sistem residu tereduksi. Artinya $A \subseteq R$. Lebih lanjut, berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Akar Primitif Pangkat|teorema]], $r^k$ juga pangkat jika dan hanya jika $(\varphi(n), k) = 1$. Maka, banyak akar primitif sama dengan banyak $k$ yang relatif prima dengan $\varphi(n)$ yakni
 $$
 \varphi(\varphi(n))
 $$
 
 ***
 ## Definition Used 
- * [[Akar Primitif]]
- * [[Sistem Residu Tereduksi]]
- * [[Fungsi Euler-Phi]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Akar Primitif]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Kongruensi Modulo/Sistem Residu Tereduksi]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Fungsi Euler-Phi]]

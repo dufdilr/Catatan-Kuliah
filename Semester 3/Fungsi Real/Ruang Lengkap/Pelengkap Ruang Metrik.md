@@ -6,6 +6,6 @@ Misalkan $X$ suatu ruang metrik. $Y$ dikatakan **pelengkap** ruang metrik dari $
 
 ***
 ## Definition Used 
- * [[Ruang Metrik Lengkap]]
- * [[Isometri Ruang Metrik]]
- * [[Penutup Himpunan]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Lengkap/Ruang Metrik Lengkap]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Isometri Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Penutup Himpunan]]

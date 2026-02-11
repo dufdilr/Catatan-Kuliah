@@ -19,10 +19,10 @@ $$
 Artinya $d_1d_2 \in D_{mn}$.
 
 ### Injektif
-Misalkan $(d_1, d_2), (d_1', d_2') \in D_m \times D_n$ sehingga $d_{1}d_{2} = d_{1}'d_{2}'$. Perhatikan bahwa $d_{1}\mid d_{1}' d_{2}'$. Karena $d_{1}\mid m$ dan $d_{2}' \mid n$ serta $(m, n) = 1$ [[Perkalian Relatif Prima|maka]] $(d_1, d_2') = 1$. [[Hukum Pembatalan Keterbagian|Akibatnya]], $d_1 \mid d_1'$. Dengan alasan serupa didapatkan $d_{1}' \mid d_{1}$. Maka haruslah $d_1 = d_1'$. Konsekuensi lebih lanjut, $d_2 = d_2'$. Maka $(d_1, d_2), = (d_1', d_2')$. Terbukti $f$ injektif.
+Misalkan $(d_1, d_2), (d_1', d_2') \in D_m \times D_n$ sehingga $d_{1}d_{2} = d_{1}'d_{2}'$. Perhatikan bahwa $d_{1}\mid d_{1}' d_{2}'$. Karena $d_{1}\mid m$ dan $d_{2}' \mid n$ serta $(m, n) = 1$ [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Perkalian Relatif Prima|maka]] $(d_1, d_2') = 1$. [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Hukum Pembatalan Keterbagian|Akibatnya]], $d_1 \mid d_1'$. Dengan alasan serupa didapatkan $d_{1}' \mid d_{1}$. Maka haruslah $d_1 = d_1'$. Konsekuensi lebih lanjut, $d_2 = d_2'$. Maka $(d_1, d_2), = (d_1', d_2')$. Terbukti $f$ injektif.
 
 ### Surjektif
-Ambil sebarang $k \in D_{mn}$. Maka $k \mid mn$. Pilih $d_1 = (k, m)$ dan $d_2 = (k, n)$. Per definisi [[Faktor Persekutuan Terbesar|FPB]], maka $d_1 \mid m$ dan $d_2 \mid n$. Berarti $(d_1, d_2) \in D_m \times D_n$. Lebih lanjut, berdasarkan [[Teorema Bezout]], terdapat $p_1, q_1, p_2, q_2 \in \mathbb{Z}$ sehingga
+Ambil sebarang $k \in D_{mn}$. Maka $k \mid mn$. Pilih $d_1 = (k, m)$ dan $d_2 = (k, n)$. Per definisi [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Faktor Persekutuan Terbesar|FPB]], maka $d_1 \mid m$ dan $d_2 \mid n$. Berarti $(d_1, d_2) \in D_m \times D_n$. Lebih lanjut, berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Teorema Bezout]], terdapat $p_1, q_1, p_2, q_2 \in \mathbb{Z}$ sehingga
 $$
 d_1 = kp_1 + mq_1 \quad \text{ dan } \quad d_2 = kp_2 + nq_2
 $$
@@ -31,7 +31,7 @@ $$
 d_{1}d_{2} = (kp_1 + mq_1)(kp_2 + nq_2) = k(kp_{1}p_{2} + np_{1}q_{2} +mp_{2}q_{1}) + mnq_{1}q_{2}
 $$
 Karena $k \mid mn$ maka $k \mid d_{1}d_{2}$.
-Lebih lanjut, karena $(m, n) = 1$ [[Perkalian Relatif Prima|maka]] $(d_1, d_2) = 1$, berdasarkan [[Teorema Bezout]], terdapat $p, q \in \mathbb{Z}$ sehingga
+Lebih lanjut, karena $(m, n) = 1$ [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Perkalian Relatif Prima|maka]] $(d_1, d_2) = 1$, berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Teorema Bezout]], terdapat $p, q \in \mathbb{Z}$ sehingga
 $$
 pd_{1} + qd_{2} =1
 $$
@@ -45,6 +45,6 @@ maka $d_{1}d_{2} \mid k$. Karena $k \mid d_{1}d_{2}$ dan $d_{1}d_{2} \mid k$ ter
 
 ***
 ## Definition Used 
- * [[Keterbagian]]
- * [[Relatif Prima]]
- * [[Fungsi Bijektif]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Relatif Prima]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]

@@ -21,6 +21,6 @@ Maka $(x_n) \subseteq \mathbb{X}$ adalah barisan cauchy. ■
 
 ***
 ## Definition Used
-* [[Barisan (Metrik)]]
-* [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
-* [[Barisan Cauchy (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Cauchy (Metrik)]]

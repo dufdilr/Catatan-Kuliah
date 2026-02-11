@@ -35,6 +35,6 @@ Ambil $a \in E^o \cup F^o$. Tanpa mengurangi keumuman, misalkan $a \in E^o$. Art
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
-* [[Titik Interior]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+* [[Buat Backup/Semester 3/Fungsi Real/Topologi/Titik Interior]]
 

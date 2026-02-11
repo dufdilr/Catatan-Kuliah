@@ -9,4 +9,4 @@ Himpunan hasil dari eksperimen acak disebut sebagai **Ruang Sampel**
 
 ***
 ## Definition Used
-* [[Himpunan]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]

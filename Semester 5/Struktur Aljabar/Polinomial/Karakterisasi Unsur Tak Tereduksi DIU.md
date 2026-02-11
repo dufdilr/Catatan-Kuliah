@@ -10,16 +10,16 @@ Misalkan $q$ adalah unsur tak-tereduksi. Pandang ideal $\left< q \right>$. Andai
 
 Perhatikan bahwa $q \in \left< q \right> \subseteq \left< a \right>$. Artinya $q = ua$. Karena $q$ adalah unsur tak-tereduksi maka $u$ adalah unit atau $a$ adalah unit.
 * **Jika $u$ adalah unit.**
-	Maka $q = au$ dengan $u$ unit. Artinya $a, q$ sekawan. Berdasarkan [[Kesamaan Ideal Utama]] maka $\left< q \right> = \left< a \right> = J$, kontradiksi dengan pemilihan $J$ berbeda dengan $\left< q \right>$.
+	Maka $q = au$ dengan $u$ unit. Artinya $a, q$ sekawan. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Kesamaan Ideal Utama]] maka $\left< q \right> = \left< a \right> = J$, kontradiksi dengan pemilihan $J$ berbeda dengan $\left< q \right>$.
 * **Jika $a$ adalah unit**
-	Berdasarkan [[Ideal dengan Unit|teorema]] $J = \left< a \right> = R$. Kontradiksi dengan pemilihan $J$ ideal sejati.
+	Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal dengan Unit|teorema]] $J = \left< a \right> = R$. Kontradiksi dengan pemilihan $J$ ideal sejati.
 
 Pada kedua kasus, terjadi kontradiksi. Maka pengandaian salah. Terbukti, $\left< q \right>$ adalah ideal maksimal.
 ### $\Leftarrow$
 Misalkan $\left< q \right>$ adalah ideal maksimal. Ambil $u, v \in R$ sehingga $uv = q$.
 Perhatikan bahwa $q \in \left< u \right>$. Artinya, $\left< q \right> \subseteq \left< u \right>$. Karena $\left< q \right>$ adalah ideal maksimal maka $\left< u \right> = \left< q \right>$ atau $\left< u \right> = R$.
 * **Jika $\left< u \right> = \left< q \right>$**
-	Berdasarkan [[Kesamaan Ideal Utama]] maka $u, q$ sekawan. Maka $q = uw$ untuk suatu $w$ unit. Perhatikan bahwa
+	Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Kesamaan Ideal Utama]] maka $u, q$ sekawan. Maka $q = uw$ untuk suatu $w$ unit. Perhatikan bahwa
 	$$
 q = uw = uv \quad\implies\quad uw - uv = 0 \quad\implies\quad u(v - w) = 0
 $$
@@ -31,8 +31,8 @@ Terlihat untuk kedua kasus, $u$ adalah unit atau $v$ adalah unit. Per defisini, 
 
 ***
 ## Definition Used 
- * [[Daerah Ideal Utama]]
- * [[Daerah Integral]]
- * [[Unsur Tak Tereduksi (Ring)]]
- * [[Ideal Maksimal]]
- * [[Ideal Utama]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Ideal Utama]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Tak Tereduksi (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Maksimal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Utama]]

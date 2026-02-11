@@ -12,6 +12,6 @@ Himpunan $A$ dilengkapi dengan $R$ disebut sebagai **Himpunan Terurut Sebagian**
 
 ***
 ## Definition Used
-* [[Relasi Refleksif]]
-* [[Relasi Anti-Simetris]]
-* [[Relasi Transitif]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Refleksif]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Anti-Simetris]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Transitif]]

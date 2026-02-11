@@ -1,5 +1,5 @@
 #Definisi 
-Misalkan $f$ suatu [[Fungsi Aritmatika]]. Fungsi $f$ disebut **fungsi multiplikatif** jika untuk setiap $m, n \in \mathbb{N}$ dengan $(m, n) = 1$ berlaku
+Misalkan $f$ suatu [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Aritmatika]]. Fungsi $f$ disebut **fungsi multiplikatif** jika untuk setiap $m, n \in \mathbb{N}$ dengan $(m, n) = 1$ berlaku
 $$
 f(mn) = f(m) \cdot f(n)
 $$
@@ -9,5 +9,5 @@ f(mn) = f(m) \cdot f(n)
 $$
 ***
 ## Definition Used 
- * [[Fungsi Aritmatika]]
- * [[Relatif Prima]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Aritmatika]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Relatif Prima]]

@@ -12,7 +12,7 @@ $$
 ---
 ## Bukti
 
-Berdasarkan [[Sifat Nilai Mutlak]] berlaku
+Berdasarkan [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Sifat Nilai Mutlak]] berlaku
 $$
 \begin{align*}
 -|x| &\le\  x \ \le |x| \\
@@ -20,7 +20,7 @@ $$
 -(|x| + |y|) &\le x + y\le |x| + |y|
 \end{align*}
 $$
-Berdasarkan [[Sifat Nilai Mutlak#^b4f8ad|teorema]] maka terbukti
+Berdasarkan [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Sifat Nilai Mutlak#^b4f8ad|teorema]] maka terbukti
 $$
 |x+y| \le |x| + |y|
 $$
@@ -40,5 +40,5 @@ $$
 Dapat disimpulkan $-(|x| - |y|)\le |x - y| \le|x| - |y|$ maka $||x| - |y|| \le |x - y|$
 ***
 ## Definition Used 
- * [[Aksioma Bilangan Real]]
- * [[Nilai Mutlak]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Nilai Mutlak]]

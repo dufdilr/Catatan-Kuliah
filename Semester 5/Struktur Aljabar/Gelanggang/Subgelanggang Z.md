@@ -13,16 +13,16 @@ Akan ditunjukkan $n\mathbb{Z}$ subgelanggan dari $\mathbb{Z}$. Ambil $a, b \in n
 2.  $a + (-b) = np + (-nq) = n(p-q) \in n\mathbb{Z}$
 3.  $a \cdot b = np \cdot nq = n(npq) \in n\mathbb{Z}$
 
-Berdasarkan [[Karakterisasi Subgelanggang|teorema]], maka $n\mathbb{Z}$ subruang dari $\mathbb{Z}$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Karakterisasi Subgelanggang|teorema]], maka $n\mathbb{Z}$ subruang dari $\mathbb{Z}$.
 
 ### ($\Leftarrow$:)
 
-Misalkan $S$ subgelanggang takkosong dari $\mathbb{Z}$. Tinjau $S^* = S \cap \mathbb{N}$. Karena $S^* \subseteq \mathbb{N}$ maka berdasarkan [[Aksioma Urutan Sempurna]] maka ada unsur terkecil $S^*$, sebut saja $n$.
+Misalkan $S$ subgelanggang takkosong dari $\mathbb{Z}$. Tinjau $S^* = S \cap \mathbb{N}$. Karena $S^* \subseteq \mathbb{N}$ maka berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Urutan Sempurna]] maka ada unsur terkecil $S^*$, sebut saja $n$.
 
 Kemudian akan ditunjukkan bahwa $S = n\mathbb{Z}$.
 
 #### ($\subseteq:$)
-Ambil $x \in S$. Berdasarkan [[Algoritma Pembagian]] $\exists q, r \in \mathbb{Z}$ sehingga
+Ambil $x \in S$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Algoritma Pembagian]] $\exists q, r \in \mathbb{Z}$ sehingga
 $$x = pn + r\quad\text{ dan }\quad0 \le r < n$$
 Perhatikan bahwa $pn$ adalah penjumlahan $n$ (atau $-n$) sebanyak $p$ kali. Artinya, $pn \in S$.
 
@@ -38,5 +38,5 @@ Maka terbukti $S = n\mathbb{Z}$.
 
 ***
 ## Definition Used 
- * [[Gelanggang Z]]
- * [[Subgelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Z]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Subgelanggang]]

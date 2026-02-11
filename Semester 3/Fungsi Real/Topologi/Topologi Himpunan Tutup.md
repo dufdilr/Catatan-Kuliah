@@ -9,9 +9,9 @@ Misalkan $(X, d)$ ruang metrik
 
 ## Bukti
 
-Jelas berdasarkan [[Topologi Himpunan Buka|Teorema]] Sebelumnya dan [[Aturan De Morgan]]
+Jelas berdasarkan [[Buat Backup/Semester 3/Fungsi Real/Topologi/Topologi Himpunan Buka|Teorema]] Sebelumnya dan [[Buat Backup/Prerquested/Naive Set/Aturan De Morgan]]
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Himpunan Tutup]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Himpunan Tutup]]

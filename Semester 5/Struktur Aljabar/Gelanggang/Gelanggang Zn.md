@@ -4,7 +4,7 @@ Sistem $(\mathbb{Z}_{n}, +, \cdot)$ membentuk struktur **Gelanggang Komutatif de
 
 ## Bukti
 ### Grup Komutatif
-Telah ditunjukkan $(\mathbb{Z}_{n}, +)$ membentuk [[Grup Penjumlahan Zn|Grup Komutatif Zn]].
+Telah ditunjukkan $(\mathbb{Z}_{n}, +)$ membentuk [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Grup Penjumlahan Zn|Grup Komutatif Zn]].
 
 ### Asosiatif
 Ambil $[a]_{n}, [b]_{n}, [c]_{n}\in \mathbb{Z}_{n}$. Perhatikan bahwa
@@ -45,7 +45,7 @@ Maka, $[1]_{n}$ adalah elemen identitas perkalian dari $(\mathbb{Z}_{n}, \cdot)$
 
 ***
 ## Definition Used 
- * [[Gelanggang Komutatif]]
- * [[Gelanggang Unit]]
- * [[Himpunan Zn]]
- * [[Operasi di Zn]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Unit]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Himpunan Zn]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Operasi di Zn]]

@@ -18,10 +18,10 @@ Maka, $g_{1}^{-1}\in G$. Lebih lanjut,
 $$
 (g_1^{-1}g_2)h = g_1^{-1}(g_2h) = g_1^{-1}(hg_2) = (g_1^{-1}h)g_2 = (hg_1^{-1})g_2 = h (g_1^{-1}g_2)
 $$
-Maka $g_1^{-1}g_2 \in C_H(G)$.  Berdasarkan [[Karakterisasi Subgrup]], maka $C_H(G)$ membentuk subgrup dari $G$.
+Maka $g_1^{-1}g_2 \in C_H(G)$.  Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Karakterisasi Subgrup]], maka $C_H(G)$ membentuk subgrup dari $G$.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup]]
- * [[Pemusat Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Pemusat Grup]]

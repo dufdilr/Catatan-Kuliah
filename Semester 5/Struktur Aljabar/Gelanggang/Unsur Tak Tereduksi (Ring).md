@@ -8,6 +8,6 @@ Lebih lanjut, elemen $q$ disebut **unsur tereduksi** jika terdapat $a, b$ bukan 
 
 ***
 ## Definition Used 
- * [[Gelanggang Komutatif]]
- * [[Gelanggang Unit]]
- * [[Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Unit]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]

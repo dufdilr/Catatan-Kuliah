@@ -8,5 +8,5 @@ $$
 ---
 
 ## Definition Used 
- * [[Grup]]
- * [[Fungsi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

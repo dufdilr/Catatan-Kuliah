@@ -5,13 +5,13 @@ Misalkan $\emptyset \subseteq A \subseteq \mathbb{R}$. Jika $A$ terbatas di bawa
 ---
 ## Bukti
 
-Pernyataan pertama benar berdasarkan [[Aksioma Bilangan Real#^ad636f|Aksioma Kelengkapan Bilangan Real]]. 
+Pernyataan pertama benar berdasarkan [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real#^ad636f|Aksioma Kelengkapan Bilangan Real]]. 
 
 Lebih lanjut, misalkan $A$ terbatas di atas. Maka terdapat $u \in \mathbb{R}$ sehingga untuk setiap $a \in A$ berlaku $u \ge a$. Tinjau $B := \{-a \ | \ a \in A\}$. Perhatikan bahwa untuk setiap $b \in B: \ b = -a$ dengan $a \in A$.
 $$
 a \le u \quad\implies\quad b = -a \ge -u
 $$
-Maka $-u$ adalah batas bawah dari $B$. Berdasarkan [[Aksioma Bilangan Real#^ad636f|Aksioma Kelengkapan]], maka $B$ memiliki infimum, sebut $v$. Akan ditunjukkan $-v$ adalah supremum dari $A$.
+Maka $-u$ adalah batas bawah dari $B$. Berdasarkan [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real#^ad636f|Aksioma Kelengkapan]], maka $B$ memiliki infimum, sebut $v$. Akan ditunjukkan $-v$ adalah supremum dari $A$.
 
 Ambil $a \in A$. Perhatikan bahwa $-a \in B$ maka
 $$
@@ -25,8 +25,8 @@ Terbukti $-v$ adalah batas atas terkecil. Maka $A$ memiliki supremum.
 
 ***
 ## Definition Used 
- * [[Aksioma Bilangan Real]]
- * [[Himpunan Terbatas di Atas]]
- * [[Himpunan Terbatas di Bawah]]
- * [[Infimum]]
- * [[Supremum]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Himpunan Terbatas di Atas]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Himpunan Terbatas di Bawah]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Infimum]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Supremum]]

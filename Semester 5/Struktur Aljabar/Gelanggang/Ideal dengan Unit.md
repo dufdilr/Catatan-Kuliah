@@ -1,6 +1,6 @@
 #Teorema 
 
-Misalkan $I$ suatu ideal dari gelanggang unit $R$. Jika terdapat $u \in I$ dengan $u$ adalah elemen [[Unsur Unit (Ring)|unit]] dari $R$ maka $I = R$.
+Misalkan $I$ suatu ideal dari gelanggang unit $R$. Jika terdapat $u \in I$ dengan $u$ adalah elemen [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)|unit]] dari $R$ maka $I = R$.
 
 ---
 
@@ -14,6 +14,6 @@ Terbukti $R = I$.
 
 ***
 ## Definition Used 
- * [[Gelanggang Unit]]
- * [[Ideal (Ring)]]
- * [[Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Unit]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]

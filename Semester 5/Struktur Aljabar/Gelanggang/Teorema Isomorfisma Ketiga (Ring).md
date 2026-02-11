@@ -41,14 +41,14 @@ r+I \in \mathrm{Inti}(\phi) &\ \iff \phi(r+I) = J \quad (\text{elemen nol di } R
 $$
 Maka $\mathrm{Inti}(\phi) = J/I$.
 
-Berdasarkan [[Teorema Isomorfisma Pertama (Ring)]] maka
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Teorema Isomorfisma Pertama (Ring)]] maka
 $$
 (R/I)/(J/I) \cong R/J
 $$
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Ideal (Ring)]]
- * [[Gelanggang Hasil Bagi]]
- * [[Isomorfisma (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Isomorfisma (Ring)]]

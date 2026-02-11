@@ -7,5 +7,5 @@ Misalkan $R_1, R_2$ gelanggang. Fungsi $f:R_1 \to R_2$ disebut **homomorfisma** 
 ---
 
 ## Definition Used 
- * [[Gelanggang]]
- * [[Fungsi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

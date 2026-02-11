@@ -11,6 +11,6 @@ $$
 
 ## Definition Used
 
-* [[Grup]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
 
-* [[Subgrup Terbangun]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Terbangun]]

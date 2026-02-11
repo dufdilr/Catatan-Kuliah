@@ -8,7 +8,7 @@ Misalkan $a, b, c \in \mathbb{P}$ maka berlaku
 ---
 ## Bukti
 ### 1.
-Karena $a > b$ dan $b > c$ maka $a - b \in \mathbb{P}$ dan $b - c \in \mathbb{P}$. Berdasarkan [[Aksioma Bilangan Real#^d869f3|Aksioma Bilangan Real]] maka 
+Karena $a > b$ dan $b > c$ maka $a - b \in \mathbb{P}$ dan $b - c \in \mathbb{P}$. Berdasarkan [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real#^d869f3|Aksioma Bilangan Real]] maka 
 $$
 (a-b) + (b - c) = a - c \in \mathbb{P}
 $$
@@ -20,7 +20,7 @@ a - b = a-b + c - c = (a + c) - (b + c) \in \mathbb{P}
 $$
 Maka $a+c > b+c$
 ### 3.
-Karena $a > b$ dan $c > 0$ maka $a - b, c\in \mathbb{P}$. Berdasarkan [[Aksioma Bilangan Real#^b8b0f5|Ketertutupan Perkalian]] maka
+Karena $a > b$ dan $c > 0$ maka $a - b, c\in \mathbb{P}$. Berdasarkan [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real#^b8b0f5|Ketertutupan Perkalian]] maka
 $$
 c(a - b) = ac - bc \in \mathbb{P}
 $$
@@ -34,5 +34,5 @@ Maka $bc > ac$.
 
 ***
 ## Definition Used 
- * [[Aksioma Bilangan Real]]
- * [[Urutan Bilangan Real]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Urutan Bilangan Real]]

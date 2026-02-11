@@ -4,7 +4,7 @@ Himpunan $U_n$ dengan operasi perkalian pada $Z_n$ membentuk grup.
 
 ## Bukti
 ### Well-Defined Perkalian Un
-Akan ditunjukkan $(U_n, \cdot)$ membentuk sistem. Ambil $[a]_n, [b]_n \in U_n$. Artinya $(a, n) = (b, n) = 1$. Berdasarkan [[Perkalian Relatif Prima|teorema]] maka $(ab, n) = 1$. Artinya $[ab]_n \in U_n$
+Akan ditunjukkan $(U_n, \cdot)$ membentuk sistem. Ambil $[a]_n, [b]_n \in U_n$. Artinya $(a, n) = (b, n) = 1$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Perkalian Relatif Prima|teorema]] maka $(ab, n) = 1$. Artinya $[ab]_n \in U_n$
 ### Asosiatif
 Ambil $[a]_n,  [b]_n, [c]_n\in U_n$. Perhatikan bahwa
 $$
@@ -19,7 +19,7 @@ Jelas $(1, n) = 1$ maka $[1]_n\in U_n$. Lebih lanjut, untuk setiap $[a]_n\in U_n
 	$$
     Maka, $U_n$ memiliki identitas yakni $[1]_{n}$.
 ### Invers
-Ambil $[a]_n\in U_n$. Karena $(a, n) = 1$, berdasarkan [[Teorema Bezout|Identitas Bezout]], ada $x, y \in \mathbb{Z}$ sehingga
+Ambil $[a]_n\in U_n$. Karena $(a, n) = 1$, berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Teorema Bezout|Identitas Bezout]], ada $x, y \in \mathbb{Z}$ sehingga
     $ax + ny = 1$. Artinya $ax \equiv 1 \mod n$. Berarti
     $$[a]_n\cdot[x]_n = [x]_n[a]_n = [1]_n$$
     Lebih lanjut, karena $xa + ny = 1$ maka $(x, n) = 1$. Artinya $[x]_n\in U_n$ dan merupakan invers dari $[a]_n$
@@ -28,6 +28,6 @@ Terbukti $U_n$ membentuk grup.
 
 ***
 ## Definition Used 
- * [[Himpunan Un]]
- * [[Operasi di Zn]]
- * [[Grup]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Himpunan Un]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Operasi di Zn]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]

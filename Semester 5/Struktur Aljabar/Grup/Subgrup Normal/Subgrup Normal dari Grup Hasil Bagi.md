@@ -25,10 +25,10 @@ $$
 & \Rightarrow gk_{1}g^{-1} \in K
 \end{align*}
 $$
-Berdasarkan [[Karakterisasi Subgrup Normal]] maka $K \unlhd G$. Terbukti.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Karakterisasi Subgrup Normal]] maka $K \unlhd G$. Terbukti.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup Normal]]
- * [[Grup Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Grup Hasil Bagi]]

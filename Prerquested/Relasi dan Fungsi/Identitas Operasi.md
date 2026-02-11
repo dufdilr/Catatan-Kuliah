@@ -14,4 +14,4 @@ $$
 
 ***
 ## Definition Used 
- * [[Operasi]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Operasi]]

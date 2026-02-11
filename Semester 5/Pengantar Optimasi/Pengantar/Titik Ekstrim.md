@@ -11,5 +11,5 @@ dengan $\textbf{x}_{1}, \textbf{x}_{2}\in X$ dan $\lambda \in (0, 1)$ maka $\tex
 ***
 
 ## Definition Used
-* [[Himpunan Konveks]]
-* [[Kombinasi Konveks]]
+* [[Buat Backup/Semester 5/Pengantar Optimasi/Pengantar/Himpunan Konveks]]
+* [[Buat Backup/Semester 5/Pengantar Optimasi/Pengantar/Kombinasi Konveks]]

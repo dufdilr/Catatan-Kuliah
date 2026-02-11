@@ -7,5 +7,5 @@ Jika barisan $(x_n)$ konvergen ke $x$ maka dapat dituliskan $x_n \to x$.
 
 ***
 ## Definition used:
-* [[Ruang Metrik| Ruang Metrik]]
-* [[Barisan (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik| Ruang Metrik]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan (Metrik)]]

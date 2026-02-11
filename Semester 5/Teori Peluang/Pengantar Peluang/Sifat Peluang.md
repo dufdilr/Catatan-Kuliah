@@ -7,14 +7,14 @@ Misalkan $P$ suatu peluang pada $\mathcal{A}$. Maka berlaku:
 
 ## Bukti
 ### Sifat Pertama
-Misalkan $A \in \mathcal{A}$. Perhatikan bahwa $A \cup A^C = S$ dan $A \cap A^C = \emptyset$. Berdasarkan [[Aksioma Peluang#^1c71b4|aksioma]] berlaku
+Misalkan $A \in \mathcal{A}$. Perhatikan bahwa $A \cup A^C = S$ dan $A \cap A^C = \emptyset$. Berdasarkan [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aksioma Peluang#^1c71b4|aksioma]] berlaku
 $$P(A \cup A^C) = P(A) + P(A^C)$$
-Berdasarkan [[Aksioma Peluang#^cdcec8|aksioma]] maka $P(A\cup A^C) = P(S) = 1$. Akibatnya
+Berdasarkan [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aksioma Peluang#^cdcec8|aksioma]] maka $P(A\cup A^C) = P(S) = 1$. Akibatnya
 $$P(A^C) = 1 - P(A) \quad \blacksquare$$
 ### Sifat Kedua
-Misalkan $A \subseteq B$. Artinya $B = A \cup (B/A)$. Perhatikan bahwa $A \cup (B/A) = \emptyset$. Berdasarkan [[Aksioma Peluang#^1c71b4|aksioma]] berlaku
+Misalkan $A \subseteq B$. Artinya $B = A \cup (B/A)$. Perhatikan bahwa $A \cup (B/A) = \emptyset$. Berdasarkan [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aksioma Peluang#^1c71b4|aksioma]] berlaku
 $$P(B) = P(A \cup (B/A)) = P(A) + P(B/A)$$
-Berdasarkan [[Aksioma Peluang#^44e1c0|aksioma]] maka $P(B/A) \ge 0$. Akibatnya
+Berdasarkan [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aksioma Peluang#^44e1c0|aksioma]] maka $P(B/A) \ge 0$. Akibatnya
 $$P(B) \ge P(A) \quad \blacksquare$$
 ### Sifat Ketiga
 Misalkan $A, B \in \mathcal{A}$. Perhatikan bahwa
@@ -30,6 +30,6 @@ $$
 
 ***
 ## Definition Used:
-* [[Aksioma Peluang]]
-* [[Aljabar Sigma]]
-* [[Himpunan]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aksioma Peluang]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aljabar Sigma]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]

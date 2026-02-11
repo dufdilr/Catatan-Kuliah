@@ -21,6 +21,6 @@ Karena $g \circ f$ bersifat injektif dan surjektif maka $g \circ f$ juga bersifa
 
 ***
 ## Definition Used 
- * [[Himpunan]]
- * [[Fungsi Bijektif]]
- * [[Komposisi Fungsi]]
+ * [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Komposisi Fungsi]]

@@ -21,6 +21,6 @@ Terbukti $ST$ juga pemetaan linear.
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Pemetaan Linear]]
- * [[Komposisi Fungsi]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Komposisi Fungsi]]

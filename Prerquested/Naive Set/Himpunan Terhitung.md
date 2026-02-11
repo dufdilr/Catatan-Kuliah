@@ -4,6 +4,6 @@ Misalkan $S$ suatu himpunan. $S$ dikatakan **himpunan terhitung** jika $S$ berhi
 
 ***
 ## Definition Used
-* [[Himpunan]]
-* [[Himpunan Berhingga]]
-* [[Himpunan Ternomorkan (Denumerable)]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan Berhingga]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan Ternomorkan (Denumerable)]]

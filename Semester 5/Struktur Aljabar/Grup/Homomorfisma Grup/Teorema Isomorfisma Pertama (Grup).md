@@ -21,7 +21,7 @@ $$
 ---
 ## Bukti
 
-Tulis $\mathrm{Inti}(f) = C$. Berdasarkan [[Inti Homomorfisma Sebagai Subgrup Normal|teorema]], maka $C$ membentuk subgrup normal dari $A$. Artinya, $A/C$ terdefinisi dengan baik sebagai grup. Tinjau pemetaan
+Tulis $\mathrm{Inti}(f) = C$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Inti Homomorfisma Sebagai Subgrup Normal|teorema]], maka $C$ membentuk subgrup normal dari $A$. Artinya, $A/C$ terdefinisi dengan baik sebagai grup. Tinjau pemetaan
 $$
 \phi:A/C \to f(A)
 $$
@@ -37,7 +37,7 @@ Lebih lanjut, ambil $a_{1}C, a_{2}C \in A/C$ sedemikian sehingga $\phi(a_{1}C) =
 $$
 f(a_{1}) = f(a_{2}) \quad\implies\quad f(a_{1})(f(a_{2}))^{-1}=f(a_{1}a_{2}^{-1}) = e \quad\implies\quad a_{1}a_{2}^{-1} \in \mathrm{Inti}(f) = C
 $$
-Karena $a_{1}a_{2}^{-1}\in C$, berdasarkan [[Himpunan Hasil Bagi dan Koset Grup|teorema]] maka $a_{1}C = a_{2}C$. Terbukti $\phi$ bersifat injektif.
+Karena $a_{1}a_{2}^{-1}\in C$, berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Himpunan Hasil Bagi dan Koset Grup|teorema]] maka $a_{1}C = a_{2}C$. Terbukti $\phi$ bersifat injektif.
 
 Lebih lanjut, ambil $b \in f(A)$. Per definisi maka terdapat $a \in A$ sehingga $f(a) = b$. Perhatikan bahwa
 $$
@@ -52,8 +52,8 @@ $$
 
 ***
 ## Definition Used 
- * [[Homomorfisma (Grup)]]
- * [[Inti Homomorfisma Grup]]
- * [[Isomorfisma (Grup)]]
- * [[Grup Hasil Bagi]]
- * [[Koset Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Homomorfisma (Grup)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Inti Homomorfisma Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Isomorfisma (Grup)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Grup Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Koset Grup]]

@@ -6,7 +6,7 @@ Misalkan ($R, +, \cdot$) suatu gelanggang komutatif dengan unit. Elemen $p$ dise
 
 ***
 ## Definition Used 
- * [[Gelanggang Komutatif]]
- * [[Gelanggang Unit]]
- * [[Keterbagian (Ring)]]
- * [[Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Unit]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Keterbagian (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]

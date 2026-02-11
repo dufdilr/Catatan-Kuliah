@@ -28,6 +28,6 @@ Karena $\sim_S$ bersifat refleksif, simetris dan transitif maka $\sim_S$ merupak
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup]]
- * [[Relasi Ekuivalen]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Ekuivalen]]

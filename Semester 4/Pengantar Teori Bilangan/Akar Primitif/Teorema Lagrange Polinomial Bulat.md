@@ -10,11 +10,11 @@ dengan $a_0, a_1, a_2, \dots, a_n \in \mathbb{Z}$ dan $a_n$ tidak habis dibagi $
 
 ## Bukti
 
-Tinjau [[Lapangan Zp]]. Perhatikan bahwa berdasarkan [[Banyak Akar Polinomial]] maka $f$ memiliki paling banyak $n$ akar sehingga $f(x) = [0]_{p} \quad\implies\quad p \mid f(x)$. Terbukti
+Tinjau [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan Zp]]. Perhatikan bahwa berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Banyak Akar Polinomial]] maka $f$ memiliki paling banyak $n$ akar sehingga $f(x) = [0]_{p} \quad\implies\quad p \mid f(x)$. Terbukti
 
 ***
 ## Definition Used 
- * [[Bilangan Prima]]
- * [[Polinomial]]
- * [[Kongruensi Modulo]]
- * [[Lapangan]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Bilangan Prima]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Polinomial]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Kongruensi Modulo]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan]]

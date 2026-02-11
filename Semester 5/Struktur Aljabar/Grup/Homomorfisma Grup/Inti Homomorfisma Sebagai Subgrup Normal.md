@@ -5,7 +5,7 @@ Misalkan $A, B$ adalah grup dengan identitas $e_A$ dan $e_B$ berturut-turut sert
 ---
 ## Bukti
 
-Jelas $f(e_A) = e_B$. Artinya $\text{Inti} f \neq \emptyset$. Lebih lanjut, ambil $a_{1}, a_{2} \in \text{Inti} f$. Artinya $f(a_{1}) = f(a_{2}) = e_B$. Lebih lanjut, berdasarkan [[Sifat Homomorfisma Grup]] berlaku
+Jelas $f(e_A) = e_B$. Artinya $\text{Inti} f \neq \emptyset$. Lebih lanjut, ambil $a_{1}, a_{2} \in \text{Inti} f$. Artinya $f(a_{1}) = f(a_{2}) = e_B$. Lebih lanjut, berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Sifat Homomorfisma Grup]] berlaku
 $$
 f(a_{1}a_{2}^{-1}) = f(a_{1})f(a_{2})^{-1} = e_B \cdot e_B^{-1} = e_B
 $$
@@ -15,11 +15,11 @@ Lebih lanjut, ambil $a \in \text{Inti} f$ dan $g \in A$. Perhatikan bahwa
 $$
 f(gag^{-1}) = f(g)f(a)f(g^{-1}) = f(g) \cdot e_B \cdot(f(g^{-1})) = e_B
 $$
-Artinya $gag^{-1} \in A$. Berdasarkan definisi [[Subgrup Normal]] maka $\text{Inti} f$ adalah subgrup normal dari $A$.
+Artinya $gag^{-1} \in A$. Berdasarkan definisi [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]] maka $\text{Inti} f$ adalah subgrup normal dari $A$.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Homomorfisma (Grup)]]
- * [[Inti Homomorfisma Grup]]
- * [[Subgrup Normal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Homomorfisma (Grup)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Inti Homomorfisma Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]]

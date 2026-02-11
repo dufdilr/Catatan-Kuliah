@@ -10,11 +10,11 @@ Jelas $\{0\}$ dan $F$ adalah ideal dari $F$. Karena setiap lapangan adalah daera
 
 Karena $F$ adalah lapangan maka terdapat invers perkalian $d^{-1}$ untuk $d$.
 $$1 = d \cdot d^{-1} \in \langle d \rangle $$
-Berdasarkan [[Ideal dengan Unit|teorema]], maka $\langle d \rangle = F$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal dengan Unit|teorema]], maka $\langle d \rangle = F$.
 
 Jadi, satu-satunya ideal taknol adalah $F$ itu sendiri.
 
 ***
 ## Definition Used 
- * [[Ideal (Ring)]]
- * [[Lapangan]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan]]

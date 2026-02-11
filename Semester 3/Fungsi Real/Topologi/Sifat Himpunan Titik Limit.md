@@ -51,7 +51,7 @@ Ambil $x \in E' \cup F'$. Artinya $x \in E'$ atau $x \in F'$. Tanpa mengurangi k
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Himpunan Tutup]]
- * [[Titik Limit|Titik Limit]]
- * [[Bola Buka]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Himpunan Tutup]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Titik Limit|Titik Limit]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Bola Buka]]

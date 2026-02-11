@@ -10,4 +10,4 @@ Lebih lanjut, $v_0$ disebut **titik inisial** dan $v_k$ disebut **titik akhir**.
 
 ***
 ## Definition Used
-* [[Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]

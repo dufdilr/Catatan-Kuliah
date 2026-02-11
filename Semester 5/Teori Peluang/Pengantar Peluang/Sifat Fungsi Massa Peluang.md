@@ -20,5 +20,5 @@ $$
 ***
 
 ## Definition Used
-* [[Fungsi Peluang]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Fungsi Peluang]]
 

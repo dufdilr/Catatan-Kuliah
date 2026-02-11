@@ -5,5 +5,5 @@ Aksioma ini biasa disebut sebagai **Well-Ordering Principle**
 
 ***
 ## Definition Used
-* [[Bilangan Asli]]
+* [[Buat Backup/Prerquested/Bilangan Asli]]
 

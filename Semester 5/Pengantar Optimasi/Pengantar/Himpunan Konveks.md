@@ -9,5 +9,5 @@ Dengan kata lain, himpunan $X$ dikatakan himpunan konveks jika setiap kombinasi 
 ***
 
 ## Definition Used
-* [[Ruang Vektor]]
-* [[Kombinasi Konveks]]
+* [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+* [[Buat Backup/Semester 5/Pengantar Optimasi/Pengantar/Kombinasi Konveks]]

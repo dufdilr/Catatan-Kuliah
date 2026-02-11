@@ -4,9 +4,9 @@ Misalkan $\mathbb{F}$ adalah suatu lapangan. Maka, $\mathbb{F}$ adalah Ruang Vek
 
 --- 
 ## Bukti
-Jelas dari [[Lapangan|Aksioma Lapangan]] memenuhi semua [[Ruang Vektor|Aksioma Ruang Vektor]].
+Jelas dari [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan|Aksioma Lapangan]] memenuhi semua [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor|Aksioma Ruang Vektor]].
 
 ***
 ## Definition Used 
- * [[Lapangan]]
- * [[Ruang Vektor]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]

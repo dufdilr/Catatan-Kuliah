@@ -8,7 +8,7 @@ membentuk ideal dari $R[x]$.
 
 ---
 ## Bukti
-Berdasarkan [[Ideal Sebagai Subgelanggang|teorema]] maka $I$ adalah subgelanggang dari $R$. Berdasarkan [[Subgelanggang Sebagai Subgelanggang Polinomial]], maka $I[x]$ adalah subgelanggang dari $R[x]$. Maka $(I[x], +)$ adalah subgrup dari $(R[x], +)$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Sebagai Subgelanggang|teorema]] maka $I$ adalah subgelanggang dari $R$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Subgelanggang Sebagai Subgelanggang Polinomial]], maka $I[x]$ adalah subgelanggang dari $R[x]$. Maka $(I[x], +)$ adalah subgrup dari $(R[x], +)$.
 
 Ambil $f(x) \in I[x]$ dan $g(x) \in R[x]$. Tulis
 $$
@@ -24,10 +24,10 @@ c_k = \sum_{p = 0}^k \underbrace{a_p b_{k-p}}_{\in I} \in I
 $$
 Karena $c_k \in I$ untuk setiap $k \in \mathbb{N_0}$, maka $h(x) = f(x)g(x) \in I[x]$.
 
-Berdasarkan [[Karakterisasi Ideal]] terbukti bahwa $I[x]$ membentuk ideal dari $R[x]$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Karakterisasi Ideal]] terbukti bahwa $I[x]$ membentuk ideal dari $R[x]$.
 
 ***
 ## Definition Used 
- * [[Ideal (Ring)]]
- * [[Gelanggang Polinomial]]
- * [[Subgelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Gelanggang Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Subgelanggang]]

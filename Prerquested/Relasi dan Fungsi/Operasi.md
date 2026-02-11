@@ -5,6 +5,6 @@ $$x \circ y$$
 
 ***
 ## Definition Used:
-* [[Himpunan|Himpunan]]
-* [[Fungsi]]
-* [[Perkalian Kartesian]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan|Himpunan]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Perkalian Kartesian]]

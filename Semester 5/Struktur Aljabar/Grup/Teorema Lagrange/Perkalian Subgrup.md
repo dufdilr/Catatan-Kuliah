@@ -9,13 +9,13 @@ Definisikan $\phi : S \to aS$ dengan $\phi(s) = as$ untuk setiap $s \in S$. Jela
 ### Surjektif
 Ambil $g \in aS$. Pilih $x = a^{-1}g$. Perhatikan bahwa $\phi(x) = a a^{-1}g = g$. Terbukti$\phi$ bersifat surjektif.
 ### Injektif
-Ambil $s_{1},s_{2}\in S$ sehingga $\phi(s_{1})=\phi(s_{2})$. Artinya $as_{1}=as_{2}$. Berdasarkan [[Hukum Pembatalan Grup]], maka $s_{1}=s_{2}$.
+Ambil $s_{1},s_{2}\in S$ sehingga $\phi(s_{1})=\phi(s_{2})$. Artinya $as_{1}=as_{2}$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Hukum Pembatalan Grup]], maka $s_{1}=s_{2}$.
 
 Maka $\phi$ adalah fungsi bijektif. Terbukti bahwa $|aS| = |S|$.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup]]
- * [[Kardinalitas Himpunan]]
- * [[Fungsi Bijektif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]
+ * [[Buat Backup/Prerquested/Naive Set/Kardinalitas Himpunan]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]

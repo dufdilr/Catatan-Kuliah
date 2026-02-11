@@ -12,6 +12,6 @@ Untuk kedua kasus terjadi kontradiksi. Artinya, pengandaian salah. Terbukti seti
 
 ***
 ## Definition Used
-* [[Pohon (Graf)]]
-* [[Graf Sederhana]]
-* [[Loop dan Multiple Edges]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/2. Tree/Pohon (Graf)]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf Sederhana]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Loop dan Multiple Edges]]

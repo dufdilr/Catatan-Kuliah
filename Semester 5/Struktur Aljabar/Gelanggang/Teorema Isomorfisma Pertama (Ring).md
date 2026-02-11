@@ -7,7 +7,7 @@ $$
 ---
 ## Bukti
 
-Tulis $\mathrm{Inti}(f) = C$. Berdasarkan [[Inti Homomorfisma Sebagai Ideal|teorema]], maka $C$ membentuk ideal dari $A$. Artinya, $A/C$ terdefinisi dengan baik sebagai [[Gelanggang Hasil Bagi]]. Tinjau pemetaan
+Tulis $\mathrm{Inti}(f) = C$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Inti Homomorfisma Sebagai Ideal|teorema]], maka $C$ membentuk ideal dari $A$. Artinya, $A/C$ terdefinisi dengan baik sebagai [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Hasil Bagi]]. Tinjau pemetaan
 $$
 \phi:A/C \to f(A)
 $$
@@ -43,8 +43,8 @@ $$
 
 ***
 ## Definition Used 
- * [[Homomorfisma (Ring)]]
- * [[Isomorfisma (Ring)]]
- * [[Inti Homomorfisma Gelanggang]]
- * [[Gelanggang Hasil Bagi]]
- * [[Koset Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Homomorfisma (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Isomorfisma (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Inti Homomorfisma Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Koset Gelanggang]]

@@ -12,7 +12,7 @@ Perhatikan bahwa persamaan $ax \equiv b \mod m$ ekuivalen dengan persamaan
 $$
 ax - my = b
 $$
-untuk suatu $y \in \mathbb{Z}$. Berdasarkan [[Persamaan Diophantine Linear]], persamaan tersebut tidak memiliki solusi jika $d \nmid b$. Lebih lanjut, jika $d \mid b$ maka solusi berbentuk
+untuk suatu $y \in \mathbb{Z}$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Kongruensi Modulo/Persamaan Diophantine Linear]], persamaan tersebut tidak memiliki solusi jika $d \nmid b$. Lebih lanjut, jika $d \mid b$ maka solusi berbentuk
 $$
 x = \frac{m}{d}n + x_0
 $$
@@ -21,4 +21,4 @@ dengan $n \in \mathbb{N}$. Perhatikan bahwa kita bekerja di $\mod m$, artinya, t
 ***
 
 ## Definition Used 
- * [[Kongruensi Modulo]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Kongruensi Modulo]]

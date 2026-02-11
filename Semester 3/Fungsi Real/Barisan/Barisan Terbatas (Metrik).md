@@ -6,5 +6,5 @@ Artinya, semua anggota barisan tersebut berada di dalam sebuah bola dengan pusat
 
 ***
 ## Definition Used:
-* [[Ruang Metrik]]
-* [[Barisan (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan (Metrik)]]

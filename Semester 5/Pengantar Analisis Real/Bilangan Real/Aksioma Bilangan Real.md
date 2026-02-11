@@ -44,6 +44,6 @@ Himpunan $\mathbb{R}$ dilengkapi dengan operasi $+$ dan $\times$ didefinisikan s
 ***
 
 ## Definition Used 
- * [[Lapangan]]
- * [[Himpunan Terbatas di Bawah]]
- * [[Infimum]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Himpunan Terbatas di Bawah]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Infimum]]

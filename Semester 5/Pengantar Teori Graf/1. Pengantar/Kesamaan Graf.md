@@ -6,4 +6,4 @@ Misalkan $G_1$ dan $G_2$ adalah graf. Didefinisikan $G_1 = G_2$ jika dan hanya j
 
 ***
 Definition Used:
-* [[Graf|Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf|Graf]]

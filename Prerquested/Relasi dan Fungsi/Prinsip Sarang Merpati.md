@@ -11,6 +11,6 @@ Namun jelas $A = f^{-1}(B)$. Kontradiksi dengan hipotesis awal $|A| > |B|$.
 
 ***
 ## Definition Used 
- * [[Himpunan]]
- * [[Fungsi Injektif]]
- * [[Kardinalitas Himpunan]]
+ * [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Injektif]]
+ * [[Buat Backup/Prerquested/Naive Set/Kardinalitas Himpunan]]

@@ -9,7 +9,7 @@ Misalkan $G$ adalah suatu grup dan $N \le G$. Pernyataan berikut ekuivalen:
 ---
 ## Bukti
 ### $1 \Rightarrow 2$
-Misalkan $N$ adalah subgrup normal dari $G$. Ambil $g \in G$. Ambil $x \in g^{-1}Ng$. Artinya $x = g^{-1}ng$ untuk suatu $n \in N$. Karena $g \in G$ maka $g ^{-1} \in G$. Per definisi [[Subgrup Normal]] maka
+Misalkan $N$ adalah subgrup normal dari $G$. Ambil $g \in G$. Ambil $x \in g^{-1}Ng$. Artinya $x = g^{-1}ng$ untuk suatu $n \in N$. Karena $g \in G$ maka $g ^{-1} \in G$. Per definisi [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]] maka
 $$
 x = g^{-1}ng \in N \quad\implies\quad g^{-1}Ng \subseteq N
 $$
@@ -38,9 +38,9 @@ Ambil $g \in G$ dan $n \in N$. Perhatikan bahwa $gN = Ng$, artinya $gn = n_{1}g$
 $$
 gng^{-1} = g_{1} \in N
 $$
-Per definisi [[Subgrup Normal]] maka $N \unlhd G$.
+Per definisi [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]] maka $N \unlhd G$.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup Normal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]]

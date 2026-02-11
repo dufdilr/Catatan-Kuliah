@@ -11,10 +11,10 @@ Ambil $w_{1}, w_{2} \in W$ dan $\alpha \in \mathbb{F}$. Perhatikan bahwa $w_{1},
 $$
 w_{1}+w_{2}, \alpha w_{1} \in V_{1} \cap V_{2}
 $$
-Berdasarkan [[Karakterisasi Subruang]] terbukti $W$ membentuk subruang dari $V$.
+Berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Karakterisasi Subruang]] terbukti $W$ membentuk subruang dari $V$.
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Irisan Gabungan dan Komplemen Himpunan#^eb4f2e|Irisan Himpunan]]
- * [[Subruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Prerquested/Naive Set/Irisan Gabungan dan Komplemen Himpunan#^eb4f2e|Irisan Himpunan]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Subruang Vektor]]

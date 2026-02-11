@@ -13,7 +13,7 @@ dan $B_i \cap B_j = \emptyset$ untuk setiap $i \neq j$. Perhatikan bahwa jika $i
 $$
 (A \cap B_{i}) \cap (A \cap B_{j}) = A \cap (B_{i} \cap B_{j}) = A \cap \emptyset = \emptyset
 $$
-Perhatikan [[Distributif Irisan dan Gabungan|bahwa]] 
+Perhatikan [[Buat Backup/Prerquested/Naive Set/Distributif Irisan dan Gabungan|bahwa]] 
 $$
 \begin{align*}
 P(A) &= P(A \cap S) = P\left(A \cap \left(\bigcup_{i=1}^n B_{i}\right)\right) \\
@@ -25,5 +25,5 @@ P(A) &= P(A \cap S) = P\left(A \cap \left(\bigcup_{i=1}^n B_{i}\right)\right) \\
 $$
 ***
 ## Definition Used
-* [[Ruang Peluang]]
-* [[Partisi Himpunan]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Ruang Peluang]]
+* [[Buat Backup/Prerquested/Naive Set/Partisi Himpunan]]

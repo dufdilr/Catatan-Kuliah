@@ -4,7 +4,7 @@ Misalkan $A$ adalah suatu grup dan $Z(A)$ adalah pusat $A$. Jika $A/Z(A)$ adalah
 
 ---
 ## Bukti
-Telah ditunjukkan bahwa [[Pusat Grup Sebagai Subgrup Normal|Pusat Grup adalah Subgrup Normal]]. Artinya $A/Z(A)$ membentuk [[Grup Hasil Bagi]]. Lebih lanjut, karena $A/Z(A)$ adalah grup siklik maka
+Telah ditunjukkan bahwa [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Pusat Grup Sebagai Subgrup Normal|Pusat Grup adalah Subgrup Normal]]. Artinya $A/Z(A)$ membentuk [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Grup Hasil Bagi]]. Lebih lanjut, karena $A/Z(A)$ adalah grup siklik maka
 $$
 A/Z(A) = \left< aZ(A) \right> 
 $$
@@ -30,7 +30,7 @@ $$
 Terbukti bahwa $xy=yx$ untuk setiap $x,y \in A$
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Pusat Grup]]
- * [[Grup Siklik]]
- * [[Grup Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Pusat Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Siklik]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Komutatif]]

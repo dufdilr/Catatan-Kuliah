@@ -6,5 +6,5 @@ $$\forall x, y \in X: \quad d_X(x, y) = d_Y(f(x), f(y))$$
 ---
 
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Fungsi]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

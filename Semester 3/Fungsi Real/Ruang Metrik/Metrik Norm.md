@@ -47,5 +47,5 @@ Karena keempat aksioma terpenuhi, maka $(\mathbb{V}, d_{\|\cdot\|})$ adalah ruan
 
 ***
 ## Definition Used:
-* [[Ruang Metrik]]
-* [[Ruang Bernorm]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Bernorm]]

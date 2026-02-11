@@ -5,4 +5,4 @@ $$f(a) = f(b) \quad \Rightarrow \quad a = b$$
 
 ***
 ## Definition Used:
-* [[Fungsi]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

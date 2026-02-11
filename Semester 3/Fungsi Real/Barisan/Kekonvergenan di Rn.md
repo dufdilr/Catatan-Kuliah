@@ -36,5 +36,5 @@ Misalkan untuk setiap $j \in [1, k]_\mathbb{N}$ berlaku $x_n(j) \to x(j)$. Ambil
 
 ***
 ## Definition Used 
- * [[Ruang Metrik Rn Norm p]]
- * [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik Rn Norm p]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]

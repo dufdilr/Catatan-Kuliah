@@ -6,5 +6,5 @@ Path dengan titik awal $u$ dan titik akhir $v$ disebut $(u, v)-$path. Jika graf 
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Walk (Graf)|Walk]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Walk (Graf)|Walk]]

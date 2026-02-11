@@ -8,7 +8,7 @@ $$
 ## Bukti
 
 ### $\Rightarrow$
-Misalkan $p$ adalah [[Unsur Prima (Ring)|unsur prima]] di $R$. Tinjau $\left< p \right>$ [[Ideal Utama]] di $R$. 
+Misalkan $p$ adalah [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Prima (Ring)|unsur prima]] di $R$. Tinjau $\left< p \right>$ [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Utama]] di $R$. 
 Ambil $x, y \in R$ sehingga $xy \in \left< p \right>$. Artinya, $p \mid xy$. Karena $p$ prima maka $p \mid x$ atau $p \mid y$. Berarti, $x \in \left< p \right>$ atau $y \in \left< p \right>$. 
 Terbukti $\left< p \right>$ adalah ideal prima.
 
@@ -19,7 +19,7 @@ Terbukti, $p$ adalah unsur prima.
 
 ***
 ## Definition Used 
- * [[Daerah Integral]]
- * [[Unsur Prima (Ring)]]
- * [[Ideal Prima]]
- * [[Ideal Utama]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Prima (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Prima]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Utama]]

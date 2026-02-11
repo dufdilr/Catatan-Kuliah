@@ -6,5 +6,5 @@ Misalkan $A$ suatu himpunan dan $f: A \to A$. Titik $a\in A$ disebut **titik tet
 ---
 
 ## Definition Used 
- * [[Himpunan]]
- * [[Fungsi]]
+ * [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

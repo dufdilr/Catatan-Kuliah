@@ -14,7 +14,7 @@ $$
 Maka komposisi terdefinisi dengan baik di $\mathrm{Inn}(A)$.
 
 ### Asosiatif
-Jelas berdasarkan [[Komposisi Asosiatif]].
+Jelas berdasarkan [[Buat Backup/Prerquested/Relasi dan Fungsi/Komposisi Asosiatif]].
 ### Identitas
 Jelas $i_A(x) = x = exe^{-1} f_e(x)$. Artinya $i_A \in \mathrm{Inn}(A)$. Lebih lanjut, telah ditunjukkan $i_A$ identitas di $\text{Aut}\left({A}\right)$ maka $i_A$ juga identitas di $\mathrm{Inn}(A)$
 ### Inverse
@@ -38,7 +38,7 @@ Terbukti $\mathrm{Inn}(A)$ merupakan subgrup normal dari $\text{Aut}\left({A}\ri
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Grup Automorfisma]]
- * [[Inner Automorfisma]]
- * [[Subgrup Normal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Permutasi/Grup Automorfisma]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Inner Automorfisma]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]]

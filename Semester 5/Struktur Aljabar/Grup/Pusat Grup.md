@@ -7,4 +7,4 @@ $$
 
 ***
 ## Definition Used
-* [[Grup]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]

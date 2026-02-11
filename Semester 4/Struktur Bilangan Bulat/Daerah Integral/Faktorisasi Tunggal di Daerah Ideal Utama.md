@@ -16,7 +16,7 @@ Misalkan $D$ Daerah Ideal Utama dan $a \in D$ tak nol dan bukan unit. Terdapat b
     
     Andaikan ada barisan $b_1, b_2, b_3, \cdots$ yang tak prima. Misalkan $I_k = \langle b_k \rangle$. Perhatikan bahwa $b_{k+1} \mid b_k$ dan $b_{k+1} \nsim b_l$, artinya
     $$I_1 \subsetneq I_2 \subsetneq I_3 \subsetneq \cdots$$
-    Berdasarkan [[Rantai Ideal Sejati|teorema]] $I_k$ pasti berhingga. Kontradiksi.
+    Berdasarkan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Rantai Ideal Sejati|teorema]] $I_k$ pasti berhingga. Kontradiksi.
     
     Artinya $\{b_k\}$ pasti berhingga. Sehingga dapat dituliskan
     $$a = 1\cdot b_k \cdot c_k \cdot c_{k-1} \cdots c_1$$
@@ -26,7 +26,7 @@ $$a = u \cdot p_1 \cdot p_2 \cdots p_n = v \cdot q_1 \cdot q_2 \cdots q_m$$
 dengan $v$ unit dan $q_i$ prima. Tanpa mengurangi keumuman, misalkan $n \le m$.
 Perhatikan bahwa
 $$p_1 \mid v \cdot q_1 \cdot q_2 \cdots q_m$$
-Karena $p_1$ prima maka $p_1 \mid q_{i_1}$. Artinya $q_{i_1} = u_1 \cdot p_1$. Berdasarkan [[Unsur Prima Daerah Ideal Utama|teorema]], $u_1$ unit. Artinya dapat dituliskan
+Karena $p_1$ prima maka $p_1 \mid q_{i_1}$. Artinya $q_{i_1} = u_1 \cdot p_1$. Berdasarkan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Unsur Prima Daerah Ideal Utama|teorema]], $u_1$ unit. Artinya dapat dituliskan
 $$
 \begin{align*}
 u \cdot p_1 \cdot p_2 \cdots p_n &= v \cdot u_1 \cdot p_1 \cdot q_1 \cdot q_2 \cdots \hat{q_{i_1}} \cdots q_m \\
@@ -44,8 +44,8 @@ Lebih lanjut, perhatikan bahwa $q_{i_k} = u_k \cdot p_k, \quad \forall k \in [1,
 
 ***
 ## Definition Used 
- * [[Daerah Ideal Utama]]
- * [[Daerah Faktorisasi Tunggal]]
- * [[Ideal Sejati]]
- * [[Unsur Prima (Ring)]]
- * [[Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Ideal Utama]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Faktorisasi Tunggal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Sejati]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Prima (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]

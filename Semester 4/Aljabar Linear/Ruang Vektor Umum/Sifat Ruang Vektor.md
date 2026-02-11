@@ -53,4 +53,4 @@ Berdasarkan [[ |Ketunggalan Inverse Penjumlahan]] maka $-({-v}) = {v}$
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]

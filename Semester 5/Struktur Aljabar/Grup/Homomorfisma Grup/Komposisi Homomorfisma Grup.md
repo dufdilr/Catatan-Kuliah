@@ -15,6 +15,6 @@ Maka $g \circ f$ adalah homomorfisma grup.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Homomorfisma (Grup)]]
- * [[Komposisi Fungsi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Homomorfisma (Grup)]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Komposisi Fungsi]]

@@ -6,7 +6,7 @@ $$
 ---
 ## Bukti
 ### $\Rightarrow$
-Misalkan $f$ adalah homomorfisma injektif. Berdasarkan [[Sifat Homomorfisma Grup]], maka $f(e_A) = e_B$. Karena $f$ injektif maka
+Misalkan $f$ adalah homomorfisma injektif. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Sifat Homomorfisma Grup]], maka $f(e_A) = e_B$. Karena $f$ injektif maka
 $$
 x \in \mathrm{Inti}(f) \iff f(x) = e_B \iff f(x) = f(e_A) \iff x = e_A
 $$
@@ -21,7 +21,7 @@ Artinya $a_{1}a_{2}^{-1} \in \mathrm{Inti}(f) = \{ e_A \}$. Maka $a_{1}a_{2}^{-1
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Homomorfisma (Grup)]]
- * [[Fungsi Injektif]]
- * [[Inti Homomorfisma Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Homomorfisma (Grup)]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Injektif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Inti Homomorfisma Grup]]

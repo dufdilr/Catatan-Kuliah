@@ -8,11 +8,11 @@ untuk setiap $v \in \mathbb{F}^n$ dengan $\mathbf{A}v$ adalah perkalian matriks 
 
 ---
 ## Bukti
-Jelas berdasarkan [[Sifat Operasi Matriks]]
+Jelas berdasarkan [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Sifat Operasi Matriks]]
 
 ***
 ## Definition Used 
- * [[Matriks]]
- * [[Operasi Matriks]]
- * [[Pemetaan Linear]]
- * [[Ruang Vektor Fn]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Operasi Matriks]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor Fn]]

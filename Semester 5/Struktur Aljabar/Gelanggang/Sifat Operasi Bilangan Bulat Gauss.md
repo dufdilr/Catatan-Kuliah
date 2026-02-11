@@ -186,6 +186,6 @@ $$
 
 ***
 ## Definition Used
- * [[Bilangan Bulat Gauss]]
- * [[Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Bilangan Bulat Gauss]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
  

@@ -8,7 +8,7 @@ Dengan kata lain jika $d = (a, b) = d'$ maka $d \sim d'$.
 
 ## Bukti
 
-Ambil $a, b \in D$. Tulis $I = \langle a, b \rangle$. Berdasarkan [[Ideal Terbangun|teorema]] maka $I$ ideal dari $D$. Karena $D$ Daerah Ideal Utama maka $I = \langle d \rangle$ untuk suatu $d \in I$. Akan ditunjukkan bahwa $d = (a, b)$.
+Ambil $a, b \in D$. Tulis $I = \langle a, b \rangle$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Terbangun|teorema]] maka $I$ ideal dari $D$. Karena $D$ Daerah Ideal Utama maka $I = \langle d \rangle$ untuk suatu $d \in I$. Akan ditunjukkan bahwa $d = (a, b)$.
 
 1.  Karena $d \in I = \langle a, b \rangle$ maka $d = s_1a + t_1b \quad \exists s_1, t_1 \in D$.
 2.  Jelas $a \in \langle a, b\rangle = \langle d \rangle$. Maka $a = dk \quad \exists k \in D$. Artinya $d \mid a$.
@@ -25,8 +25,8 @@ maka $uv = 1$. Berarti $u$ adalah unsur unit. Terbukti $d \sim d'$.
 
 ***
 ## Definition Used 
- * [[Daerah Ideal Utama]]
- * [[Ideal Terbangun]]
- * [[Faktor Persekutuan Terbesar (Daerah Integral)]]
- * [[Unsur Unit (Ring)]]
- * [[Unsur Sekawan (Ring)]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Ideal Utama]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Terbangun]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Faktor Persekutuan Terbesar (Daerah Integral)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Sekawan (Ring)]]

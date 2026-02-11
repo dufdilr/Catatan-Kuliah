@@ -10,4 +10,4 @@ $$
 
 ***
 ## Definition Used:
-* [[Himpunan]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]

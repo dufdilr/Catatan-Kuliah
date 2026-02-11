@@ -7,7 +7,7 @@ Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $U$ subhimpunan takkosong 
 
 ---
 ## Bukti
-Karena $U$ tak kosong, pilih sebarang $u \in U$. Berdasarkan aturan (2), [[Sifat Ruang Vektor#^fb9b94|maka]] $0u = 0 \in U$. Lebih lanjut, berdasarkan aturan (1) dan (2) maka operasi $+$ dan $\cdot$ terdefinisi dengan baik di $U$.
+Karena $U$ tak kosong, pilih sebarang $u \in U$. Berdasarkan aturan (2), [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Sifat Ruang Vektor#^fb9b94|maka]] $0u = 0 \in U$. Lebih lanjut, berdasarkan aturan (1) dan (2) maka operasi $+$ dan $\cdot$ terdefinisi dengan baik di $U$.
 
 Ambil $u, v, w \in U$ dan $\alpha, \beta \in \mathbb{F}$. Karena $U \subseteq V$ maka $u, v, w \in V$. Artinya berlaku:
 1.  **Sifat Asosiatif Penjumlahan**:
@@ -33,5 +33,5 @@ Terbukti, bahwa $U$ membentuk ruang vektor atas lapangan $\mathbb{F}$. Maka, $U$
 ***
 
 ## Definition Used
-* [[ Ruang Vektor]]
-* [[Subruang Vektor]]
+* [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+* [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Subruang Vektor]]

@@ -7,5 +7,5 @@ $$
 
 ***
 ## Definition Used
-* [[Himpunan Berhingga]]
-* [[Kardinalitas Himpunan]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan Berhingga]]
+* [[Buat Backup/Prerquested/Naive Set/Kardinalitas Himpunan]]

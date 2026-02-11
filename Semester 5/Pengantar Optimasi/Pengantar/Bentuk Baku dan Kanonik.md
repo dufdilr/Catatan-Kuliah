@@ -7,4 +7,4 @@ Suatu permasalahan minimum dengan kendala berupa $A \textbf{x} \ge \textbf{b}$ d
 ***
 
 ## Definition Used
-* [[Program Linear]]
+* [[Buat Backup/Semester 5/Pengantar Optimasi/Pengantar/Program Linear]]

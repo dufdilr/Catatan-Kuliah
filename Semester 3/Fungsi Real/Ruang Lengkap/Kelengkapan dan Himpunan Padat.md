@@ -33,8 +33,8 @@ Maka $y_n \to y$. Artinya setiap barisan cauchy di $Y$ konvergen. Terbukti bahwa
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Ruang Metrik Lengkap]]
- * [[Himpunan Padat]]
- * [[Barisan Cauchy (Metrik)]]
- * [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Lengkap/Ruang Metrik Lengkap]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Himpunan Padat]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Cauchy (Metrik)]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]

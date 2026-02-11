@@ -3,4 +3,4 @@ Suatu grup $(G, *)$ disebut **Grup Komutatif** atau **Abel** jika untuk setiap $
 $$a*b = b*a$$
 ***
 ## Definition Used:
-* [[Grup]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]

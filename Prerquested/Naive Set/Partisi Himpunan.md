@@ -12,6 +12,6 @@ $$
 
 ***
 ## Definition Used
-* [[Himpunan]]
-* [[Himpunan Saling Lepas]]
-* [[Gabungan dan Irisan Kumpulan Himpunan]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan Saling Lepas]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Gabungan dan Irisan Kumpulan Himpunan]]

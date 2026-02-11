@@ -18,7 +18,7 @@ Berarti $v \in \text{Eig}_{\lambda^k}(T^k)$. Lebih lanjut, karena terdapat $v \n
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Pemetaan Linear]]
- * [[Vektor dan Nilai Eigen]]
- * [[Ruang Eigen]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Vektor dan Nilai Eigen]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Ruang Eigen]]

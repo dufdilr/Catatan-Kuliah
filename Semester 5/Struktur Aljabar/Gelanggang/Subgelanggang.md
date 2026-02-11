@@ -4,4 +4,4 @@ Misalkan $(R, +, \cdot)$ adalah suatu gelanggang. Himpunan tak-kosong $K \subset
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]

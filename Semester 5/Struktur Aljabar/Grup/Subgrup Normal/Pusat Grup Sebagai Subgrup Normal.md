@@ -12,6 +12,6 @@ Maka $Z(G) \unlhd G$.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Pusat Grup]]
- * [[Subgrup Normal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Pusat Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]]

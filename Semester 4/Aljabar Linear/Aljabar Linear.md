@@ -1,7 +1,7 @@
 #Rangkuman #NotFinished 
 # Ruang Vektor Umum
 
-## [[Lapangan]]
+## [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan]]
 Misalkan $F$ adalah sebuah himpunan yang dilengkapi dengan dua operasi biner, yaitu penjumlahan ($+$) dan perkalian ($\cdot$). Himpunan $(F, +, \cdot)$ disebut **Lapangan (Field)** jika untuk setiap $a, b, c \in F$:
 1.  **Asosiatif Penjumlahan:**
     $(a + b) + c = a + (b + c)$
@@ -22,7 +22,7 @@ Misalkan $F$ adalah sebuah himpunan yang dilengkapi dengan dua operasi biner, ya
 9.  **Distributif:**
     $a \cdot (b + c) = (a \cdot b) + (a \cdot c)$
 
-## [[Ruang Vektor|Aksioma Ruang Vektor]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor|Aksioma Ruang Vektor]]
 Misalkan $V$ adalah suatu himpunan tak kosong dan $F$ adalah suatu *lapangan*. Himpunan $V$ disebut **Ruang Vektor** (Vector Space) atas lapangan $F$ jika pada $V$ didefinisikan dua operasi:
 1.  **Penjumlahan Vektor**: Operasi biner $+ : V \times V \to V$
 2.  **Perkalian Skalar**: Operasi $\cdot : F \times V \to V$
@@ -46,7 +46,7 @@ sehingga untuk setiap $u, v, w \in V$ dan $\alpha, \beta \in F$ berlaku
 8.  **Eksistensi Elemen Identitas Perkalian**:
     $1v = v$, di mana $1$ adalah elemen identitas perkalian dalam lapangan $F$.
 
-## [[Sifat Ruang Vektor]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Sifat Ruang Vektor]]
 Misalkan $V$ adalah ruang vektor atas lapangan $\mathbb{F}$. Maka berlaku
 1. **Ketunggalan Identitas Penjumlahan** 
 2. **Ketunggalan Inverse Penjumlahan**
@@ -54,10 +54,10 @@ Misalkan $V$ adalah ruang vektor atas lapangan $\mathbb{F}$. Maka berlaku
 4. **Perkalian Inverse Penjumlahan** $\forall {v} \in V: \ (-1){v} =  {-v}$
 5. **Inverse dari Inverse** $\forall {v} \in V: \ -\left(-{v}\right) = {v}$
 
-## [[Lapangan Sebagai Ruang Vektor]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Lapangan Sebagai Ruang Vektor]]
 Misalkan $\mathbb{F}$ adalah suatu lapangan. Maka, $\mathbb{F}$ adalah Ruang Vektor atas lapangan $\mathbb{F}$.
 
-## [[Perkalian Kartesian Ruang Vektor]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Perkalian Kartesian Ruang Vektor]]
 Misalkan $V_1, V_2, \cdots , V_n$ adalah ruang vektor atas lapangan $\mathbb{F}$. Misalkan
 $$
 W = V_{1} \times V_{2} \times \cdots \times V_n = \{ (v_1, v_{2}, \cdots, v_n) \ : \ v_i \in V_i \}
@@ -73,19 +73,19 @@ Himpunan $W$ dengan operasi tersebut membentuk **ruang vektor**.
 
 ## Contoh Ruang Vektor Standar
 
-### [[Lapangan Sebagai Ruang Vektor|Ruang Vektor F]]
+### [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Lapangan Sebagai Ruang Vektor|Ruang Vektor F]]
 Misalkan $\mathbb{F}$ adalah suatu lapangan. Maka, $\mathbb{F}$ adalah Ruang Vektor atas lapangan $\mathbb{F}$.
-### [[Ruang Vektor Fn]]
+### [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor Fn]]
 Himpunan $\mathbb{F}^n$ dengan operasi $+$ dan perkalian skalar $\cdot$ standar membentuk **Ruang Vektor**
-## [[Subruang Vektor]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Subruang Vektor]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$. Subhimpunan takkosong $U \subseteq V$ disebut **subruang** dari $V$ jika $U$ membentuk ruang vektor atas $F$ dengan operasi yang sama.
 
-## [[Karakterisasi Subruang]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Karakterisasi Subruang]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $U$ subhimpunan takkosong $U \subseteq V$. $U$ membentuk **subruang** dari $V$ jika dan hanya jika untuk setiap ${u},{w} \in U$ dan $\lambda \in \mathbb{F}$ berlaku 
 1. ${u}+ {w} \in U$
 2. $\lambda \overline{u} \in U$
 
-## [[Kombinasi Linear dan Span]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Kombinasi Linear dan Span]]
 Misalkan $V$ adalah ruang vektor atas lapangan $\mathbb{F}$. Misalkan pula $v_{1}, v_{2}, \cdots, v_n \in V$. Vektor $v \in V$ disebut **Kombinasi Linear** dari $v_{1}, v_{2}, \cdots, v_n$ jika terdapat $c_{1}, c_{2}, \cdots, c_n \in \mathbb{F}$ sehingga
 $$
 v = c_{1}v_{1} + c_{2}v_{2} + \cdots + c_nv_n = \sum_{i=1}^n c_iv_i
@@ -95,7 +95,7 @@ $$
 \left< v_{1}, v_{2}, \cdots, v_n \right> := \left\{ \sum_{i=1}^n c_iv_i \ : \ c_{1}, c_{2}, \cdots, c_n \in \mathbb{F} \right\} 
 $$
 
-## [[Span Sebagai Subruang]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Span Sebagai Subruang]]
 Misalkan $V$ adalah ruang vektor atas lapangan $\mathbb{F}$. Misalkan pula $v_{1}, v_{2}, \cdots, v_n \in V$. Maka himpunan **Span** 
 $$
 \left< v_{1}, v_{2}, \cdots, v_n \right>
@@ -103,34 +103,34 @@ $$
 membentuk **Subruang** dari $V$
 
 
-## [[Irisan Subruang]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Irisan Subruang]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $V_1, V_2$ adalah subruang dari $V$. Maka, himpunan
 $$
 W = V_{1} \cap V_{2}
 $$
 juga membentuk subruang dari $V$
 
-## [[Jumlah Subruang]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Jumlah Subruang]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $V_1, V_2, ... , V_n$ adalah subruang dari $V$. Definisikan himpunan
 $$
 V_1 + V_2 + \cdots + V_n := \{ {v_1} + {v_2} + \cdots + {v_n} \ : \ {v_i} \in V_i \text{ untuk setiap } i = 1, 2, \dots , n\}
 $$
 
-## [[Jumlah Subruang Sebagai Supruang Terkecil|Jumlah Subruang Sebagai Subruang V]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Jumlah Subruang Sebagai Supruang Terkecil|Jumlah Subruang Sebagai Subruang V]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $V_1, V_2, ... , V_n$ adalah subruang dari $V$. Himpunan $V_1 + V_2 + \cdots + V_n$ merupakan **Subruang Terkecil** dari $V$ yang memuat $V_1, V_2, ... , V_n$
 
-## [[Jumlah Langsung Subruang]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Jumlah Langsung Subruang]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $V_1, V_2, ... , V_n$ adalah subruang dari $V$.  Himpunan $V_1 + V_2 + \cdots + V_n$ disebut **Jumlah Langsung** apabila setiap elemen hanya dapat dituliskan **secara tunggal**.
 Lebih lanjut, dituliskan jumlah langsung sebagai
 $$
 V_1 \oplus V_2 \oplus \cdots \oplus V_n
 $$
 
-## [[Karakterisasi Jumlah Langsung]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Karakterisasi Jumlah Langsung]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $V_1, V_2, ... , V_n$ adalah subruang dari $V$.  Berlaku $V_1 + V_2 + \cdots + V_n$ adalah **Jumlah Langsung** jika dan hanya jika berlaku 
 "Jika $\mathbf{0} = v_{1} + v_{2} + \cdots + v_n$ dengan $v_i \in V_i$ maka $v_i = \mathbf{0}$ untuk setiap $i$"
 
-## [[Jumlah Langsung Dua Subruang]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Jumlah Langsung Dua Subruang]]
 Misalkan $V$ ruang vektor atas $\mathbf{F}$ dan $U, W$ adalah subruang dari $V$. Berlaku
 $$
 U + W \text{ adalah Jumlah Langsung} \quad \iff \quad U\cap W = \{\overline{0}\}
@@ -139,7 +139,7 @@ $$
 ***
 # Matriks dan Pemetaan Linear
 
-## [[Matriks]]
+## [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]
 Matriks $\mathbf{A} = [a]_{i, j}$ berukuran $m \times n$ didefinisikan sebagai **Array** 2 dimensi dengan elemen baris ke-$i$ kolom ke-$j$ adalah $a_{i,j}$, dituliskan
 $$
 \mathbf{A} = 
@@ -155,7 +155,7 @@ Himpunan matriks berukuran $m \times n$ dengan setiap elemen merupakan anggota d
 
 Jika $\mathbf{A} \in M_{n \times n}(\mathbb{F})$ maka $\mathbf{A}$ disebut **Matriks Persegi**. Jika $a_{i, j} = 0$ untuk setiap $i \neq j$ maka $\mathbf{A}$ disebut **Matriks Diagonal**. Jika $a_{i, j} = 0$ untuk setiap $i > j$ maka $\mathbf{A}$ disebut **Matriks Segitiga Atas**. Jika $a_{i, j} = 0$ untuk setiap $i < j$ maka $\mathbf{A}$ disebut **Matriks Segitiga Bawah**.
 
-### [[Operasi Matriks]]
+### [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Operasi Matriks]]
 Misalkan suatu lapangan $\mathbb{F}$. Misalkan $\mathbf{A}, \mathbf{B} \in M_{m \times n}(\mathbb{F})$. Definisikan operasi **penjumlahan matriks**
 $$
 \begin{align*}
@@ -208,12 +208,12 @@ a_{m, 1} & a_{m, 2} & \cdots  & a_{m, n}
 \end{align*}
 $$
 
-## [[Matriks Identitas dan Matriks Nol]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Identitas dan Matriks Nol]]
 
-[[Sifat Operasi Matriks]]
-### [[Ruang Vektor Matriks]]
+[[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Sifat Operasi Matriks]]
+### [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Ruang Vektor Matriks]]
 Misalkan suatu lapangan $\mathbb{F}$. Himpunan $M_{m \times n}(\mathbb{F})$ dengan operasi penjumlahan $+$ dan perkalian skalar $\cdot$ membentuk **Ruang Vektor** atas lapangan $\mathbb{F}$.
-## [[Pemetaan Linear]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]
 Misalkan $V$ dan $W$ adalah ruang vektor atas lapangan $\mathbb{F}$. Fungsi $T: V \to W$ dikatakan **Pemetaan Linear** apabila
 1. **Aditif**: Untuk setiap $u, v \in V$ berlaku $T(u+v) = T(u) + T(v)$
 2. **Homogen**: Untuk setiap $u \in V$ dan $\alpha \in \mathbb{F}$ berlaku $T(\alpha \cdot v) = \alpha \cdot T(v)$ 
@@ -225,45 +225,45 @@ $$
 Jika $V = W$ maka dinotasikan sebagai $\mathcal{L}(V) = \mathcal{L}(V, V)$.
 
 
-## [[Isomorfisma (Ruang Vektor)]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Isomorfisma (Ruang Vektor)]]
 Misalkan $V$ dan $W$ adalah ruang vektor atas lapangan $\mathbb{F}$. Pemetaan Linear $T: V \to W$ dikatakan **Isomorfisma** ruang vektor apabila $T$ adalah fungsi bijektif. 
 
 Apabila terdapat isomorfisma ruang vektor dari $V$ ke $W$ maka $V$ dan $W$ disebut **isomorfik** (Notasi: $V \cong W$).
-### [[Pemetaan Linear Vektor Nol]]
+### [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear Vektor Nol]]
 Misalkan $V$ dan $W$ adalah ruang vektor atas lapangan $\mathbb{F}$ dan $T \in \mathcal{L}(V, W)$. Berlaku
 $$
 T(\mathbf{0_V}) = \mathbf{0_W}
 $$
-### [[Pemetaan Linear Invers Vektor]]
+### [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear Invers Vektor]]
 Misalkan $V$ dan $W$ adalah ruang vektor atas lapangan $\mathbb{F}$ dan $T \in \mathcal{L}(V, W)$. Untuk setiap $v \in V$ berlaku
 $$
 T(-v) = -T(v)
 $$
-### [[Invers Pemetaan Linear]]
+### [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Invers Pemetaan Linear]]
 Misalkan $V$ dan $W$ adalah ruang vektor atas lapangan $\mathbb{F}$ dan $T \in \mathcal{L}(V, W)$. Jika $T$ memiliki invers maka $T^{-1}:W \to V$ juga pemetaan Linear.
 
-### [[Komposisi Pemetaan Linear]]
+### [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Komposisi Pemetaan Linear]]
 Misalkan $U, V$ dan $W$ adalah ruang vektor atas lapangan $\mathbb{F}$ dan $S \in \mathcal{L}(U, V) ;\ T \in \mathcal{L}(V, W)$. Fungsi 
 $$
 ST = S \circ T : U \to V
 $$
 adalah pemetaan linear.
 
-## [[Matriks Sebagai Pemetaan Linear]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Sebagai Pemetaan Linear]]
 Misalkan $\mathbf{A} \in M_{m \times n}(\mathbb{F})$. Kita dapat memandang matriks $\mathbf{A}$ sebagai $A: \mathbb{F}^n \to \mathbb{F}^m$ dengan
 $$
 A(v) := \mathbf{A}v
 $$
 untuk setiap $v \in \mathbb{F}^n$ dengan $\mathbf{A}v$ adalah perkalian matriks memandang yang $v \in M_{n \times 1} (\mathbb{F})$. Pemetaan yang didefinisikan di atas merupakan **pemetaan Linear**.
 
-## [[Matriks dari Pemetaan Linear Fn]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks dari Pemetaan Linear Fn]]
 Misalkan $T \in \mathcal{L}(\mathbb{F}^n, \mathbb{F}^m)$. Maka terdapat matriks $\mathbf{A_T} \in M_{m \times n}(\mathbb{F})$ sehingga untuk setiap $v \in \mathbb{F}$ berlaku
 $$
 T(v) = \mathbf{A_T}\cdot v
 $$
 
 
-## [[Operasi pada Pemetaan Linear]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Operasi pada Pemetaan Linear]]
 Misalkan $V$ dan $W$ adalah ruang vektor atas lapangan $\mathbb{F}$. Definisikan operasi penjumlahan $+$ dan perkalian skalar $\cdot$ pada $\mathcal{L}(V, W)$ dimana untuk setiap $S, T \in \mathcal{L}(V, W)$ dan $\alpha \in \mathbb{F}$ didefinisikan
 $$
 \begin{align*}
@@ -272,16 +272,16 @@ $$
 \end{align*}
 $$
 untuk setiap $v \in V$.
-**[[Sifat Operasi Pemetaan Linear]]**
+**[[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Sifat Operasi Pemetaan Linear]]**
 
-## [[Ruang Vektor Pemetaan Linear]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Ruang Vektor Pemetaan Linear]]
 Misalkan $U, V$ ruang vektor atas lapangan $\mathbb{F}$. Himpunan $\mathcal{L}(U,V)$ dengan operasi penjumlahan $+$ dan perkalian skalar $\cdot$ membentuk **Ruang Vektor** atas lapangan $\mathbb{F}$.
 
-## [[Isomorfisma Ruang Matriks dan Pemetaan Linear]]
-Misalkan $C : \mathcal{L}(\mathbb{F}^n, \mathbb{F}^m) \to M_{m \times n}(\mathbb{F})$ yang memetakan pemetaan linear ke [[Matriks dari Pemetaan Linear Fn|Matriks Representasi]]. Fungsi $C$ adalah fungsi **Isomorfisma** Ruang Vektor.
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Isomorfisma Ruang Matriks dan Pemetaan Linear]]
+Misalkan $C : \mathcal{L}(\mathbb{F}^n, \mathbb{F}^m) \to M_{m \times n}(\mathbb{F})$ yang memetakan pemetaan linear ke [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks dari Pemetaan Linear Fn|Matriks Representasi]]. Fungsi $C$ adalah fungsi **Isomorfisma** Ruang Vektor.
 
 
-## [[Dekomposisi Perkalian Matriks]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Dekomposisi Perkalian Matriks]]
 Misalkan suatu lapangan $\mathbb{F}$, $\mathbf{A} \in M_{m \times n}(\mathbb{F})$ dan $\mathbf{B} \in M_{n \times k}(\mathbb{F})$ dengan
 $$
 \mathbf{B} = 
@@ -296,23 +296,23 @@ $$
 \mathbf{Ab}_{1} & \mathbf{Ab}_{2} & \dots & \mathbf{Ab}_{k}
 \end{bmatrix}
 $$
-## [[Matriks Representasi Komposisi L(Fn, Fm)]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Representasi Komposisi L(Fn, Fm)]]
 Misalkan $S \in \mathcal{L} (\mathbb{F}^n, \mathbb{F}^m)$ dan $T \in \mathcal{L}(\mathbb{F}^m, \mathbb{F}^k)$ maka
 $$
 \mathbf{A_TS} = \mathbf{A_T} \cdot \mathbf{A_S}
 $$
 
-## [[Matriks Transpose]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Transpose]]
 Misalkan suatu lapangan $\mathbb{F}$ dan $\mathbf{A} \in M_{m \times n} (\mathbb{F})$ dengan $\mathbf{A}_{{i, j}} = a_{i, j}$. Definisikan **Transpose** dari matriks $\mathbf{A}$ sebagai
 $$
 \mathbf{A}^T_{i,j} = a_{j, i}
 $$
-### [[Sifat Transpose]]
+### [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Sifat Transpose]]
 Misalkan suatu lapangan $\mathbb{F}$, $\mathbf{A} \in M_{m \times n}(\mathbb{F})$ dan $\mathbf{B} \in M_{n \times k}(\mathbb{F})$. Berlaku:
 1. $\left(\mathbf{A}^T\right)^T = \mathbf{A}$
 2. $\left( \mathbf{AB} \right)^T = \mathbf{B}^T \mathbf{A}^T$
 
-## [[Inverse Matriks]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Inverse Matriks]]
 Misalkan $\mathbf{A} \in M_n(\mathbb{F})$. Matriks $\mathbf{B} \in M_n(\mathbb{F})$ disebut **inverse** matriks dari matriks $\mathbf{A}$ jika
 $$
 \mathbf{A}\mathbf{B} = \mathbf{B}\mathbf{A} = \mathbf{I_n}
@@ -329,7 +329,7 @@ Matriks $\mathbf{R} \in M_{m\times n}(\mathbb{F})$ disebut **inverse kanan** dar
 $$
 \mathbf{A}\mathbf{R} = \mathbf{I_n}
 $$
-### [[Sifat Inverse Matriks]]
+### [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Sifat Inverse Matriks]]
 Misalkan $\mathbf{A}, \mathbf{B} \in M_n(\mathbb{F})$ invertibel maka
 1. **Ketunggalan Inverse Matriks**
 2. **Invers Perkalian Matriks** 
@@ -340,89 +340,89 @@ $$
 $$
 \left(\mathbf{A}^{-1}\right)^{-1} = \mathbf{A}
 $$
-## [[Inverse Matriks Pemetaan Linear]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Inverse Matriks Pemetaan Linear]]
 Misalkan $\mathbf{A} \in M_n(\mathbb{F})$ dan $T: \mathbb{F}^n \to \mathbb{F}^n$ dengan $T(u) = \mathbf{A}u$ untuk setiap $u \in \mathbb{F}^n$. Berlaku
 $$
 \mathbf{A} \text{ invertibel } \iff T \text{ invertibel }
 $$
 Lebih lanjut, jika $\mathbf{A}$ invertibel maka $T^{-1}(u) = \mathbf{A}^{-1}u$ untuk setiap $u \in \mathbb{F}^n$.
 
-## [[Range dan Kernel Pemetaan Linear]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Range dan Kernel Pemetaan Linear]]
 Misalkan $V, W$ adalah ruang vektor atas lapangan $\mathbb{F}$ dan $T \in \mathcal{L}(V, W)$. Definisikan
 $$
 \ker(T) := \{ v \in V \ | \ T(v) = \mathbf{0_W} \}
 $$
-Secara khusus, untuk $\mathbf{A} \in M_{m \times n}(\mathbb{F})$, definisikan $\ker(\mathbf{A}) = \ker(T_A)$ dengan $T_A$ adalah pemetaan linear yang [[Matriks Sebagai Pemetaan Linear|didefinisikan]] oleh $\mathbf{A}$.
+Secara khusus, untuk $\mathbf{A} \in M_{m \times n}(\mathbb{F})$, definisikan $\ker(\mathbf{A}) = \ker(T_A)$ dengan $T_A$ adalah pemetaan linear yang [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Sebagai Pemetaan Linear|didefinisikan]] oleh $\mathbf{A}$.
 
 Definisikan pula range dari $T$ sebagai
 $$
 \mathrm{Im}(T) := \{ w \in W \ | \ w = T(v), \exists v \in V \}
 $$
-Secara khusus, untuk $\mathbf{A} \in M_{m \times n}(\mathbb{F})$, definisikan $\text{Im}(\mathbf{A}) = \text{Im}(T_A)$ dengan $T_A$ adalah pemetaan linear yang [[Matriks Sebagai Pemetaan Linear|didefinisikan]] oleh $\mathbf{A}$.
+Secara khusus, untuk $\mathbf{A} \in M_{m \times n}(\mathbb{F})$, definisikan $\text{Im}(\mathbf{A}) = \text{Im}(T_A)$ dengan $T_A$ adalah pemetaan linear yang [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Sebagai Pemetaan Linear|didefinisikan]] oleh $\mathbf{A}$.
 
-## [[Range Sebagai Subruang]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Range Sebagai Subruang]]
 Misalkan $V, W$ adalah ruang vektor atas lapangan $\mathbb{F}$ dan $T \in \mathcal{L}(V, W)$. Himpunan $\text{Im}\left({T}\right)$ membentuk **Subruang Vektor** dari $W$.
 
-## [[Kernel Sebagai Subruang]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Kernel Sebagai Subruang]]
 Misalkan $V, W$ adalah ruang vektor atas lapangan $\mathbb{F}$ dan $T \in \mathcal{L}(V, W)$. Himpunan $\text{Ker}\left({T}\right)$ membentuk **Subruang Vektor** dari $V$.
 
-## [[Range Matriks]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Range Matriks]]
 Misalkan suatu lapangan $\mathbb{F}$ dan $\mathbf{A} \in M_{m \times n}(\mathbb{F})$. $\mathrm{Im}(\mathbf{A})$ adalah himpunan **Kombinasi Linear** dari vektor kolom $\mathbf{A}$.
 
-## [[Karakterisasi Pemetaan Injektif]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Karakterisasi Pemetaan Injektif]]
 Misalkan $V, W$ ruang vektor atas lapangan $\mathbb{F}$ dan $T \in \mathcal{L}(V, W)$. Pemetaan $T$ bersifat **injektif** jika dan hanya jika $\text{Ker}\left({T}\right) = \{ \mathbf{0_V} \}$
 
 # Vektor Eigen dan Nilai Eigen
-## [[Vektor dan Nilai Eigen]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Vektor dan Nilai Eigen]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $T \in \mathcal{L}(V)$. Suatu $\lambda \in \mathbb{F}$ disebut **nilai eigen** dari transformasi $T$ apabila terdapat vektor *taknol* $v \in V$ sehingga
 $$
 T(v) = \lambda \cdot v
 $$
 Vektor $v$ disebut **vektor eigen** dari $T$ dengan nilai eigen $\lambda$.
 
-## [[Ruang Eigen]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Ruang Eigen]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $T \in \mathcal{L}(V)$ dan $\lambda \in \mathbb{F}$ . Definisikan **Ruang Eigen-$\lambda$** sebagai
 $$
 \text{Eig}_{\lambda}(T) := \{ v \in V \ | \ T(v) = \lambda v \}
 $$
-Untuk matriks $\mathbf{A} \in M_n(\mathbb{F})$, Ruang Eigen-$\lambda$ dari $\mathbf{A}$ didefinisikan sebagai Ruang Eigen-$\lambda$ dari [[Matriks Sebagai Pemetaan Linear|Pemetaan Linear yang direpresentasikan]].
+Untuk matriks $\mathbf{A} \in M_n(\mathbb{F})$, Ruang Eigen-$\lambda$ dari $\mathbf{A}$ didefinisikan sebagai Ruang Eigen-$\lambda$ dari [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Sebagai Pemetaan Linear|Pemetaan Linear yang direpresentasikan]].
 
 Lebih lanjut, ruang eigen membentuk **Subruang Vektor** dari $V$.
 
-## [[Ruang Eigen Sebagai Kernel]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Ruang Eigen Sebagai Kernel]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $T \in \mathcal{L}(V)$ dan $\lambda \in \mathbb{F}$. Berlaku
 $$
 \text{Ker}\left({T - \lambda I_V}\right) = \text{Eig}_{\lambda}(T)
 $$
 
-## [[Karakterisasi Nilai Eigen]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Karakterisasi Nilai Eigen]]
 Misalkan $V$ suatu ruang vektor atas $\mathbb{F}$ dan $T \in \mathcal{L}(V)$ dan $\lambda \in \mathbb{F}$. Berlaku
 $$
 \lambda \text{ nilai eigen dari } T \quad \iff \quad \text{Eig}_{\lambda}(T) \neq \{ \mathbf{0_V} \}
 $$
 
-## [[Nilai Eigen Pangkat]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Nilai Eigen Pangkat]]
 Misalkan $V$ adalah ruang vektor atas lapangan $\mathbb{F}$ dan $T \in \mathcal{L}(V)$. Misalkan pula $\lambda$ adalah nilai eigen dari $T$. Maka, $\lambda^k$ adalah nilai eigen dari $T^k$ dan
 $$
 \text{Eig}_{\lambda}(T) \subseteq \text{Eig}_{{\lambda^k}}(T^k)
 $$
 
 # Kebebaslinearan
-## [[Bergantung Linear]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Basis dan Koordinat/Bergantung Linear]]
 Misalkan $V$ ruang vektor atas lapangan $\mathbb{F}$. Suatu subhimpunan $W \subseteq V$ disebut **Bergantung Linear** jika terdapat subhimpunan berhingga $\{ \mathbf{v} _{1}, \mathbf{v} _{2},  \cdots , \mathbf{v} _n \} \subseteq W$ sehingga terdapat $a_1, a_{2}, \dots , a_n \in \mathbb{F}$ yang tak-semuanya-nol memenuhi
 $$
 a_{1}\mathbf{v}_{1} + a_{2}\mathbf{v}_{2}+\cdots+a_n \mathbf{v}_{n} = \mathbf{0_V}
 $$
-## [[Bebas Linear]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Basis dan Koordinat/Bebas Linear]]
 Misalkan $V$ ruang vektor atas lapangan $\mathbb{F}$. Suatu subhimpunan $W \subseteq V$ disebut **Bebas Linear** jika tidak Bergantung Linear.
 
-## [[Vektor Kolinear]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Basis dan Koordinat/Vektor Kolinear]]
 Misalkan $V$ ruang vektor atas lapangan $\mathbb{F}$ dan $v, w \in V$. Vektor $v$ dan $w$ dikatakan **kolinear** jika terdapat $\alpha \in \mathbb{F}$ sehingga
 $$
 v = cw \quad \text{ atau } \quad w = cv
 $$
 
-## [[Kebebaslinearan Pemetaan Injektif]]
+## [[Buat Backup/Semester 4/Aljabar Linear/Basis dan Koordinat/Kebebaslinearan Pemetaan Injektif]]
 Misalkan $V, W$ ruang vektor atas lapangan $\mathbb{F}$ dan $T \in \mathcal{L}(V, W)$ pemetaan **injektif**. Jika $\{ v_{1}, v_{2}, \dots , v_n \}$ adalah Himpunan yang Bebas Linear maka
 $$
 \{ T(v_{1}), T(v_{2}), \dots, T(v_n) \}

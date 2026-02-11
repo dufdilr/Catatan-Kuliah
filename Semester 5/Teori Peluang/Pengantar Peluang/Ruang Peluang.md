@@ -4,7 +4,7 @@ Misalkan $S$ ruang sampel tak-kosong, $\mathcal{A}$ adalah lapangan-$\sigma$ dar
 
 ***
 ## Definition Used
-* [[Himpunan]]
-* [[Eksperimen Acak dan Ruang Sampel]]
-* [[Aljabar Sigma]]
-* [[Aksioma Peluang]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Eksperimen Acak dan Ruang Sampel]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aljabar Sigma]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Aksioma Peluang]]

@@ -16,7 +16,7 @@ Misalkan $(a, n) = 1$.
     Ambil $[x]_n \in U_n$. Karena $(x,n)=1$ dan $(a,n)=1$, maka $(ax, n) = 1$. Artinya $a \cdot [x]_n = [ax]_n \in U_n$. Berarti $a \cdot U_n \subseteq U_n$.
 
 * **($\supseteq$):**
-    Ambil $[x]_n \in U_n$. Karena $(a, n) = 1$ maka $[a]_n \in U_n$. Berdasarkan [[Invers Perkalian Zn|teorema]], maka ada $[b]_n$ sehingga $[a]_n \cdot [b]_n = [1]_n$.
+    Ambil $[x]_n \in U_n$. Karena $(a, n) = 1$ maka $[a]_n \in U_n$. Berdasarkan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Invers Perkalian Zn|teorema]], maka ada $[b]_n$ sehingga $[a]_n \cdot [b]_n = [1]_n$.
     
     Perhatikan bahwa $[x]_n = [1]_n \cdot [x]_n = ([a]_n \cdot [b]_n) \cdot [x]_n = [a]_n \cdot ([b]_n \cdot [x]_n) = [a]_n \cdot [bx]_n$.
     Karena $[x]_n \in U_n$ dan $[b]_n \in U_n$, maka $[bx]_n \in U_n$.
@@ -27,4 +27,4 @@ Karena kedua himpunan saling termuat satu sama lain, dapat disimpulkan $a \cdot 
 
 ***
 ## Definition Used 
- * [[Grup Perkalian Un]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Grup Perkalian Un]]

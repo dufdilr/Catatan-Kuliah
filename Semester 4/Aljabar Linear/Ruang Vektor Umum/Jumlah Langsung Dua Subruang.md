@@ -12,10 +12,10 @@ Misalkan $U + W$ adalah Jumlah Langsung. Ambil ${v} \in U \cap W$. Perhatikan ba
 
 Terbukti $U\cap W = \{\mathbf{0}\}$
 ### $\Leftarrow$
-Misalkan $U \cap W =  \{\mathbf{0}\}$. Tinjau $\mathbf{0} = u+w$ dengan $u \in U$ dan $w \in W$. Perhatikan bahwa $u = -w$, artinya $u \in U \cap W$. Berdasarkan hipotesis maka $u = \mathbf{0}$ akibatnya $w = -u = \mathbf{0}$. Berdasarkan [[Karakterisasi Jumlah Langsung]] terbukti bahwa $U+W$ adalah **Jumlah Langsung**.
+Misalkan $U \cap W =  \{\mathbf{0}\}$. Tinjau $\mathbf{0} = u+w$ dengan $u \in U$ dan $w \in W$. Perhatikan bahwa $u = -w$, artinya $u \in U \cap W$. Berdasarkan hipotesis maka $u = \mathbf{0}$ akibatnya $w = -u = \mathbf{0}$. Berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Karakterisasi Jumlah Langsung]] terbukti bahwa $U+W$ adalah **Jumlah Langsung**.
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Jumlah Subruang]]
- * [[Jumlah Subruang]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Jumlah Subruang]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Jumlah Subruang]]

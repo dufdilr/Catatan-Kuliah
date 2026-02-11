@@ -35,8 +35,8 @@ sehingga untuk setiap $u, v, w \in V$ dan $\alpha, \beta \in F$ berlaku
 ***
 
 ## Definition Used
-* [[Himpunan]]
-* [[Lapangan|Lapangan]]
-* [[Operasi]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan|Lapangan]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Operasi]]
 
 

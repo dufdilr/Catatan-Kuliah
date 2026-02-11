@@ -30,7 +30,7 @@ Misalkan $P_1 = x_{1}\ e_{1} \ v_{1}\ e_{2}\ v_{2} \cdots\ v_{k-1}\ e_{k}\ u$ da
 $$
 N := \{ i : v_{i} \in P_{2} \}
 $$
-Jelas $v_k = u \in P_2$ maka $k \in N$ sehingga $N \neq \emptyset$. Berdasarkan [[Aksioma Urutan Sempurna]], terdapat indeks terkecil $n \in N$. Misalkan $v_n = w_m$. Konstruksi siklus
+Jelas $v_k = u \in P_2$ maka $k \in N$ sehingga $N \neq \emptyset$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Urutan Sempurna]], terdapat indeks terkecil $n \in N$. Misalkan $v_n = w_m$. Konstruksi siklus
 $$
 C = x_{1}\ e_{1} \ v_{1}\ e_{2}\ v_{2} \cdots\ v_{n-1}\ e_{n}\ v_{n} \ f_{m-1} \ w_{m-1} \ \cdots\ w_{2}\ f_{2}\ w_{1}\ f_{1} \ x_{2} \ e_{0} x_{1}
 $$
@@ -39,7 +39,7 @@ Perhatikan bahwa panjang $C$ adalah $m + n + 1$.  Karena $x_1$ dan $x_2$ berada 
 Terbukti untuk setiap $x_1, x_2 \in X$, $x_1$ dan $x_2$ tidak bertetangga. Bukti serupa dapat ditunjukkan untuk partisi $Y$. Terbukti $G$ adalah graf bipartit dengan partisi $(X, Y)$.
 ***
 ## Definition Used
-* [[Graf]]
-* [[Graf Bipartit]]
-* [[Siklus (Graf)]]
-* [[Tetangga dan Insiden]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf Bipartit]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Siklus (Graf)]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Tetangga dan Insiden]]

@@ -10,5 +10,5 @@ $$
 
 ***
 ## Definition Used 
- * [[Aksioma Bilangan Real]]
- * [[Urutan Bilangan Real]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Urutan Bilangan Real]]

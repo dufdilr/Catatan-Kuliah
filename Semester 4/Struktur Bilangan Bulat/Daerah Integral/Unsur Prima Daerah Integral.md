@@ -13,10 +13,10 @@ a &= pk &\exists \ k \in D \\
 a &= abk
 \end{align*}
 $$
-Jelas $a \neq 0$. Berdasarkan [[Hukum Pembatalan (Daerah Integral)|hukum pencoretan]] maka $bk = kb = 1$. Artinya $b$ adalah unit.
+Jelas $a \neq 0$. Berdasarkan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Hukum Pembatalan (Daerah Integral)|hukum pencoretan]] maka $bk = kb = 1$. Artinya $b$ adalah unit.
 
 ***
 ## Definition Used 
- * [[Daerah Integral]]
- * [[Unsur Prima (Ring)]]
- * [[Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Prima (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]

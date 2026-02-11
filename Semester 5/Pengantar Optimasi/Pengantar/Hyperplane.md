@@ -9,4 +9,4 @@ Lebih lanjut, $\textbf{n}$ disebut sebagai **vektor normal** dari *hyperplane* $
 ***
 
 ## Definition Used
-* [[Ruang Hasil Kali Dalam]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Hasil Kali Dalam]]

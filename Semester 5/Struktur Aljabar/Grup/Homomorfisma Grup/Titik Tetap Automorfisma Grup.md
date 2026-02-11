@@ -11,7 +11,7 @@ membentuk subgrup dari $A$.
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Automorfisma Grup]]
- * [[Titik Tetap]]
- * [[Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Automorfisma Grup]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Titik Tetap]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]

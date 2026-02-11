@@ -33,7 +33,7 @@ $$
 &= \|u\|^2 + 2\langle u, v \rangle + \|v\|^2 \quad (\text{Simetri})
 \end{align*}
 $$
-Karena $\langle u, v \rangle \le |\langle u, v \rangle|$ dan berdasarkan [[Ketaksamaan Cauchy-Schwarz]], $\langle u, v \rangle \le \|u\|\|v\|$, maka:
+Karena $\langle u, v \rangle \le |\langle u, v \rangle|$ dan berdasarkan [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ketaksamaan Cauchy-Schwarz]], $\langle u, v \rangle \le \|u\|\|v\|$, maka:
 $$ \|u+v\|^2 \le \|u\|^2 + 2\|u\|\|v\| + \|v\|^2 = (\|u\| + \|v\|)^2 $$
 Dengan mengakarkan kedua sisi, kita dapatkan:
 $$ \|u+v\| \le \|u\| + \|v\| $$
@@ -41,5 +41,5 @@ Aksioma ketiga terpenuhi. Karena semua aksioma terpenuhi, maka $\|u\| = \sqrt{\l
 
 ***
 ## Definition Used:
-* [[Ruang Hasil Kali Dalam]]
-* [[Ruang Bernorm]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Hasil Kali Dalam]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Bernorm]]

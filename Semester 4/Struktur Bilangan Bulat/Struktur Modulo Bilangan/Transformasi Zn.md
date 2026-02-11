@@ -12,13 +12,13 @@ Misalkan $H = \mathbb{Z}_{n}$. Artinya $[b+1]_{n} \in H$. Berarti terdapat $z \i
 $$
 az + b = b + 1 + nk \quad \Rightarrow \quad az - nk = 1
 $$
-Berdasarkan [[Karakterisasi Relatif Prima]], maka $(a, n) = 1$.
+Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Karakterisasi Relatif Prima]], maka $(a, n) = 1$.
 ### $\Leftarrow$
-Misalkan $(a, n) = 1$. Berdasarkan [[Teorema Bezout]], terdapat $p, q \in \mathbb{Z}$ memenuhi
+Misalkan $(a, n) = 1$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Teorema Bezout]], terdapat $p, q \in \mathbb{Z}$ memenuhi
 $$
 ap + nq = 1 \quad \Rightarrow \quad [ap]_{n} = [1]_{n}
 $$
-Berdasarkan definisi [[Operasi di Zn]], jelas $H \subseteq \mathbb{Z}_{n}$. Ambil $[z]_{n} \in \mathbb{Z}_{n}$. Perhatikan bahwa $[y]_{n} = [p(z-b)]_{n} \in \mathbb{Z}_{n}$. Lebih lanjut, perhatikan bahwa
+Berdasarkan definisi [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Operasi di Zn]], jelas $H \subseteq \mathbb{Z}_{n}$. Ambil $[z]_{n} \in \mathbb{Z}_{n}$. Perhatikan bahwa $[y]_{n} = [p(z-b)]_{n} \in \mathbb{Z}_{n}$. Lebih lanjut, perhatikan bahwa
 $$
 a[y]_{n} + [b]_{n} = a[p(z - b)]_{n} + [b]_{n} = [ap(z-b) + b]_{n} = [z-b+b]_{n} = [z]_{n}
 $$
@@ -28,5 +28,5 @@ Terbukti bahwa $H = \mathbb{Z}_{n}$.
 
 ***
 ## Definition Used 
- * [[Grup Penjumlahan Zn]]
- * [[Relatif Prima]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Grup Penjumlahan Zn]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Relatif Prima]]

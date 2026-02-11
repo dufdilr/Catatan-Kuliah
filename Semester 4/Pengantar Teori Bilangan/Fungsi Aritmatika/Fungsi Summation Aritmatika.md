@@ -5,5 +5,5 @@ F(n) = \sum_{d \mid n} f(d)
 $$
 ***
 ## Definition Used 
- * [[Fungsi Aritmatika]]
- * [[Keterbagian]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Aritmatika]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]

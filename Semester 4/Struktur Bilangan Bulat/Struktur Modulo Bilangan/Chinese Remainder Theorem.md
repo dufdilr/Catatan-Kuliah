@@ -15,7 +15,7 @@ a + mk &\equiv b \pmod{n} \\
 mk &\equiv b-a \pmod{n}
 \end{align*}
 $$
-Karena $(m, n) = 1$, maka $[m]_n$ [[Invers Perkalian Zn|memiliki invers perkalian]] di $\mathbb{Z}_n$. Artinya, ada bilangan bulat $p$ sehingga $mp \equiv 1 \pmod{n}$. Kalikan kedua sisi kongruensi di atas dengan $p$:
+Karena $(m, n) = 1$, maka $[m]_n$ [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Invers Perkalian Zn|memiliki invers perkalian]] di $\mathbb{Z}_n$. Artinya, ada bilangan bulat $p$ sehingga $mp \equiv 1 \pmod{n}$. Kalikan kedua sisi kongruensi di atas dengan $p$:
 $$
 \begin{align*}
 (pm)k &\equiv p(b-a) \pmod{n} \\

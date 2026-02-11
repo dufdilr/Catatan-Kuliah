@@ -7,7 +7,7 @@ $$
 
 ---
 ## Bukti
-Perhatikan bahwa berdasarkan [[Dekomposisi Perkalian Matriks]] dan [[Matriks dari Pemetaan Linear Fn]] maka
+Perhatikan bahwa berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Dekomposisi Perkalian Matriks]] dan [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks dari Pemetaan Linear Fn]] maka
 $$
 \begin{align*}
 \mathbf{A_TS} &= 
@@ -33,6 +33,6 @@ Terbukti.
 
 ***
 ## Definition Used 
- * [[Matriks]]
- * [[Matriks dari Pemetaan Linear Fn]]
- * [[Komposisi Pemetaan Linear]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks dari Pemetaan Linear Fn]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Komposisi Pemetaan Linear]]

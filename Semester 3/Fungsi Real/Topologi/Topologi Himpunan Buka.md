@@ -31,5 +31,5 @@ Misalkan $(X, d)$ ruang metrik
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Himpunan Buka]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Himpunan Buka]]

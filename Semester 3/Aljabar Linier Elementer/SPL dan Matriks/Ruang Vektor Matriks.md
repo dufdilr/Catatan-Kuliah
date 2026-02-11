@@ -5,10 +5,10 @@ Misalkan suatu lapangan $\mathbb{F}$. Himpunan $M_{m \times n}(\mathbb{F})$ deng
 ---
 
 ## Bukti
-Jelas berdasarkan [[Sifat Operasi Matriks]] memenuhi semua [[Ruang Vektor|Aksioma Ruang Vektor]].
+Jelas berdasarkan [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Sifat Operasi Matriks]] memenuhi semua [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor|Aksioma Ruang Vektor]].
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Matriks]]
- * [[Operasi Matriks]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Operasi Matriks]]

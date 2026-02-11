@@ -5,6 +5,6 @@ Suatu bilangan asli $p > 1$ disebut **prima** jika $\forall a \in \mathbb{Z}$ be
 
 ***
 ## Definition Used:
-* [[Bilangan Asli]]
-* [[Keterbagian]]
-* [[Relatif Prima]]
+* [[Buat Backup/Prerquested/Bilangan Asli]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Relatif Prima]]

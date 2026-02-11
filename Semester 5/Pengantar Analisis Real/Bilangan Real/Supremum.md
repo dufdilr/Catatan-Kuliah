@@ -11,5 +11,5 @@ Dengan kata lain, supremum adalah *batas atas terkecil*.
 
 ***
 ## Definition Used 
- * [[Aksioma Bilangan Real]]
- * [[Himpunan Terbatas di Atas]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Himpunan Terbatas di Atas]]

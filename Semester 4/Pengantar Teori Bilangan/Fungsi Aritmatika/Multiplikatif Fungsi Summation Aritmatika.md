@@ -3,7 +3,7 @@
 Jika $f$ adalah fungsi multiplikatif maka Summation Aritmatika dari $f$ juga **multiplikatif**.
 
 ## Bukti
-Misalkan $m, n \in \mathbb{N}$ dengan $(m, n) = 1$. Ambil sembarang $d \in \mathbb{N}$ dengan $d \mid mn$. Perhatikan bahwa terdapat [[Faktor Saling Prima|bijeksi]] dari faktor $mn$ dengan $d_1, d_2$ faktor dari $m$ dan $n$. Maka
+Misalkan $m, n \in \mathbb{N}$ dengan $(m, n) = 1$. Ambil sembarang $d \in \mathbb{N}$ dengan $d \mid mn$. Perhatikan bahwa terdapat [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Faktor Saling Prima|bijeksi]] dari faktor $mn$ dengan $d_1, d_2$ faktor dari $m$ dan $n$. Maka
 $$
 \begin{align*}
 F(mn) &= \sum_{d \mid mn} f(d) =  \sum_{d_1d_{2}\mid mn} f(d_1d_{2})
@@ -22,5 +22,5 @@ Terbukti, fungsi Summation Aritmatika juga fungsi multiplikatif.
 
 ***
 ## Definition Used 
- * [[Fungsi Summation Aritmatika]]
- * [[Fungsi Multiplikatif]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Summation Aritmatika]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Multiplikatif]]

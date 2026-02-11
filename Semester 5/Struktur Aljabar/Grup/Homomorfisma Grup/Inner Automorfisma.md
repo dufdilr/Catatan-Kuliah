@@ -18,7 +18,7 @@ $$
 maka $f_a$ adalah homomorfisma
 
 ### Injektif
-Ambil $x, y \in A$ sehingga $f_a(x) = f_a(y)$. Berdasarkan [[Hukum Pembatalan Grup]] maka
+Ambil $x, y \in A$ sehingga $f_a(x) = f_a(y)$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Hukum Pembatalan Grup]] maka
 $$
 \begin{align*}
 axa^{-1} = aya^{-1} \quad\implies\quad x = y
@@ -39,5 +39,5 @@ $$
 $$
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Automorfisma Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Automorfisma Grup]]

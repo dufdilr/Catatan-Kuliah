@@ -6,5 +6,5 @@ $$I = \langle d\rangle = \{dk \quad | \quad k \in D \}\quad \exists \ d \in D$$
 
 ***
 ## Definition Used 
- * [[Daerah Integral]]
- * [[Ideal Utama]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Utama]]

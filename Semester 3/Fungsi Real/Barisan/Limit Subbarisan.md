@@ -14,5 +14,5 @@ Terbukti bahwa subbarisan $(x_{n_k})$ konvergen ke limit yang sama, yaitu $x$. â
 
 ***
 ## Definition Used:
-* [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
-* [[Subbarisan]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Subbarisan]]

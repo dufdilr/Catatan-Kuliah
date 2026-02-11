@@ -11,5 +11,5 @@ Dengan kata lain, infimum adalah *batas bawah terbesar*
 
 ***
 ## Definition Used 
- * [[Aksioma Bilangan Real]]
- * [[Himpunan Terbatas di Bawah]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Himpunan Terbatas di Bawah]]

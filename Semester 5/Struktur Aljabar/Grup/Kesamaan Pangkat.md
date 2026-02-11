@@ -13,11 +13,11 @@ a^i = a^{k \cdot \text{ord}\left({a}\right) + j} = a^{k \cdot \text{ord}\left({a
 $$
 
 ### $\Rightarrow$
-Misalkan $a^i = a^j$ maka $a^{i-j} = e$. Berdasarkan [[Pangkat Identitas|Teorema]] maka $\text{ord}\left({a}\right) \mid i - j$. Terbukti $i \equiv j \mod \text{ord}\left({a}\right)$
+Misalkan $a^i = a^j$ maka $a^{i-j} = e$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Pangkat Identitas|Teorema]] maka $\text{ord}\left({a}\right) \mid i - j$. Terbukti $i \equiv j \mod \text{ord}\left({a}\right)$
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Order Unsur Grup]]
- * [[Pangkat (Grup)]]
- * [[Kongruensi Modulo]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Order Unsur Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Pangkat (Grup)]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Kongruensi Modulo]]

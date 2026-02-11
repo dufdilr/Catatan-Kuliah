@@ -5,10 +5,10 @@ Himpunan $(S_n, \circ)$ dengan operasi komposisi membentuk **grup**
 ***
 ## Bukti
 
-Jelas berdasarkan [[Grup Permutasi S(G)]].
+Jelas berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Permutasi/Grup Permutasi S(G)]].
 
 ***
 ## Definition Used 
- * [[Himpunan Sn]]
- * [[Grup]]
- * [[Komposisi Fungsi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Permutasi/Himpunan Sn]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Komposisi Fungsi]]

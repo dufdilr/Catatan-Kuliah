@@ -7,6 +7,6 @@ Komposisi fungsi bersifat asosiatif
 
 ***
 ## Definition Used 
- * [[Fungsi]]
- * [[Komposisi Fungsi]]
- * [[Sistem Asosiatif]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Komposisi Fungsi]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Sistem Asosiatif]]

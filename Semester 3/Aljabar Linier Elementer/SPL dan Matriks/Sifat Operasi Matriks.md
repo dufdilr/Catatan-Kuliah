@@ -184,6 +184,6 @@ Sehingga $\mathbf{I}_m \mathbf{A} = \mathbf{A}$.
 
 ***
 ## Definition Used 
- * [[Matriks]]
- * [[Operasi Matriks]]
- * [[Gelanggang]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Operasi Matriks]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]

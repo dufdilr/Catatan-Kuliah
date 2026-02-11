@@ -37,6 +37,6 @@ $$
 Terbukti $\mathbb{Z}_{n}$ membentuk grup komutatif.
 ***
 ## Definition Used 
- * [[Himpunan Zn]]
- * [[Operasi di Zn]]
- * [[Grup Komutatif]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Himpunan Zn]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Operasi di Zn]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Komutatif]]

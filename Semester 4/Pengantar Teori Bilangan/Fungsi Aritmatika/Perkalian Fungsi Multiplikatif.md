@@ -14,4 +14,4 @@ Terbukti $fg$ juga fungsi multiplikatif
 
 ***
 ## Definition Used 
- * [[Fungsi Multiplikatif]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Multiplikatif]]

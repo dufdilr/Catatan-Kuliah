@@ -8,4 +8,4 @@ dengan $q(c) \neq 0$.
 
 ***
 ## Definition Used 
- * [[Gelanggang Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Gelanggang Polinomial]]

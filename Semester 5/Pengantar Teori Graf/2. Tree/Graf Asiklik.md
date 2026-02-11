@@ -4,5 +4,5 @@ Suatu graf $G(V, E, \phi)$ dikatakan **asiklik** jika tidak mengandung siklik. G
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Siklus (Graf)]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Siklus (Graf)]]

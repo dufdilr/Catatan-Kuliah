@@ -4,10 +4,10 @@ Misalkan $U, V$ ruang vektor atas lapangan $\mathbb{F}$. Himpunan $\mathcal{L}(U
 
 ---
 ## Bukti
-Jelas berdasarkan [[Sifat Operasi Pemetaan Linear]] memenuhi [[Ruang Vektor|Aksioma Ruang Vektor]].
+Jelas berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Sifat Operasi Pemetaan Linear]] memenuhi [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor|Aksioma Ruang Vektor]].
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Pemetaan Linear]]
- * [[Operasi pada Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Operasi pada Pemetaan Linear]]

@@ -5,6 +5,6 @@ $$\forall \varepsilon >0, \ \exists \delta>0, \text{ sehingga } \forall x, y \in
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Fungsi]]
- * [[Fungsi Kontinu]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Fungsi Kontinu]]

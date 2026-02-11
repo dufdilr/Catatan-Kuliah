@@ -7,5 +7,5 @@ $$
 $$
 ***
 ## Definition Used:
-* [[Himpunan Un]]
-* [[Relatif Prima]]
+* [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Himpunan Un]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Relatif Prima]]

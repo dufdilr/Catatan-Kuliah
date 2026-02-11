@@ -7,11 +7,11 @@ Misalkan suatu gelanggang $(R, +, \cdot)$. $I$ subhimpunan takkosong dari $R$ ad
 ---
 ## Bukti
 ### $(\Rightarrow)$
-Jelas karena sifat [[Ideal (Ring)]]
+Jelas karena sifat [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
 ### $(\Leftarrow)$
-Berdasarkan [[Karakterisasi Subgrup]] maka $(I, +)$ membentuk grup. Sifat komutatif diwariskan dari gelanggang. Lebih lanjut, sifat $2$ memenuhi syarat terakhir dari ideal. Terbukti $I$ membentuk ideal dari $R$
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Karakterisasi Subgrup]] maka $(I, +)$ membentuk grup. Sifat komutatif diwariskan dari gelanggang. Lebih lanjut, sifat $2$ memenuhi syarat terakhir dari ideal. Terbukti $I$ membentuk ideal dari $R$
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]

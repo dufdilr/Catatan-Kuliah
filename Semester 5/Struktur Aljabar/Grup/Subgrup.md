@@ -4,4 +4,4 @@ Misalkan $(G, *)$ suatu grup dan subhimpunan tak-kosong $H \subseteq G$. $H$ dis
 
 ***
 ## Definition Used
-* [[Grup]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]

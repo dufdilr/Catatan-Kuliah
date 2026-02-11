@@ -3,5 +3,5 @@ Misalkan $V$ ruang vektor atas lapangan $\mathbb{F}$. Suatu subhimpunan $W \subs
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Bergantung Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Basis dan Koordinat/Bergantung Linear]]

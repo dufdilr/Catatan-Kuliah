@@ -14,6 +14,6 @@ Jika $R$ gelanggang komutatif maka kita sebut **pembagi nol** jika memenuhi sala
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Gelanggang Komutatif]]
- * [[Keterbagian (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Keterbagian (Ring)]]

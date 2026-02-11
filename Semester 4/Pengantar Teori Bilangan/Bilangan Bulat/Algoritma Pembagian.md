@@ -12,7 +12,7 @@ $$m = qn + r \quad \text{dan} \quad 0 \le r < n.$$
 
 Misalkan $m, n \in \mathbb{Z}$ dengan $n > 0$. Tinjau himpunan:
 $$S = \{ m - kn \mid k \in \mathbb{Z}\}$$
-Lebih lanjut, tinjau $S^* = S \cap \mathbb{N}$. Perhatikan bahwa $m - (-m^2) n = m^2n +m \ge m^2 + m \ge0$. Artinya $m^2n+m \in S^*$. Berarti $S^*$ tak-kosong. Berdasarkan [[Aksioma Urutan Sempurna]] terdapat unsur terkecil $a = m - t_{1}n$.
+Lebih lanjut, tinjau $S^* = S \cap \mathbb{N}$. Perhatikan bahwa $m - (-m^2) n = m^2n +m \ge m^2 + m \ge0$. Artinya $m^2n+m \in S^*$. Berarti $S^*$ tak-kosong. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Urutan Sempurna]] terdapat unsur terkecil $a = m - t_{1}n$.
 
 Akan ditunjukkan bahwa $a \le n$ dengan kontradiksi. Andaikan $a > n$. Tinjau $a^* = a - n$. Perhatikan bahwa 
 $$a^* = a - n = m - (t_{1}+1)n$$
@@ -46,4 +46,4 @@ Karena $r_1 = r_2$ dan $q_1 = q_2$, maka pasangan $(q, r)$ adalah tunggal. ■
 
 ***
 ## Definition Used
-* [[Aksioma Bilangan Bulat]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Bilangan Bulat]]

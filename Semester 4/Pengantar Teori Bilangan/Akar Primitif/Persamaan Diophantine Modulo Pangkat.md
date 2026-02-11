@@ -8,9 +8,9 @@ jika dan hanya jika $\text{ord}_{n}\left({a}\right) \mid x$.
 ---
 
 ## Bukti
-Jelas berdasarkan [[Pangkat Identitas]] pada [[Grup Perkalian Un]]
+Jelas berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Pangkat Identitas]] pada [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Grup Perkalian Un]]
 
 ***
 ## Definition Used 
- * [[Orde Modulo]]
- * [[Kongruensi Modulo]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Orde Modulo]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Kongruensi Modulo]]

@@ -5,9 +5,9 @@ Bilangan Bulat Gauss $\mathbb{Z}[i]$ dilengkapi dengan Operasi Bilangan Bulat Ga
 ---
 ## Bukti
 
-Jelas [[Sifat Operasi Bilangan Bulat Gauss]] memenuhi aksioma gelanggang komutatif.
+Jelas [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Sifat Operasi Bilangan Bulat Gauss]] memenuhi aksioma gelanggang komutatif.
 
 ***
 ## Definition Used 
- * [[Bilangan Bulat Gauss]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Bilangan Bulat Gauss]]
  

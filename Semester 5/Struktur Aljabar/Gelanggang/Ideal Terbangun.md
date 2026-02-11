@@ -13,11 +13,11 @@ dengan $s_1, s_2, \cdots, s_n, t_1, t_2, \cdots t_n \in R$. Perhatikan bahwa
 $$a + b = (s_1+t_1)r_1+(s_2+t_2)r_2 + \cdots + (s_n+t_n)r_n \in I$$
 Perhatikan juga bahwa karena gelanggang komutatif maka
 $$ax = xa = (xs_1)r_1+(xs_2)r_2 + \cdots + (xs_n)r_n \in I$$
-Berdasarkan [[Karakterisasi Ideal|teorema]] dapat disimpulkan $I$ ideal dari $R$
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Karakterisasi Ideal|teorema]] dapat disimpulkan $I$ ideal dari $R$
 
 
 ***
 ## Definition Used 
-  * [[Gelanggang Komutatif]]
- * [[Ideal (Ring)]]
- * [[Subhimpunan Terbangun]]
+  * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subhimpunan Terbangun]]

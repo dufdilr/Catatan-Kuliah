@@ -22,6 +22,6 @@ Terbukti.
 
 ***
 ## Definition Used 
- * [[Akar Primitif]]
- * [[Fungsi Euler-Phi]]
- * [[Faktor Persekutuan Terbesar]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Akar Primitif]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Fungsi Euler-Phi]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Faktor Persekutuan Terbesar]]

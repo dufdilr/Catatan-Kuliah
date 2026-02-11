@@ -58,6 +58,6 @@ Terbukti.
 
 ***
 ## Definition Used 
- * [[Daerah Integral]]
- * [[Gelanggang Polinomial]]
- * [[Polinomial]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Gelanggang Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Polinomial]]

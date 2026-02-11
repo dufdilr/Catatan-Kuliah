@@ -9,12 +9,12 @@ $$p \text{ prima} \quad \iff \quad \text{Jika }\ p = ab \ \text{ maka } \ a\ \te
 
 ### ($\Rightarrow:$)
 
-Karena setiap Daerah Ideal Utama adalah Daerah Integral maka berdasarkan [[Unsur Prima Daerah Integral|teorema]] jelas berlaku jika $p = ab$ maka $a$ unit atau $b$ unit.
+Karena setiap Daerah Ideal Utama adalah Daerah Integral maka berdasarkan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Unsur Prima Daerah Integral|teorema]] jelas berlaku jika $p = ab$ maka $a$ unit atau $b$ unit.
 ### ($\Leftarrow:$)
 
 Misalkan $D$ Daerah Ideal Utama dan $p \in D$ sehingga "Untuk setiap $a, b \in D$ jika $p = ab$ maka $a$ unit atau $b$ unit". Akan ditunjukkan $p$ prima.
 Misalkan $p \mid gh$ namun $p \nmid g$ untuk suatu $g, h \in D$. Akan ditunjukkan $p \mid h$.
-Berdasarkan [[Teorema Bezout (Daerah Ideal Utama)|Identitas Bezout]], ada $d \in D$ sehingga $$d = (p, g) = sp+gt, \quad \exists s, t \in D$$
+Berdasarkan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Teorema Bezout (Daerah Ideal Utama)|Identitas Bezout]], ada $d \in D$ sehingga $$d = (p, g) = sp+gt, \quad \exists s, t \in D$$
 Karena $d \mid g$ dan $d\mid p$ maka $g = du_1$ dan $p = du_2$ untuk suatu $u_1, u_2 \in D$.
 
 Jika $u_2$ unit maka terdapat invers $u_2^{-1}$ sehingga $p = du_2 \Rightarrow d = pu_2^{-1}$. Artinya
@@ -35,7 +35,7 @@ Terbukti $p$ prima.
 ***
 
 ## Definition Used 
- * [[Daerah Ideal Utama]]
- * [[Unsur Unit (Ring)]]
- * [[Unsur Prima (Ring)]]
- * [[Unsur Tak Tereduksi (Ring)]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Ideal Utama]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Prima (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Tak Tereduksi (Ring)]]

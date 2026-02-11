@@ -5,6 +5,6 @@ Suatu gelanggang Komutatif dengan Unsur Kesatuan $(R, +, \cdot)$. Gelanggang $R$
 
 ***
 ## Definition Used 
- * [[Gelanggang Komutatif]]
- * [[Gelanggang Unit]]
- * [[Unsur Pembagi Nol (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Unit]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Unsur Pembagi Nol (Ring)]]

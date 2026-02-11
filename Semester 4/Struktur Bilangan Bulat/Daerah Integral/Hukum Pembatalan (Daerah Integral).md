@@ -23,4 +23,4 @@ Maka $a$ bukan pembagi nol. Terbukti $D$ adalah daerah integral.
 
 ***
 ## Definition Used 
- * [[Daerah Integral]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]

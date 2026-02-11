@@ -4,7 +4,7 @@ Misalkan $R$ adalah suatu gelanggang. Maka $Z(R)$ membentuk subgelanggang dari $
 
 ---
 ## Bukti
-Berdasarkan [[Sifat Gelanggang]], $0\cdot r = r\cdot 0 = 0$. Maka $0 \in Z(R)$, artinya $Z(R) \neq \emptyset$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Sifat Gelanggang]], $0\cdot r = r\cdot 0 = 0$. Maka $0 \in Z(R)$, artinya $Z(R) \neq \emptyset$.
 
 Ambil $a_{1}, a_{2} \in Z(R)$. Ambil $r \in R$. Perhatikan bahwa
 $$
@@ -15,10 +15,10 @@ $$
 &= r(a_{1}a_{2})
 \end{align*}
 $$
-Maka $a_{1}-a_{2}, a_{1}a_{2} \in Z(R)$. Berdasarkan [[Karakterisasi Subgelanggang]] maka $Z(R)$ adalah subgelanggang dari $R$.
+Maka $a_{1}-a_{2}, a_{1}a_{2} \in Z(R)$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Karakterisasi Subgelanggang]] maka $Z(R)$ adalah subgelanggang dari $R$.
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Subgelanggang]]
- * [[Pusat Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Subgelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Pusat Gelanggang]]

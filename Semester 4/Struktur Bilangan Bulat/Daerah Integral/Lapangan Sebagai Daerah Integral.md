@@ -13,4 +13,4 @@ Artinya $\forall a \in R/\{0\}$ bukan pembagi nol. Maka, $R$ adalah daerah integ
 
 ***
 ## Definition Used 
- * [[Lapangan|Lapangan]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan|Lapangan]]

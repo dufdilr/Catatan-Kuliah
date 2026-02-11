@@ -5,5 +5,5 @@ $$
 $$
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Isomorfisma (Grup)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Isomorfisma (Grup)]]

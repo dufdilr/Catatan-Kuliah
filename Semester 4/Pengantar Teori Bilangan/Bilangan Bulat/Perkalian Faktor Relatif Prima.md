@@ -5,7 +5,7 @@ Jika $a, b, n \in \mathbb{Z}$ dengan $(a, b) = 1$ dan $a \mid n$ serta $b \mid n
 ---
 ## Bukti
 
-Berdasarkan [[Teorema Bezout]] maka terdapat $p, q \in \mathbb{Z}$ sedemikian sehingga
+Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Teorema Bezout]] maka terdapat $p, q \in \mathbb{Z}$ sedemikian sehingga
 $$
 ap + bq = 1 \quad\implies\quad apn + bqn = n
 $$
@@ -17,5 +17,5 @@ Terbukti $ab \mid n$
 
 ***
 ## Definition Used 
- * [[Faktor Persekutuan Terbesar]]
- * [[Keterbagian]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Faktor Persekutuan Terbesar]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]

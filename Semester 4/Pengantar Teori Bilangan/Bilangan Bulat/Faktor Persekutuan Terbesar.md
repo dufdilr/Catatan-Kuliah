@@ -5,5 +5,5 @@ Misalkan $a, b \in \mathbb{Z}$. Suatu bilangan asli $c$ dikatakan **Pembagi Bers
 
 ***
 ## Definition Used:
-* [[Bilangan Asli]]
-* [[Keterbagian]]
+* [[Buat Backup/Prerquested/Bilangan Asli]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]

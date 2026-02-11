@@ -1,4 +1,4 @@
-Fungsi yang landai akan memperlambat kekonvergenan [[Metode Regula Falsi Modifikasi]]. Untuk mempercepat kekonvergenan dilakukan modifikasi yakni apabila selama dua iterasi berturut-turut nilai fungsi dikali setengahnya. 
+Fungsi yang landai akan memperlambat kekonvergenan [[Buat Backup/Semester 5/Matematika Numerik/2. Akar Persamaan/Metode Regula Falsi Modifikasi]]. Untuk mempercepat kekonvergenan dilakukan modifikasi yakni apabila selama dua iterasi berturut-turut nilai fungsi dikali setengahnya. 
 
 Maka, pada algoritma diberi *counter* berapa banyak perubahan ujung kiri dan ujung kanan.
 ```

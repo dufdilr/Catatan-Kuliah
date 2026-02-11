@@ -1,5 +1,5 @@
 #Teorema
-Misalkan $G$ suatu dan subhimpunan tak-kosong $A \subseteq G$. $A$ adalah **[[Subgrup|subgrup]]** dari $G$ jika dan hanya jika untuk setiap $a, b \in A$ berlaku
+Misalkan $G$ suatu dan subhimpunan tak-kosong $A \subseteq G$. $A$ adalah **[[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup|subgrup]]** dari $G$ jika dan hanya jika untuk setiap $a, b \in A$ berlaku
 
 $$ab^{-1} \in A$$  
 ***
@@ -34,5 +34,5 @@ Terbukti $(A, *)$ benar membentuk sistem.
 Karena memenuhi syarat grup maka terbukti $A$ adalah subgrup dari $G$.
 ***
 ## Definition Used
-* [[Grup]]
-* [[Subgrup]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]

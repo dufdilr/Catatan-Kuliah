@@ -1,6 +1,6 @@
 #Definisi #Teorema
 
-$(\mathbb{R}, d)$ dengan $d(x, y) := |x - y|$ untuk setiap $x, y \in \mathbb{R}$ merupakan [[Ruang Metrik|ruang metrik]] dan biasa disebut sebagai **metrik standar**.
+$(\mathbb{R}, d)$ dengan $d(x, y) := |x - y|$ untuk setiap $x, y \in \mathbb{R}$ merupakan [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik|ruang metrik]] dan biasa disebut sebagai **metrik standar**.
 
 ## Bukti
 Ambil sembarang $x, y, z \in \mathbb{R}$
@@ -13,6 +13,6 @@ Terbukti bahwa $(\mathbb{R}, d)$ yang didefinisikan seperti di atas merupakan ru
 
 ***
 ## Definition Used:
-* [[Ruang Metrik]]
-* [[Nilai Mutlak]]
-* [[Aksioma Bilangan Real|Bilangan Real]]
+* [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+* [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Nilai Mutlak]]
+* [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real|Bilangan Real]]

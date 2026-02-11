@@ -7,5 +7,5 @@ $$
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Matriks]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]

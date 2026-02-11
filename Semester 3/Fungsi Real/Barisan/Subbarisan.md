@@ -4,4 +4,4 @@ Misalkan $(x_n)$ suatu barisan. $(x_{n_k})_k$ disebut subbarisan dari $x_n$ dima
 
 ***
 ## Definition Used:
-* [[Barisan (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan (Metrik)]]

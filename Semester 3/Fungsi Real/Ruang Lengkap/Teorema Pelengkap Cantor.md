@@ -110,7 +110,7 @@ $$
 Tinjau $f(x_N) = [(x_{N})]$. Perhatikan bahwa untuk setiap $n > N:\ d(x_n, x_N) < \varepsilon/2$ sehingga
     $$d^*(x^*, f(x_N)) = d^*([\{x_n\}], [(x_N)]) = \lim_{n\to\infty} d(x_n, x_N) \le \frac{\varepsilon}{2}< \varepsilon$$
     Artinya $f(x_N) \in B(x^*, \varepsilon)\cap f(X)$. Berarti $B(x^*, \varepsilon)\cap f(X) \neq \emptyset$.
-    Berdasarkan [[Sifat Titik Limit|teorema]] maka $x^* \in \overline{f(X)}$. Karena $x^*$ sembarang, maka $X^* \subseteq \overline{f(X)}$. Terbukti $f(X)$ padat di $X^*$
+    Berdasarkan [[Buat Backup/Semester 3/Fungsi Real/Topologi/Sifat Titik Limit|teorema]] maka $x^* \in \overline{f(X)}$. Karena $x^*$ sembarang, maka $X^* \subseteq \overline{f(X)}$. Terbukti $f(X)$ padat di $X^*$
 
 ### Kelengkapan
     
@@ -130,9 +130,9 @@ Berdasarkan teorema terbukti $X^*$ lengkap. Lebih lanjut $X^*$ adalah **pelengka
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Ruang Metrik Lengkap]]
- * [[Pelengkap Ruang Metrik]]
- * [[Relasi Ekuivalen]]
- * [[Isometri Ruang Metrik]]
- * [[Himpunan Padat]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Lengkap/Ruang Metrik Lengkap]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Lengkap/Pelengkap Ruang Metrik]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Ekuivalen]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Isometri Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Himpunan Padat]]

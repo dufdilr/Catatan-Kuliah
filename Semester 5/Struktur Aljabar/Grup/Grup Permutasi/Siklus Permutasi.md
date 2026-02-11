@@ -19,4 +19,4 @@ $$
 
 ***
 ## Definition Used 
- * [[Permutasi-n]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Permutasi/Permutasi-n]]

@@ -45,6 +45,6 @@ Karena $C \subseteq \mathrm{Im}(A)$ dan $C \supseteq \mathrm{Im}(A)$ maka $C = \
 
 ***
 ## Definition Used 
- * [[Ruang Vektor Matriks]]
- * [[Kombinasi Linear dan Span]]
- * [[Range dan Kernel Pemetaan Linear]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Ruang Vektor Matriks]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Kombinasi Linear dan Span]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Range dan Kernel Pemetaan Linear]]

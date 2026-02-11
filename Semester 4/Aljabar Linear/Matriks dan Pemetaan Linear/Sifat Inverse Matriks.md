@@ -14,7 +14,7 @@ $$
 ---
 ## Bukti
 ### 1.
-Misalkan $\mathbf{C}$ dan $\mathbf{D}$ adalah inverse dari matriks $\mathbf{A}$. Maka berdasarkan [[Sifat Operasi Matriks]]
+Misalkan $\mathbf{C}$ dan $\mathbf{D}$ adalah inverse dari matriks $\mathbf{A}$. Maka berdasarkan [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Sifat Operasi Matriks]]
 $$
 \mathbf{C} = \mathbf{C} \mathbf{I_n} = \mathbf{C} \mathbf{A} \mathbf{D} = \mathbf{I_n} \mathbf{D} = \mathbf{D}
 $$
@@ -34,6 +34,6 @@ Berdasarkan ketunggalan inverse, terbukti $\left(\mathbf{A}^{-1}\right)^{-1} = \
 
 ***
 ## Definition Used 
- * [[Matriks]]
- * [[Operasi Matriks]]
- * [[Inverse Matriks]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Matriks]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Operasi Matriks]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Inverse Matriks]]

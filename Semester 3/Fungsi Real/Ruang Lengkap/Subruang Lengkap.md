@@ -4,5 +4,5 @@ Misalkan $(X, d)$ suatu ruang metrik. Subhimpunan $Y \subseteq X$ disebut **subr
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Ruang Metrik Lengkap]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Lengkap/Ruang Metrik Lengkap]]

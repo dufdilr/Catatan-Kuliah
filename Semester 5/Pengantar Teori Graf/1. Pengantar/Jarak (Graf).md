@@ -7,5 +7,5 @@ $$
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Trail (Graf)|Trail]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Trail (Graf)|Trail]]

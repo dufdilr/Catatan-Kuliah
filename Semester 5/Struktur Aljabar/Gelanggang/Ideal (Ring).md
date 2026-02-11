@@ -17,5 +17,5 @@ Lebih lanjut, $I$ disebut **ideal** apabila $I$ adalah *ideal kiri* dan *ideal k
 ***
 
 ## Definition Used 
- * [[Gelanggang]]
- * [[Himpunan]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Prerquested/Naive Set/Himpunan]]

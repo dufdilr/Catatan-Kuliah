@@ -9,12 +9,12 @@ dengan $u$ adalah unit di $\mathbb{F}[x]$ dan $p_1, p_{2}, \cdots,p_k$ unsur tak
 ---
 ## Bukti
 
-Berdasarkan [[Polinomial Lapangan Sebagai Daerah Euclid|teorema]] maka $\mathbb{F}[x]$ adalah [[Daerah Ideal Utama]]. Berdasarkan [[Faktorisasi Tunggal di Daerah Ideal Utama]] maka terbukti.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Polinomial Lapangan Sebagai Daerah Euclid|teorema]] maka $\mathbb{F}[x]$ adalah [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Ideal Utama]]. Berdasarkan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Faktorisasi Tunggal di Daerah Ideal Utama]] maka terbukti.
 
 ***
 ## Definition Used 
- * [[Lapangan]]
- * [[Unsur Unit (Ring)]]
- * [[Unsur Tak Tereduksi (Ring)]]
- * [[Daerah Ideal Utama]]
- * [[Daerah Faktorisasi Tunggal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Tak Tereduksi (Ring)]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Ideal Utama]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Faktorisasi Tunggal]]

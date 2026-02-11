@@ -9,5 +9,5 @@ $$
 ***
 
 ## Definition Used
-* [[Peubah Acak Kontinu]]
-* [[Fungsi Peluang]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Peubah Acak Kontinu]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Fungsi Peluang]]

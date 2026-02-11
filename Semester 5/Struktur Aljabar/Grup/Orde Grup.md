@@ -6,5 +6,5 @@ Lebih lanjut, jika $o(G) < \infty$ maka $G$ disebut **Grup Hingga**.
 Jika $o(G) = \infty$ maka $G$ disebut **Grup Tak Hingga**
 ***
 ## Definition Used:
-* [[Grup]]
-* [[Kardinalitas Himpunan]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+* [[Buat Backup/Prerquested/Naive Set/Kardinalitas Himpunan]]

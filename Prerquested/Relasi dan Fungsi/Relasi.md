@@ -6,5 +6,5 @@ Lebih lanjut, jika $A = B$ maka biasa kita sebut sebagai *relasi pada himpunan $
 
 ***
 ## Definition Used:
-* [[Himpunan]]
-* [[Perkalian Kartesian]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Perkalian Kartesian]]

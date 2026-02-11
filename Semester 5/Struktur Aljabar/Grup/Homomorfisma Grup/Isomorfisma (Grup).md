@@ -9,6 +9,6 @@ Kemudian, jika terdapat fungsi isomorfisma dari grup $G_1$ ke grup $G_2$ maka $G
 
 ***
 ## Definition Used
-* [[Grup]]
-* [[Fungsi]]
-* [[Homomorfisma (Grup)]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Homomorfisma (Grup)]]

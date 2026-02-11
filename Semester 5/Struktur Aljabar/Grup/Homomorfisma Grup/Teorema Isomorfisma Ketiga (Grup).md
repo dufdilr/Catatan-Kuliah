@@ -34,14 +34,14 @@ aC \in \mathrm{Inti}(\phi) &\ \iff \phi(aC) = B \\
 $$
 Maka $\mathrm{Inti}(\phi) = B/C$.
 
-Berdasarkan [[Teorema Isomorfisma Pertama (Grup)]] maka
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Teorema Isomorfisma Pertama (Grup)]] maka
 $$
 (A/C)/(B/C) \cong A/B
 $$
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup Normal]]
- * [[Grup Hasil Bagi]]
- * [[Isomorfisma (Grup)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Grup Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Isomorfisma (Grup)]]

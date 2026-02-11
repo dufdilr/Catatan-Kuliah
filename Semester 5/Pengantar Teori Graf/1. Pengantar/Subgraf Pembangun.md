@@ -7,4 +7,4 @@ $$
 
 ***
 ## Definition Used
-* [[Subgraf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Subgraf]]

@@ -7,7 +7,7 @@ $$
 
 ---
 ## Bukti
-Berdasarkan sifat ideal dan subgelanggang, diketahui $S \cap I$ ideal dari $S$ dan $I$ ideal dari $S+I$. Maka $S/(S\cap I)$ dan $(S+I)/I$ terdefinisi dengan baik sebagai [[Gelanggang Hasil Bagi]].
+Berdasarkan sifat ideal dan subgelanggang, diketahui $S \cap I$ ideal dari $S$ dan $I$ ideal dari $S+I$. Maka $S/(S\cap I)$ dan $(S+I)/I$ terdefinisi dengan baik sebagai [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Hasil Bagi]].
 
 Lebih lanjut, tinjau $\phi: S \to (S+I)/I$ dengan $\phi(s) = s + I$ untuk setiap $s \in S$. Karena $0 \in I$ maka jelas $s = s+0 \in S+I$. Artinya $\phi$ terdefinisi dengan baik.
 
@@ -36,13 +36,13 @@ s \in \mathrm{Inti}(\phi) &\iff \phi(s) = 0 + I \\
 &\iff s \in S \cap I \quad (\text{karena } s \in S)
 \end{align*}
 $$
-Terbukti $\mathrm{Inti}(\phi) = S \cap I$. Berdasarkan [[Teorema Isomorfisma Pertama (Ring)]] maka
+Terbukti $\mathrm{Inti}(\phi) = S \cap I$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Teorema Isomorfisma Pertama (Ring)]] maka
 $$
 S/(S\cap I) \cong (S+I)/I
 $$
 ***
 ## Definition Used
- * [[Gelanggang]]
- * [[Ideal (Ring)]]
- * [[Gelanggang Hasil Bagi]]
- * [[Isomorfisma (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Isomorfisma (Ring)]]

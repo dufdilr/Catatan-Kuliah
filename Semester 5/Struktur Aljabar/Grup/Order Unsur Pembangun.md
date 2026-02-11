@@ -10,12 +10,12 @@ Misalkan $\text{ord}(a) = k$. Perhatikan bahwa
 $$
 \left< a \right>  = \{ e, a, a^2, \dots, a^{k-1} \}
 $$
-Berdasarkan [[Kesamaan Pangkat]], maka setiap unsur di $\left< a \right>$ adalah berbeda. Artinya
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Kesamaan Pangkat]], maka setiap unsur di $\left< a \right>$ adalah berbeda. Artinya
 $$
 \text{ord}(G) = \text{ord}(\left< a \right> ) = k = \text{ord}(a)
 $$
 ***
 ## Definition Used 
- * [[Grup Siklik]]
- * [[Orde Grup]]
- * [[Order Unsur Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Siklik]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Orde Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Order Unsur Grup]]

@@ -7,4 +7,4 @@ Misalkan $A$ subhimpunan tak-kosong dari $\mathbb{R}$ dan fungsi $f: A \to \math
 
 ***
 ## Definition Used 
- * [[Fungsi Terbatas]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Fungsi Terbatas]]

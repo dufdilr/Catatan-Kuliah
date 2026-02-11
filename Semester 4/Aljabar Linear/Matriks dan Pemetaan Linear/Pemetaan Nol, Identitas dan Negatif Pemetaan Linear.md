@@ -16,7 +16,7 @@ Definisikan pula $I_U : U \to U$ dengan $I_U(u) = u, \forall u \in U$. Pemetaan 
 
 ## Bukti
 ### Pemetaan Nol
-Ambil $u_{1}, u_{2} \in U$ dan $\alpha \in \mathbb{F}$. Perhatikan bahwa berdasarkan [[Sifat Ruang Vektor]] berlaku
+Ambil $u_{1}, u_{2} \in U$ dan $\alpha \in \mathbb{F}$. Perhatikan bahwa berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Sifat Ruang Vektor]] berlaku
 $$
 \begin{align*}
 \mathbf{0_UV} (u_{1}+u_{2}) &= \mathbf{0_V} = \mathbf{0_V} + \mathbf{0_V} \\
@@ -27,7 +27,7 @@ $$
 $$
 Terbukti $\mathbf{0_UV}$ juga pemetaan linear.
 ### Negatif Pemetaan Linear
-Misalkan $T \in \mathcal{L}(U, V)$. Ambil $u_{1}, u_{2} \in U$ dan $\alpha \in \mathbb{F}$. Perhatikan bahwa berdasarkan [[Sifat Ruang Vektor]] berlaku
+Misalkan $T \in \mathcal{L}(U, V)$. Ambil $u_{1}, u_{2} \in U$ dan $\alpha \in \mathbb{F}$. Perhatikan bahwa berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Sifat Ruang Vektor]] berlaku
 $$
 \begin{align*}
 (-T)(u_{1}+u_{2}) &= -(T(u_{1}+u_{2})) = -\left( T(u_{1}) + T(u_{2}) \right) \\
@@ -40,7 +40,7 @@ $$
 Terbukti $(-T)$ juga pemetaan linear.
 
 ### Pemetaan Identitas
-Ambil $u_{1}, u_{2} \in U$ dan $\alpha \in \mathbb{F}$. Perhatikan bahwa berdasarkan [[Sifat Ruang Vektor]] berlaku
+Ambil $u_{1}, u_{2} \in U$ dan $\alpha \in \mathbb{F}$. Perhatikan bahwa berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Sifat Ruang Vektor]] berlaku
 $$
 \begin{align*}
 I_U(u_{1}+u_{2}) &= u_{1}+u_{2} = I_U(u_{1}) + I_U(u_{2}) \\
@@ -51,5 +51,5 @@ Terbukti $I_U$ adalah pemetaan linear.
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]

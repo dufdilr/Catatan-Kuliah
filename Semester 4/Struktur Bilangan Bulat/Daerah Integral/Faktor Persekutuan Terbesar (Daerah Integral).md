@@ -6,5 +6,5 @@ Misalkan $D$ suatu daerah integral dan $a, b \in D$ unsur tak-nol. Elemen $d$ di
 
 ***
 ## Definition Used 
- * [[Daerah Integral]]
- * [[Keterbagian (Ring)]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Integral]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Keterbagian (Ring)]]

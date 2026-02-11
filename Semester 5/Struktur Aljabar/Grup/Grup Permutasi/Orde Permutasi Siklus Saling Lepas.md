@@ -18,7 +18,7 @@ $$
 ***
 
 ## Definition Used
-* [[Grup Permutasi Sn]]
-* [[Siklus Permutasi]]
-* [[Order Unsur Grup]]
-* [[Kelipatan Persekutuan Terkecil]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Permutasi/Grup Permutasi Sn]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Permutasi/Siklus Permutasi]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Order Unsur Grup]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Kelipatan Persekutuan Terkecil]]

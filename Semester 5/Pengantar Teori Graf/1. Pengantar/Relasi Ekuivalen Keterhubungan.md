@@ -1,6 +1,6 @@
 #Teorema 
 
-Misalkan $G$ suatu graf. Definisikan relasi $u \sim v$ jika $u$ dan $v$ *terhubung*. Relasi ini membentuk [[Relasi Ekuivalen]].
+Misalkan $G$ suatu graf. Definisikan relasi $u \sim v$ jika $u$ dan $v$ *terhubung*. Relasi ini membentuk [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Ekuivalen]].
 
 ## Bukti
 ### Refleksif
@@ -14,7 +14,7 @@ Misalkan $u \sim v$ dan $v \sim w$. Artinya terdapat $(u, v)-$path $P_{1} = u \ 
 $$
 N = \{ i : w_{i} \in P_{1} \}
 $$
-Jelas $w_0 \in P_1$. Artinya $N \neq \emptyset$. Berdasarkan [[Aksioma Urutan Sempurna]] terdapat unsur terkecil $n$. Misalkan $w_{n} = v_{m}$. Konstruksi
+Jelas $w_0 \in P_1$. Artinya $N \neq \emptyset$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Urutan Sempurna]] terdapat unsur terkecil $n$. Misalkan $w_{n} = v_{m}$. Konstruksi
 $$
 P = u \ v_{1} \ v_{2} \ \cdots \ v_{m-1} \ w_{n} \ w_{n+1} \ \cdots \ w_{l-1} \ w
 $$
@@ -23,6 +23,6 @@ Perhatikan bahwa $P$ adalah $(u, w)-$path. Terbukti $u \sim w$.
 Terbukti relasi tersebut adalah relasi ekuivalen.
 ***
 ## Definition Used
-* [[Graf]]
-* [[Keterhubungan Titik]]
-* [[Relasi Ekuivalen]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Keterhubungan Titik]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Ekuivalen]]

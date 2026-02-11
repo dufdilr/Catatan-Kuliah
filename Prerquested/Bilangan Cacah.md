@@ -7,5 +7,5 @@ $$
 
 ***
 ## Definition Used
-* [[Bilangan Asli]]
-* [[Aksioma Bilangan Bulat]]
+* [[Buat Backup/Prerquested/Bilangan Asli]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Bilangan Bulat]]

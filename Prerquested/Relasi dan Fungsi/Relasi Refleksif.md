@@ -9,4 +9,4 @@ $$
 
 ***
 ## Defintion Used
-* [[Relasi]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi]]

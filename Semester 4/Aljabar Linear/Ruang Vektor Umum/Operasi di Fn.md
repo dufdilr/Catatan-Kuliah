@@ -10,5 +10,5 @@ $$
 $$
 ***
 ## Definition Used
-* [[ Lapangan ]]
-* [[Himpunan Fn]]
+* [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan]]
+* [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Himpunan Fn]]

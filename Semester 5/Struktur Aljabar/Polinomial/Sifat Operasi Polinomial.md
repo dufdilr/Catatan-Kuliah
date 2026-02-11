@@ -177,5 +177,5 @@ Maka $f(x) \cdot 1(x) = f(x)$.
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Operasi Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Operasi Polinomial]]

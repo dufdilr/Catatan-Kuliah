@@ -6,7 +6,7 @@ $$\forall \varepsilon>0, \ \exists N \in \mathbb{N}\ \text{ sehingga }\ \forall 
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Fungsi]]
- * [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
- * [[Barisan Fungsi Konvergen Titik Demi Titik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Barisan Fungsi Konvergen Titik Demi Titik]]

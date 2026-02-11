@@ -6,15 +6,15 @@ $$
 
 ---
 ## Bukti
-Perhatikan bahwa berdasarkan [[Pemetaan Linear Vektor Nol|teorema]] berlaku
+Perhatikan bahwa berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear Vektor Nol|teorema]] berlaku
 $$
 \begin{align*}
 T(v) + T(-v) = T(v+(-v)) = T(\mathbf{0_V}) = \mathbf{0_W}
 \end{align*}
 $$
-Berdasarkan [[Sifat Ruang Vektor#^c6107a|Ketunggalan Inverse Penjumlahan]] maka $T(-v) = -T(v)$
+Berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Sifat Ruang Vektor#^c6107a|Ketunggalan Inverse Penjumlahan]] maka $T(-v) = -T(v)$
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]

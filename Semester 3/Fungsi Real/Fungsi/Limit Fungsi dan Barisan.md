@@ -28,7 +28,7 @@ Terbukti bahwa $\displaystyle \lim_{x \to c} f(x) = l$
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Fungsi]]
- * [[Limit Fungsi]]
- * [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Limit Fungsi]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]

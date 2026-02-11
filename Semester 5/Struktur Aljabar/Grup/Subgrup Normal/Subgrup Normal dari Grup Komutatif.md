@@ -8,10 +8,10 @@ Misalkan $G$ adalah grup komutatif dan $H \le G$. Ambil $g \in G$ dan $h \in G$.
 $$
 ghg^{-1} = gg^{-1}h = h \in H
 $$
-Per definisi [[Subgrup Normal]] maka $H \unlhd G$.
+Per definisi [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]] maka $H \unlhd G$.
 
 ***
 ## Definition Used 
- * [[Grup Komutatif]]
- * [[Subgrup]]
- * [[Subgrup Normal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]]

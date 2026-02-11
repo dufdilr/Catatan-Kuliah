@@ -1,6 +1,6 @@
 #Teorema 
 
-Misalkan $R$ suatu [[Relasi Ekuivalen|relasi ekuivalen]] pada himpunan $A$. Himpunan kelas ekuivalen dari $R$ membentuk *partisi* dari $A$.
+Misalkan $R$ suatu [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Ekuivalen|relasi ekuivalen]] pada himpunan $A$. Himpunan kelas ekuivalen dari $R$ membentuk *partisi* dari $A$.
 
 ## Bukti
 
@@ -30,6 +30,6 @@ Berdasarkan definisi, maka terbukti $\mathcal{P}$ adalah partisi dari $A$.
 
 ***
 ## Definition Used
-* [[Kelas Ekuivalen]]
-* [[Partisi Himpunan]]
-* [[Gabungan dan Irisan Kumpulan Himpunan]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Kelas Ekuivalen]]
+* [[Buat Backup/Prerquested/Naive Set/Partisi Himpunan]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Gabungan dan Irisan Kumpulan Himpunan]]

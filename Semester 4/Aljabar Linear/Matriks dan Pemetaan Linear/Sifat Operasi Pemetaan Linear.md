@@ -1,6 +1,6 @@
 #Teorema 
 
-Misalkan $U, V, W, X$ ruang vektor atas lapangan $\mathbb{F}$. Misalkan pula $P, Q, R \in \mathcal{L}(U, V)$; $\ S, T \in \mathcal{L}(V, W)$; $N \in \mathcal{L}(W, X)$ dan $\alpha, \beta \in \mathbb{F}$. Lebih lanjut, [[Pemetaan Nol, Identitas dan Negatif Pemetaan Linear|didefinisikan]] pula pemetaan nol dan negatif dari pemetaan. Maka berlaku:
+Misalkan $U, V, W, X$ ruang vektor atas lapangan $\mathbb{F}$. Misalkan pula $P, Q, R \in \mathcal{L}(U, V)$; $\ S, T \in \mathcal{L}(V, W)$; $N \in \mathcal{L}(W, X)$ dan $\alpha, \beta \in \mathbb{F}$. Lebih lanjut, [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Nol, Identitas dan Negatif Pemetaan Linear|didefinisikan]] pula pemetaan nol dan negatif dari pemetaan. Maka berlaku:
 
 1. **Asosiatif Penjumlahan**
 $$
@@ -56,7 +56,7 @@ $$
 
 ---
 ## Bukti
-Kita akan menggunakan [[Sifat Ruang Vektor]] dan [[Pemetaan Nol, Identitas dan Negatif Pemetaan Linear]].
+Kita akan menggunakan [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Sifat Ruang Vektor]] dan [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Nol, Identitas dan Negatif Pemetaan Linear]].
 *Catatan: Notasi komposisi $ST$ didefinisikan sebagai $(ST)(x) = S(T(x))$.*
 
 ### 1. Asosiatif Penjumlahan
@@ -194,7 +194,7 @@ Maka $I_VP = P$.
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Pemetaan Linear]]
- * [[Operasi pada Pemetaan Linear]]
- * [[Pemetaan Nol, Identitas dan Negatif Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Operasi pada Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Pemetaan Nol, Identitas dan Negatif Pemetaan Linear]]

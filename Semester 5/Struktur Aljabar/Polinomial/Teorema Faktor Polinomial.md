@@ -8,7 +8,7 @@ $$
 ## Bukti
 
 ### $\Rightarrow$
-Tinjau $g(x) = x - c \in R[x]$. Perhatikan bahwa $g$ memiliki leading koefisien 1 / unit. Berdasarkan [[Algoritma Euclid Polinomial]] maka terdapat $q(x), r(x) \in R[x]$ dengan $\deg r(x) < \deg g = 1$ sedemikian sehingga
+Tinjau $g(x) = x - c \in R[x]$. Perhatikan bahwa $g$ memiliki leading koefisien 1 / unit. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Algoritma Euclid Polinomial]] maka terdapat $q(x), r(x) \in R[x]$ dengan $\deg r(x) < \deg g = 1$ sedemikian sehingga
 $$
 f(x) = q(x)(x-c) + r(x)
 $$
@@ -26,7 +26,7 @@ Misalkan terdapat $q(x) \in R[x]$ sehingga
 $$
 f(x) = q(x)(x-c)
 $$
-Berdasarkan [[Sifat Gelanggang]] maka
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Sifat Gelanggang]] maka
 $$
 f(c) = q(c)\cdot(c - c) = q(c) \cdot 0 = 0
 $$
@@ -34,6 +34,6 @@ Terbukti.
 
 ***
 ## Definition Used 
- * [[Gelanggang Komutatif]]
- * [[Gelanggang Unit]]
- * [[Gelanggang Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang Unit]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Gelanggang Polinomial]]

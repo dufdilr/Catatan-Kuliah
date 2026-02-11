@@ -19,10 +19,10 @@ u + w &=  a_{1}v_{1} + a_{2}v_{2} + \cdots + a_nv_n + b_{1}v_{1} + b_{2}v_{2} + 
 &= \alpha a_{1}v_{1} + \alpha a_{2}v_{2} + \cdots +  \alpha a_nv_n
 \end{align*}
 $$
-Jelas $u + w, \alpha \cdot u \in \left< v_{1}, v_{2}, \cdots, v_n \right>$ maka berdasarkan [[Karakterisasi Subruang]] terbukti bahwa $\left< v_{1}, v_{2}, \cdots, v_n \right>$ membentuk subruang dari $V$.
+Jelas $u + w, \alpha \cdot u \in \left< v_{1}, v_{2}, \cdots, v_n \right>$ maka berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Karakterisasi Subruang]] terbukti bahwa $\left< v_{1}, v_{2}, \cdots, v_n \right>$ membentuk subruang dari $V$.
 
 ***
 ## Definition Used 
- * [[Ruang Vektor]]
- * [[Subruang Vektor]]
- * [[Kombinasi Linear dan Span]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Subruang Vektor]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Kombinasi Linear dan Span]]

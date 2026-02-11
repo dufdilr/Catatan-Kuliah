@@ -9,4 +9,4 @@ f(C) := \{ b \in B \ |\ \exists c \in C: b = f(c)\}
 $$
 ***
 ## Definition Used 
- * [[Fungsi]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

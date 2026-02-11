@@ -10,5 +10,5 @@ Himpunan $aS$ disebut **koset kiri** dari $S$ sedangkan $Sa$ disebut **koset kan
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]

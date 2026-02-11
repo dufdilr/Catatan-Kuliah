@@ -5,5 +5,5 @@ $$\text{diam}(F) := \sup\left\{\ d(x, y)\ \ |\ \ x, y \in F\ \right\}$$
 ***
 
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Supremum]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Supremum]]

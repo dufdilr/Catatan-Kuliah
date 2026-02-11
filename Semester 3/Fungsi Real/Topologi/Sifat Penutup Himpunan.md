@@ -12,23 +12,23 @@ Misalkan $(X, d)$ ruang metrik. Misalkan pula $E, F$ subhimpunan $X$ serta $\ove
 
 ### Sifat 1
 #### $\Rightarrow$
-Misalkan $E$ himpunan tutup. Jelas $E \subseteq E'$. Karena $E$ tutup [[Himpunan Tutup dan Himpunan Titik Limit|maka]] $E' \subseteq E$ . Terbukti $E' = E$.
+Misalkan $E$ himpunan tutup. Jelas $E \subseteq E'$. Karena $E$ tutup [[Buat Backup/Semester 3/Fungsi Real/Topologi/Himpunan Tutup dan Himpunan Titik Limit|maka]] $E' \subseteq E$ . Terbukti $E' = E$.
 #### $\Leftarrow$
-Misalkan  $E' = E$ maka $E' \subseteq E$  [[Himpunan Tutup dan Himpunan Titik Limit|sehingga]] $E$ himpunan tutup. 
+Misalkan  $E' = E$ maka $E' \subseteq E$  [[Buat Backup/Semester 3/Fungsi Real/Topologi/Himpunan Tutup dan Himpunan Titik Limit|sehingga]] $E$ himpunan tutup. 
 
 ### Sifat 2
-Berdasarkan [[Sifat Himpunan Titik Limit#^c3b08e|teorema]] jika $E \subseteq F$
+Berdasarkan [[Buat Backup/Semester 3/Fungsi Real/Topologi/Sifat Himpunan Titik Limit#^c3b08e|teorema]] jika $E \subseteq F$
     $$\overline{E} = E \cup E' \subseteq F \cup F' = \overline{F}$$
 
 ### Sifat 3
-Berdasarkan [[Sifat Himpunan Titik Limit#^a3c017|teorema]]
+Berdasarkan [[Buat Backup/Semester 3/Fungsi Real/Topologi/Sifat Himpunan Titik Limit#^a3c017|teorema]]
     $$
     \begin{align*}
     \overline{E \cup F} = (E\cup F) \cup (E\cup F)' = (E \cup F) \cup (E' \cup F') = (E \cup E') \cup (F \cup F') = \overline{E} \cup \overline{F}
     \end{align*}
     $$
 ### Sifat 4
-Berdasarkan [[Sifat Himpunan Titik Limit#^69421e|teorema]]
+Berdasarkan [[Buat Backup/Semester 3/Fungsi Real/Topologi/Sifat Himpunan Titik Limit#^69421e|teorema]]
     $$
     \begin{align*}
     \overline{E \cap F} &= (E\cap F) \cup (E\cap F)' \subseteq (E \cap F) \cup (E' \cap F') \\
@@ -39,7 +39,7 @@ Berdasarkan [[Sifat Himpunan Titik Limit#^69421e|teorema]]
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Penutup Himpunan]]
- * [[Himpunan Tutup]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Penutup Himpunan]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Himpunan Tutup]]
  

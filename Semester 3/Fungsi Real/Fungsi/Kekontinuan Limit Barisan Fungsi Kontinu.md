@@ -26,6 +26,6 @@ Terbukti $f$ kontinu.
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Barisan Fungsi Konvergen Seragam]]
- * [[Fungsi Kontinu]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Barisan Fungsi Konvergen Seragam]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Fungsi Kontinu]]

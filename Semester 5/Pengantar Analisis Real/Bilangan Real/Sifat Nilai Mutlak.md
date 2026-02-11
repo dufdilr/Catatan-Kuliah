@@ -8,7 +8,7 @@ Untuk setiap $x, y \in \mathbb{R}$ dan $a > 0$ berlaku
 ---
 ## Bukti
 ### 1.
-Ambil sebarang $x \in \mathbb{R}$. Berdasarkan [[Aksioma Bilangan Real]] (Sifat Trikotomi), maka berlaku tepat satu kondisi: $x \in \mathbb{P}, -x \in \mathbb{P}$ atau $x = 0$. Berdasarkan [[Definisi Nilai Mutlak]]:
+Ambil sebarang $x \in \mathbb{R}$. Berdasarkan [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]] (Sifat Trikotomi), maka berlaku tepat satu kondisi: $x \in \mathbb{P}, -x \in \mathbb{P}$ atau $x = 0$. Berdasarkan [[Definisi Nilai Mutlak]]:
 * **Jika $x \in \mathbb{P}$**
   Maka $|x| = x$. Karena $x \in \mathbb{P}$ maka $|x| > 0$.
 * **Jika $x = 0$**
@@ -55,6 +55,6 @@ Karena pernyataan $|x| \le |x|$ selalu benar (trivial), maka implikasinya $-|x| 
 
 ***
 ## Definition Used 
- * [[Aksioma Bilangan Real]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
  * [[Definisi Nilai Mutlak]]
  * [[Sifat Aljabar Bilangan Real]]

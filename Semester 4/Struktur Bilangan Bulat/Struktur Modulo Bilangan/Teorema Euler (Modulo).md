@@ -4,7 +4,7 @@ $$a^{\varphi(n)} \equiv 1 \pmod{n}$$
 
 ---
 ## Bukti
-Perhatikan [[Teorema Relatif Prima dengan Un|bahwa]] $U_n = a \cdot U_n$. Artinya, hasil perkalian semua elemen di $U_n$ sama dengan hasil perkalian semua elemen di $a \cdot U_n$, dengan kata lain
+Perhatikan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Teorema Relatif Prima dengan Un|bahwa]] $U_n = a \cdot U_n$. Artinya, hasil perkalian semua elemen di $U_n$ sama dengan hasil perkalian semua elemen di $a \cdot U_n$, dengan kata lain
 $$
 \begin{align*}
 \prod_{u \in U_n} u &= \prod_{u \in a \cdot U_n} u 
@@ -22,4 +22,4 @@ $$1 \equiv a^{\varphi(n)} \pmod{n}$$
 
 ***
 ## Definition Used:
-* [[Himpunan Un]]
+* [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Himpunan Un]]

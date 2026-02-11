@@ -10,9 +10,9 @@ Misalkan $a, b, c \in \mathbb{Z}$ dan $(a, b) = d$. Tinjau persamaan $ax + by = 
 
 ## Bukti
 ### 1.
-Misalkan $(a, b) = d \nmid c$. Andaikan terdapat solusi bulat $(x, y)$ yang memenuhi $ax + by = c$. Per definisi, $d \mid a$ dan $d \mid b$. Berdasarkan [[Sifat Keterbagian#^ab6a93|sifat kelinearan keterbagian]] maka $d \mid ax +by = c$, kontradiksi dengan $d \nmid c$. Maka pengandaian salah. Terbukti, tidak ada solusi bulat $(x, y)$ yang memenuhi.
+Misalkan $(a, b) = d \nmid c$. Andaikan terdapat solusi bulat $(x, y)$ yang memenuhi $ax + by = c$. Per definisi, $d \mid a$ dan $d \mid b$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Sifat Keterbagian#^ab6a93|sifat kelinearan keterbagian]] maka $d \mid ax +by = c$, kontradiksi dengan $d \nmid c$. Maka pengandaian salah. Terbukti, tidak ada solusi bulat $(x, y)$ yang memenuhi.
 ### 2.
-Misalkan $(a, b) = d \mid c$. Tulis $c = dm$ untuk suatu $m \in \mathbb{Z}$. Berdasarkan [[Teorema Bezout]] maka
+Misalkan $(a, b) = d \mid c$. Tulis $c = dm$ untuk suatu $m \in \mathbb{Z}$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Teorema Bezout]] maka
 $$ d = ap + bq$$
 untuk suatu $p, q \in \mathbb{Z}$. Maka, $apm + bqm = dm = c$. Terbukti terdapat solusi bulat.
 
@@ -27,7 +27,7 @@ Lebih lanjut, misalkan $x, y$ adalah solusi bulat dari persamaan $ax + by = c$. 
 $$
 a(x - x_0) + b(y - y_0) = 0 \quad \Rightarrow \quad a(x - x_0) = -b (y - y_0) \quad \Rightarrow \quad \frac{a}{d}(x - x_0) = - \frac{b}{d} (y - y_0)
 $$
-Perhatikan bahwa $(a, b) = d$ [[Hasil Bagi FPB Relatif Prima|maka]] $\left(\dfrac{a}{d}, \dfrac{b}{d}\right) = 1$. Perhatikan bahwa $\dfrac{b}{d} \mid  \dfrac{a}{d}(x - x_0)$. Karena $\left(\dfrac{a}{d}, \dfrac{b}{d}\right) = 1$ maka haruslah $\dfrac{b}{d} \mid (x - x_0)$. Berarti
+Perhatikan bahwa $(a, b) = d$ [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Hasil Bagi FPB Relatif Prima|maka]] $\left(\dfrac{a}{d}, \dfrac{b}{d}\right) = 1$. Perhatikan bahwa $\dfrac{b}{d} \mid  \dfrac{a}{d}(x - x_0)$. Karena $\left(\dfrac{a}{d}, \dfrac{b}{d}\right) = 1$ maka haruslah $\dfrac{b}{d} \mid (x - x_0)$. Berarti
 $$
 x - x_0 = \frac{b}{d} n \quad \Rightarrow \quad x = x_0 + \frac{b}{d}n
 $$
@@ -45,5 +45,5 @@ $$	x = \frac{b}{d} n + x_0 \quad \text{ dan } \quad y = - \frac{a}{d}n + y_0
 
 ***
 ## Definition Used 
- * [[Faktor Persekutuan Terbesar]]
- * [[Keterbagian]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Faktor Persekutuan Terbesar]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]

@@ -28,9 +28,9 @@ ur &= \left( \sum_{j=1}^{n} x_{j}y_{j} \right) r = \sum_{j=1}^{n} (x_{j}y_{j})r 
 $$
 Karena $I_{1}$ ideal, maka untuk setiap $j$, $rx_{j} \in I_{1}$. Demikian pula karena $I_{2}$ ideal, maka untuk setiap $j$, $y_{j}r \in I_{2}$. Maka, $ur, ru \in I$
 
-Berdasarkan [[Karakterisasi Ideal]] maka $I = I_{1}I_{2}$ membentuk ideal dari $A$.
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Karakterisasi Ideal]] maka $I = I_{1}I_{2}$ membentuk ideal dari $A$.
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]

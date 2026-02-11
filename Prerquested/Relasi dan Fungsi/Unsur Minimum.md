@@ -1,9 +1,9 @@
 #Definisi 
 
-Misalkan $(A, \le)$ membentuk [[Relasi Urutan Parsial|Himpunan Terurut Sebagian]]. Unsur $u \in A$ disebut **unsur minimum** jika untuk setiap $a \in A$ berlaku
+Misalkan $(A, \le)$ membentuk [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Urutan Parsial|Himpunan Terurut Sebagian]]. Unsur $u \in A$ disebut **unsur minimum** jika untuk setiap $a \in A$ berlaku
 $$
 u \le a
 $$
 ***
 ## Definition Used 
- * [[Relasi Urutan Parsial]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Urutan Parsial]]

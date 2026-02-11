@@ -20,5 +20,5 @@ $$\forall\ k \ge n: \quad I_k = I_n \quad $$
 
 ***
 ## Definition Used 
- * [[Daerah Ideal Utama]]
- * [[Ideal Sejati]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Daerah Ideal Utama]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal Sejati]]

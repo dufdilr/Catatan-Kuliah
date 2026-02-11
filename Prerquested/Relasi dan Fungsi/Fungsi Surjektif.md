@@ -6,4 +6,4 @@ $$\forall b \in B, \ \exists\ a \in A: f(a) = b$$
 
 ***
 ## Definition Used:
-* [[Fungsi]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

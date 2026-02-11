@@ -24,7 +24,7 @@ $$
 $$
 Terbukti $[k_{1}]_{n} = [k_{2}]_{n}$. Maka $\phi$ bersifat injektif.
 
-Ambil $f \in \text{Aut}\left({\mathbb{Z}_{n}}\right)$. Berdasarkan [[Automorfisma Zn|Teorema]] maka terdapat $k \in \mathbb{Z}$ dengan $(k, n) = 1$ sedemikian sehingga
+Ambil $f \in \text{Aut}\left({\mathbb{Z}_{n}}\right)$. Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Automorfisma Zn|Teorema]] maka terdapat $k \in \mathbb{Z}$ dengan $(k, n) = 1$ sedemikian sehingga
 $$
 f([x]_{n}) = [kx]_{n} = \phi_k([x]_{n})
 $$
@@ -37,5 +37,5 @@ $$
 
 ***
 ## Definition Used 
- * [[Automorfisma Zn]]
- * [[Grup Perkalian Un]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Automorfisma Zn]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Grup Perkalian Un]]

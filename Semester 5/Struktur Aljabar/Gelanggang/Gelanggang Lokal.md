@@ -4,5 +4,5 @@ Misalkan $(R, +, \cdot)$ suatu gelanggang. Gelanggang $R$ disebut **lokal** jika
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Ideal (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Ideal (Ring)]]

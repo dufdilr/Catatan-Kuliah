@@ -16,11 +16,11 @@ Bilangan Bulat adalah himpunan yang dilengkapi dengan operasi $+$ dan $\times$ y
 	1. $a + b \in \mathbb{N}$
 	2. $a \times b \in \mathbb{N}$
 	3. $z \in \mathbb{N}$ xatau $-z \in \mathbb{N}$ xatau $z = 0$ (Tepat satu yang benar)
-* **[[Aksioma Urutan Sempurna]]**
+* **[[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Urutan Sempurna]]**
 	Untuk setiap himpunan $A \subseteq \mathbb{N}$ terdapat unsur terkecil di $A$. Dengan kata lain, terdapat $u \in A$ sehingga untuk setiap $a \in A$ berlaku $u \le a$.
 
 ***
 ## Definition Used
-* [[Himpunan]]
-* [[Operasi]]
-* [[Bilangan Asli]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Operasi]]
+* [[Buat Backup/Prerquested/Bilangan Asli]]

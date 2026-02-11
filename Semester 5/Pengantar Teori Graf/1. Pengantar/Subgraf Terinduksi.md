@@ -15,4 +15,4 @@ dimana $L := \{ v \in V(G) \ | \ \exists e \in E_{1}: v \in e\}$ dan $\phi_{E_{1
 
 ***
 ## Definition Used
-* [[Subgraf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Subgraf]]

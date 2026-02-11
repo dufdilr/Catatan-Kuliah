@@ -10,4 +10,4 @@ untuk suatu $\lambda \in [0, 1]$. Lebih lanjut, jika $\lambda \in (0, 1)$ maka d
 
 ## Definition Used
 
-* [[Ruang Vektor]]
+* [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]

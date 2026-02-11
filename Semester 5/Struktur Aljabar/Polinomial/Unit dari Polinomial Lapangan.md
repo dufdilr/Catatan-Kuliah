@@ -10,7 +10,7 @@ Misalkan $f(x)$ adalah unit dari $\mathbb{F}[x]$. Artinya, terdapat $g(x) \in \m
 $$
 f(x)g(x)=1(x)
 $$
-Perhatikan bahwa $1(x)$ adalah polinomial konstan, maka $\deg1(x) = 0$. Karena $\mathbb{F}[x]$ lapangan [[Lapangan Sebagai Daerah Integral|maka]] $\mathbb{F}[x]$ daerah integral. Akibatnya
+Perhatikan bahwa $1(x)$ adalah polinomial konstan, maka $\deg1(x) = 0$. Karena $\mathbb{F}[x]$ lapangan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Daerah Integral/Lapangan Sebagai Daerah Integral|maka]] $\mathbb{F}[x]$ daerah integral. Akibatnya
 $$
 \deg(fg) = \deg(f) +\deg(g) = 0
 $$
@@ -27,7 +27,7 @@ Terbukti $f(x)$ adalah unit di $\mathbb{F}[x]$.
 
 ***
 ## Definition Used 
- * [[Lapangan]]
- * [[Gelanggang Polinomial]]
- * [[Unsur Unit (Ring)]]
- * [[Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Lapangan/Lapangan]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Gelanggang Polinomial]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Unsur Unit (Ring)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Polinomial/Polinomial]]

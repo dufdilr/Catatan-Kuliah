@@ -17,5 +17,5 @@ $$
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Tetangga dan Insiden]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Tetangga dan Insiden]]

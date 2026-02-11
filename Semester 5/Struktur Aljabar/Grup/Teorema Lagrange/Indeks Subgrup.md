@@ -6,7 +6,7 @@ $$
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup]]
- * [[Himpunan Hasil Bagi]]
- * [[Kardinalitas Himpunan]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Himpunan Hasil Bagi]]
+ * [[Buat Backup/Prerquested/Naive Set/Kardinalitas Himpunan]]

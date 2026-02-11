@@ -8,6 +8,6 @@ $$
 
 ***
 ## Definition Used:
-* [[ Ruang Vektor]]
-* [[Subruang Vektor]]
-* [[ Jumlah Subruang]]
+* [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Ruang Vektor]]
+* [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Subruang Vektor]]
+* [[Buat Backup/Semester 4/Aljabar Linear/Ruang Vektor Umum/Jumlah Subruang]]

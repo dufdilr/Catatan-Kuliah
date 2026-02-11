@@ -23,7 +23,7 @@ $$
 &= \sum_{k\mid n}\left( f(k) \sum_{d \mid \left( \frac{n}{k} \right)} \mu(d)\right)
 \end{align*}
 $$
-Berdasarkan [[Summation Aritmatika dari Mobius|teorema]], berlaku
+Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Summation Aritmatika dari Mobius|teorema]], berlaku
 $$
 \begin{align*}
 \sum_{d \mid \left( \frac{n}{k} \right)} \mu(d) = 
@@ -42,6 +42,6 @@ $$
 
 ***
 ## Definition Used 
- * [[Fungsi Mobius]]
- * [[Fungsi Multiplikatif]]
- * [[Fungsi Summation Aritmatika]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Mobius]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Multiplikatif]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Summation Aritmatika]]

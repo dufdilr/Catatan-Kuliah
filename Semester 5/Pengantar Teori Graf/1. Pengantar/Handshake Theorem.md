@@ -13,5 +13,5 @@ $$
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Matriks Insidensi]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Matriks Insidensi]]

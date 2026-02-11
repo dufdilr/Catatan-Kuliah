@@ -20,5 +20,5 @@ Karena $\forall n \in \mathbb{N}$ berlaku $d(x_n, c) < M$, artinya $(x_{n})$ ter
 
 ***
 ## Definition Used:
-* [[Barisan Cauchy (Metrik)]]
-* [[Barisan Terbatas (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Cauchy (Metrik)]]
+* [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Terbatas (Metrik)]]

@@ -10,7 +10,7 @@ Perhatikan bahwa untuk setiap $i \in \{ 1, 2, \cdots, n \}$
 $$
 P(E|F) = \frac{P(E \cap F)}{P(F)} \quad \Rightarrow \quad P(E \cap F) = P(E|F) \cdot P(F)
 $$
-[[Peluang Bersyarat Berpartisi|Lebih lanjut,]]
+[[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Peluang Bersyarat Berpartisi|Lebih lanjut,]]
 $$
 P(A) = \sum_{k=1}^n P(A \cap B_{k}) = \sum_{k=1}^nP(A|B_{k}) \cdot P(B_{k})
 $$
@@ -21,5 +21,5 @@ $$
 
 ***
 ## Definition Used
-* [[Ruang Peluang]]
-* [[Peluang Bersyarat]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Ruang Peluang]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Peluang Bersyarat]]

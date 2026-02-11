@@ -12,6 +12,6 @@ dengan $i_A:A \to A$ dan $i_B:B \to B$ sehingga $i_A(a) = a$ dan $i_B(b)= b$ unt
 
 ***
 ## Definition Used 
- * [[Fungsi]]
- * [[Fungsi Bijektif]]
- * [[Komposisi Fungsi]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Komposisi Fungsi]]

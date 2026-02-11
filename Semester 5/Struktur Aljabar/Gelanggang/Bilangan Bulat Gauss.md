@@ -15,4 +15,4 @@ $$
 
 ***
 ## Definition Used 
- * [[Aksioma Bilangan Bulat]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Bilangan Bulat]]

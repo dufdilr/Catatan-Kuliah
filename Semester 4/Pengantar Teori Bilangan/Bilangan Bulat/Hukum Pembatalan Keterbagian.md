@@ -3,8 +3,8 @@ Jika $a \mid bc$ dan $(a, b) = 1$ maka $a \mid c$
 
 ---
 ## Bukti
-Jelas berdasarkan [[Aturan Pembagian Keterbagian]]
+Jelas berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aturan Pembagian Keterbagian]]
 
 ***
 ## Definition Used:
-* [[Keterbagian]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]

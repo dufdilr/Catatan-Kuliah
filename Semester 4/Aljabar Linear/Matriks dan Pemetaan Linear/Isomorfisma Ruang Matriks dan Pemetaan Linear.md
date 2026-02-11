@@ -1,12 +1,12 @@
 #Teorema 
-Misalkan $C : \mathcal{L}(\mathbb{F}^n, \mathbb{F}^m) \to M_{m \times n}(\mathbb{F})$ yang memetakan pemetaan linear ke [[Matriks dari Pemetaan Linear Fn|Matriks Representasi]]. Fungsi $C$ adalah fungsi **Isomorfisma** Ruang Vektor.
+Misalkan $C : \mathcal{L}(\mathbb{F}^n, \mathbb{F}^m) \to M_{m \times n}(\mathbb{F})$ yang memetakan pemetaan linear ke [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks dari Pemetaan Linear Fn|Matriks Representasi]]. Fungsi $C$ adalah fungsi **Isomorfisma** Ruang Vektor.
 
 ---
 ## Bukti
 
 ### Pemetaan Linear
 
-Misalkan $S, T \in \mathcal{L}(\mathbb{F}^n, \mathbb{F}^m)$, maka [[Matriks dari Pemetaan Linear Fn|Matriks Representasi]] dari $T$ dapat dituliskan sebagai
+Misalkan $S, T \in \mathcal{L}(\mathbb{F}^n, \mathbb{F}^m)$, maka [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks dari Pemetaan Linear Fn|Matriks Representasi]] dari $T$ dapat dituliskan sebagai
 $$
 \begin{align*}
 \mathbf{A_S} &= 
@@ -61,7 +61,7 @@ $$
 Maka $C$ adalah pemetaan linear.
 
 ### Invertibel
-Ambil $\mathbf{A} \in M_{m \times n}(\mathbb{F})$. Jelas berdasarkan [[Matriks Sebagai Pemetaan Linear]], dapat dibentuk pemetaan linear $A \in \mathcal{L}(\mathbb{F}^n , \mathbb{F}^m)$ sehingga
+Ambil $\mathbf{A} \in M_{m \times n}(\mathbb{F})$. Jelas berdasarkan [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Matriks Sebagai Pemetaan Linear]], dapat dibentuk pemetaan linear $A \in \mathcal{L}(\mathbb{F}^n , \mathbb{F}^m)$ sehingga
 $$
 \mathbf{A}v = A(v)
 $$
@@ -74,6 +74,6 @@ $$
 
 ***
 ## Definition Used 
- * [[Ruang Vektor Matriks]]
- * [[Ruang Vektor Pemetaan Linear]]
- * [[Isomorfisma (Ruang Vektor)]]
+ * [[Buat Backup/Semester 3/Aljabar Linier Elementer/SPL dan Matriks/Ruang Vektor Matriks]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Ruang Vektor Pemetaan Linear]]
+ * [[Buat Backup/Semester 4/Aljabar Linear/Matriks dan Pemetaan Linear/Isomorfisma (Ruang Vektor)]]

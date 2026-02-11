@@ -7,5 +7,5 @@ Suatu sistem $(G, *)$ disebut **grup** jika
 
 ***
 ## Definition Used:
-* [[Sistem]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Sistem]]
 

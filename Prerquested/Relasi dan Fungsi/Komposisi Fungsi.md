@@ -8,5 +8,5 @@ untuk setiap $a \in A$.
 
 ***
 ## Definition Used 
- * [[Himpunan]]
- * [[Fungsi]]
+ * [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]

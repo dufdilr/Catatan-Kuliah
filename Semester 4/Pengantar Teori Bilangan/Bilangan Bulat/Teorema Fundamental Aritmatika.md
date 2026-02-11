@@ -9,9 +9,9 @@ dengan $p_i$ bilangan prima dan $a_i$ bilangan asli secara **tunggal**.
 ---
 ## Bukti
 
-Sebelumnya telah ditunjukkan [[Dekomposisi Prima|keberadaan dekomposisi prima]]. Akan dibuktikan ketunggalannya. 
+Sebelumnya telah ditunjukkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Dekomposisi Prima|keberadaan dekomposisi prima]]. Akan dibuktikan ketunggalannya. 
 
-Andaikan terdapat bilangan asli $m>1$ sehingga dapat dituliskan sebagai perkalian bilangan prima secara tidak tunggal. Berdasarkan [[Aksioma Urutan Sempurna]], misalkan $m_0$ adalah bilangan asli terkecil yang memenuhi, maka dapat dituliskan
+Andaikan terdapat bilangan asli $m>1$ sehingga dapat dituliskan sebagai perkalian bilangan prima secara tidak tunggal. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Aksioma Urutan Sempurna]], misalkan $m_0$ adalah bilangan asli terkecil yang memenuhi, maka dapat dituliskan
 $$m_0 = p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k} = q_1^{b_1} q_2^{b_2} \cdots q_l^{b_l}$$
 dengan $1< p_1 < p_2 < \cdots$, $1< q_1 < q_2 < \cdots$ dan $a_i, b_j$ adalah bilangan asli. Perhatikan bahwa 
 $$p_1 \mid q_1^{b_1} q_2^{b_2} \cdots q_l^{b_l}$$
@@ -25,4 +25,4 @@ Perhatikan bahwa $m_1 < m_0$. Artinya, $m_1$ dapat dituliskan sebagai perkalian 
 
 ***
 ## Definition Used:
-* [[Bilangan Prima]]
+* [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Bilangan Prima]]

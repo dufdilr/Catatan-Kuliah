@@ -10,6 +10,6 @@ Sistem $(R, +, \cdot)$ disebut **gelanggang** jika memenuhi
 ***
 
 ## Definition Used 
- * [[Grup]]
- * [[Grup Komutatif]]
- * [[Sistem Asosiatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Komutatif]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Sistem Asosiatif]]

@@ -8,6 +8,6 @@ Secara notasi, jika $(a, b) \in f$ dituliskan $f(a) = b$.
 
 ***
 ## Definition Used:
-* [[Himpunan]]
-* [[Relasi]]
-* [[Perkalian Kartesian]]
+* [[Buat Backup/Prerquested/Naive Set/Himpunan]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Perkalian Kartesian]]

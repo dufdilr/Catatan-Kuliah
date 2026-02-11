@@ -4,5 +4,5 @@ Misalkan $X$ suatu peubah acak dari ruang sampel $S$. Jika fungsi distribusi kum
 
 ***
 ## Definition Used
-* [[Peubah Acak]]
-* [[Fungsi Distribusi Kumulatif]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Peubah Acak]]
+* [[Buat Backup/Semester 5/Teori Peluang/Pengantar Peluang/Fungsi Distribusi Kumulatif]]

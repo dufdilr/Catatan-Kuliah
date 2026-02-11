@@ -6,6 +6,6 @@ Misalkan $G$ dan $H$ graf. Jika $G \cong H$ maka $G$ dan $H$ memiliki barisan de
 
 ***
 ## Definition Used
-* [[Graf]]
-* [[Isomorfisma Graf]]
-* [[Barisan Derajat]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Isomorfisma Graf]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Barisan Derajat]]

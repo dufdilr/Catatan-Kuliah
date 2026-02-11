@@ -10,6 +10,6 @@ Kemudian, jika terdapat fungsi isomorfisma dari gelanggang $R_1$ ke gelanggang $
 
 ***
 ## Definition Used 
- * [[Gelanggang]]
- * [[Homomorfisma (Ring)]]
- * [[Fungsi Bijektif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Gelanggang]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Gelanggang/Homomorfisma (Ring)]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]

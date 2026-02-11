@@ -9,7 +9,7 @@ membentuk suatu grup.
 ---
 ## Bukti
 ### Well-Defined Operasi
-Berdasarkan [[Karakterisasi Subgrup Normal]], $bN = Nb$. Artinya, untuk setiap $n_{1} \in N$, terdapat $n_{3} \in N$ sehingga $n_{1}b = bn_{3}$. Perhatikan bahwa
+Berdasarkan [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Karakterisasi Subgrup Normal]], $bN = Nb$. Artinya, untuk setiap $n_{1} \in N$, terdapat $n_{3} \in N$ sehingga $n_{1}b = bn_{3}$. Perhatikan bahwa
 $$
 \begin{align*}
 x \in aN\cdot bN &\ \iff x = an_{1}bn_{2}, \ \exists n_{1}, n_{2} \in N \\
@@ -54,6 +54,6 @@ Terbukti setiap unsur di $N$ memiliki inverse.
 Per definisi, terbukti $G/N$ membentuk grup dengan operasi yang telah didefinisikan di atas.
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Subgrup Normal]]
- * [[Himpunan Hasil Bagi]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Subgrup Normal/Subgrup Normal]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Teorema Lagrange/Himpunan Hasil Bagi]]

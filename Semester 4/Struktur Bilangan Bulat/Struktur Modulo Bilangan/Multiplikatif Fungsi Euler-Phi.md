@@ -14,19 +14,19 @@ Akan ditunjukkan bahwa fungsi $f$ ini terdefinisi dengan baik (*well-defined*) d
     
     Sekarang, misalkan $[x]_{mn} = [y]_{mn}$. Akan ditunjukkan $f([x]_{mn}) = f([y]_{mn})$.
     
-	 Karena $[x]_{mn} = [y]_{mn}$ maka $mn \mid (x - y)$. Berdasarkan [[Sifat Keterbagian#^39704a|sifat keterbagian]] dapat simpulkan bahwa $m \mid (x - y)$ dan $n \mid (x - y)$. Dengan kata lain, $[x]_m = [y]_m$ dan $[x]_n = [y]_n$. Sehingga
+	 Karena $[x]_{mn} = [y]_{mn}$ maka $mn \mid (x - y)$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Sifat Keterbagian#^39704a|sifat keterbagian]] dapat simpulkan bahwa $m \mid (x - y)$ dan $n \mid (x - y)$. Dengan kata lain, $[x]_m = [y]_m$ dan $[x]_n = [y]_n$. Sehingga
     $$f([x]_{mn}) = ([x]_m, [x]_n) = ([y]_m, [y]_n) = f([y]_{mn})$$
     Terbukti bahwa fungsi $f$ adalah *well-defined*.
 
 2.  **Injektif**
     Misalkan $f([x]_{mn}) = f([y]_{mn})$. Berdasarkan definisi $f$, ini berarti:
         $$([x]_m, [x]_n) = ([y]_m, [y]_n)$$
-    Akibatnya $[x]_m = [y]_m$ dan $[x]_n = [y]_n$. Dengan kata lain, $m \mid (x - y)$ dan $n \mid (x - y)$. Karena $(m, n) = 1$, [[Perkalian Relatif Prima]] $mn \mid (x - y)$. Dengan kata lain
+    Akibatnya $[x]_m = [y]_m$ dan $[x]_n = [y]_n$. Dengan kata lain, $m \mid (x - y)$ dan $n \mid (x - y)$. Karena $(m, n) = 1$, [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Perkalian Relatif Prima]] $mn \mid (x - y)$. Dengan kata lain
     $$[x]_{mn} = [y]_{mn}$$
     Terbukti $f$ adalah injektif.
 
 3.  **Surjektif**
-    Ambil $([a]_m, [b]_n) \in U_m \times U_n$. Berdasarkan [[Chinese Remainder Theorem]], karena $(m,n)=1$, maka ada solusi tunggal $x$ (modulo $mn$) untuk sistem kongruensi:
+    Ambil $([a]_m, [b]_n) \in U_m \times U_n$. Berdasarkan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Chinese Remainder Theorem]], karena $(m,n)=1$, maka ada solusi tunggal $x$ (modulo $mn$) untuk sistem kongruensi:
         $$x \equiv a \pmod{m} \quad \text{dan} \quad x \equiv b \pmod{n}$$
     Untuk $x$ ini, berlaku $f([x]_{mn}) = ([x]_m, [x]_n) = ([a]_m, [b]_n)$.  Karena setiap elemen di kodomain memiliki pra-peta, maka terbukti $f$ adalah surjektif.
 
@@ -37,5 +37,5 @@ $$\varphi(mn) = \varphi(m) \varphi(n)$$
 
 ***
 ## Definition Used 
- * [[Fungsi Euler-Phi]]
- * [[Fungsi Multiplikatif]]
+ * [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Fungsi Euler-Phi]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Fungsi Aritmatika/Fungsi Multiplikatif]]

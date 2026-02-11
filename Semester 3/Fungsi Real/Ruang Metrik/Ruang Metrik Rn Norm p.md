@@ -10,4 +10,4 @@ Himpunan $(\mathbb{R}^n, \| \cdot \|_p)$ membentuk ruang bernorm.
 
 ***
 ## Definition Used 
- * [[Ruang Bernorm]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Bernorm]]

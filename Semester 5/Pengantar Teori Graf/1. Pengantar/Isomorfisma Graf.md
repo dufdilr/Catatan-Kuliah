@@ -5,5 +5,5 @@ $$\phi_{1}(e) = \{ x, y \} \quad \Rightarrow\quad \phi_{2}(\gamma(e)) = \{ \varp
 
 ***
 ## Definition Used:
-* [[Graf|Graf]]
-* [[Fungsi Bijektif]]
+* [[Buat Backup/Semester 5/Pengantar Teori Graf/1. Pengantar/Graf|Graf]]
+* [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi Bijektif]]

@@ -46,15 +46,15 @@ Artinya $\text{ord}(f(a)) = l \mid k$. Perhatikan bahwa
 $$
 f(a)^l = e_B \quad\implies\quad f(a^l) = f(e_A) = e_B \quad\implies\quad a^l = e_A
 $$
-Artinya $\text{ord}(a) = k \mid l$. Karena $l \mid k$ dan $k \mid l$ [[Sifat Keterbagian#^d21346|maka]] $k = l$ .
+Artinya $\text{ord}(a) = k \mid l$. Karena $l \mid k$ dan $k \mid l$ [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Sifat Keterbagian#^d21346|maka]] $k = l$ .
 
 
 
 ***
 ## Definition Used 
- * [[Grup]]
- * [[Isomorfisma (Grup)]]
- * [[Grup Siklik]]
- * [[Grup Komutatif]]
- * [[Pusat Grup]]
- * [[Order Unsur Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Homomorfisma Grup/Isomorfisma (Grup)]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Siklik]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Grup Komutatif]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Pusat Grup]]
+ * [[Buat Backup/Semester 5/Struktur Aljabar/Grup/Order Unsur Grup]]

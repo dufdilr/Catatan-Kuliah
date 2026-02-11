@@ -27,7 +27,7 @@ Jelas $f(a) \in B_Y(f(a), \varepsilon)$. Artinya $a \in f^{-1}\left(B_Y(f(a), \v
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Fungsi]]
- * [[Himpunan Buka]]
- * [[Fungsi Kontinu]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Fungsi]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Topologi/Himpunan Buka]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Fungsi Kontinu]]

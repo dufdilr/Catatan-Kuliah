@@ -13,7 +13,7 @@ Misalkan $f: X \to Y$ maka ketiga pernyataan berikut ekivalen
 Misalkan $f$ kontinu.
     Perhatikan bahwa
     $$E \subseteq f^{-1}(f(E)) \subseteq f^{-1}\left(\overline{f(E)}\right)$$
-    Karena $\overline{f(E)}$ [[Penutup Himpunan|himpunan tutup]] dan $f$ fungsi kontinu maka berdasarkan [[Fungsi Kontinu dan Himpunan Tutup|teorema]], $f^{-1}\left(\overline{f(E)}\right)$ juga himpunan tutup. Berdasarkan [[Sifat Penutup Himpunan]] didapatkan
+    Karena $\overline{f(E)}$ [[Buat Backup/Semester 3/Fungsi Real/Topologi/Penutup Himpunan|himpunan tutup]] dan $f$ fungsi kontinu maka berdasarkan [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Fungsi Kontinu dan Himpunan Tutup|teorema]], $f^{-1}\left(\overline{f(E)}\right)$ juga himpunan tutup. Berdasarkan [[Buat Backup/Semester 3/Fungsi Real/Topologi/Sifat Penutup Himpunan]] didapatkan
     $$\overline{E} \subseteq \overline{f^{-1}\left(\overline{f(E)}\right)} = f^{-1}\left(\overline{f(E)}\right)$$
     Terbukti bahwa
     $$f\left(\overline{E}\right) \subseteq \overline{f(E)}$$

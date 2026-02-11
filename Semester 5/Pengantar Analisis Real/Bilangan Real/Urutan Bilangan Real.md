@@ -31,5 +31,5 @@ Berarti $a \le c$. Terbukti $\le$ bersifat transitif.
 ***
 
 ## Definition Used 
- * [[Aksioma Bilangan Real]]
- * [[Relasi Urutan Parsial]]
+ * [[Buat Backup/Semester 5/Pengantar Analisis Real/Bilangan Real/Aksioma Bilangan Real]]
+ * [[Buat Backup/Prerquested/Relasi dan Fungsi/Relasi Urutan Parsial]]

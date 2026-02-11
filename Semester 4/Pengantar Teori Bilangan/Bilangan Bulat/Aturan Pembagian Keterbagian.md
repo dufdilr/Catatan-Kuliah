@@ -8,7 +8,7 @@ $$
 ## Bukti
 
 
-Misalkan $a \mid bc$ dan $(a, b) = d$. Tulis $a = dm, \ b = dn$ untuk suatu $m \in \mathbb{Z}$. Berdasarkan [[Teorema Bezout]], terdapat $k_{1}, k_{2} \in \mathbb{Z}$  sehingga
+Misalkan $a \mid bc$ dan $(a, b) = d$. Tulis $a = dm, \ b = dn$ untuk suatu $m \in \mathbb{Z}$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Teorema Bezout]], terdapat $k_{1}, k_{2} \in \mathbb{Z}$  sehingga
 $$ak_1 + bk_2 = d \quad \Rightarrow \quad dmk_{1} + dnk_{2} = d \quad \Rightarrow \quad mk_{1} + nk_{2} = 1$$Karena $a \mid bc$ maka terdapat $k_3 \in \mathbb{Z}$ sehingga 
 $$
 bc = ak_3 \quad \Rightarrow \quad dnc = dmk_3 \quad \Rightarrow \quad nc = mk_3
@@ -19,5 +19,5 @@ Maka, terbukti $m = \frac{a}{(a, b)} \mid c$.
 
 ***
 ## Definition Used 
- * [[Keterbagian]]
- * [[Faktor Persekutuan Terbesar]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Keterbagian]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Faktor Persekutuan Terbesar]]

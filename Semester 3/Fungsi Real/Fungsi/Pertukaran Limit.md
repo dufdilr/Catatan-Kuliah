@@ -8,8 +8,8 @@ $$\lim_{x \to c} f(x)=\lim_{n\to\infty} \lim_{x \to c} f_n(x)$$
 
 ***
 ## Definition Used 
- * [[Ruang Metrik]]
- * [[Barisan Fungsi Konvergen Seragam]]
- * [[Fungsi Kontinu]]
- * [[Limit Fungsi]]
- * [[Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Ruang Metrik/Ruang Metrik]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Barisan Fungsi Konvergen Seragam]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Fungsi Kontinu]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Fungsi/Limit Fungsi]]
+ * [[Buat Backup/Semester 3/Fungsi Real/Barisan/Barisan Konvergen (Metrik)|Barisan Konvergen (Metrik)]]

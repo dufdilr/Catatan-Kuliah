@@ -9,11 +9,11 @@ Perhatikan bahwa $\text{ord}_{p}(r) = \varphi(p)=p-1$. Misalkan $\text{ord}_{p^2
 $$
 r^k \equiv 1 \mod p^2 \quad\implies\quad p^2 \mid r^k-1  \quad\implies\quad p \mid r^k-1 \quad\implies\quad r^k \equiv 1 \mod p
 $$
-Berdasarkan [[Persamaan Diophantine Modulo Pangkat|teorema]] maka $\text{ord}_{p}(r) = p-1 \mid k$. Karena $r$ akar primitif dari $p$ maka jelas $p \not\mid r$ sehingga $(p, r) = 1$. Berdasarkan [[Perkalian Relatif Prima]] maka $(p^2, r) = 1$. Berdasarkan [[Teorema Euler (Modulo)]] maka
+Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Persamaan Diophantine Modulo Pangkat|teorema]] maka $\text{ord}_{p}(r) = p-1 \mid k$. Karena $r$ akar primitif dari $p$ maka jelas $p \not\mid r$ sehingga $(p, r) = 1$. Berdasarkan [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Perkalian Relatif Prima]] maka $(p^2, r) = 1$. Berdasarkan [[Buat Backup/Semester 4/Struktur Bilangan Bulat/Struktur Modulo Bilangan/Teorema Euler (Modulo)]] maka
 $$
 r^{\varphi(p^2)} = r^{p^2-p} = r^{p(p-1)} \equiv 1 \mod p^2
 $$
-Berdasarkan  [[Persamaan Diophantine Modulo Pangkat|teorema]] maka $\text{ord}_{{p^2}}(r) = k \mid p(p-1)$.
+Berdasarkan  [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Persamaan Diophantine Modulo Pangkat|teorema]] maka $\text{ord}_{{p^2}}(r) = k \mid p(p-1)$.
 
 Perhatikan bahwa $p-1 \mid k$ dan $k \mid p(p-1)$ maka pastilah $k = p-1$ atau $k = p(p-1)$.
 * **Jika $k = p-1$**
@@ -39,5 +39,5 @@ Terbukti  $r$ atau $r+p$ adalah akar primitif dari $p^2$.
 
 ***
 ## Definition Used 
- * [[Bilangan Prima]]
- * [[Akar Primitif]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Bilangan Bulat/Bilangan Prima]]
+ * [[Buat Backup/Semester 4/Pengantar Teori Bilangan/Akar Primitif/Akar Primitif]]
